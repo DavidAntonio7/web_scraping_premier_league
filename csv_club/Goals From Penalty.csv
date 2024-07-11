@@ -1,0 +1,331 @@
+Initial Year,Rank,Club,Stat
+2022,1,Manchester City,9
+2022,2,Brentford,7
+2022,3,Brighton & Hove Albion,6
+2022,4,Newcastle United,6
+2022,5,West Ham United,6
+2022,6,Fulham,5
+2022,7,Tottenham Hotspur,5
+2022,8,Arsenal,3
+2022,9,Aston Villa,3
+2022,10,Chelsea,3
+2022,11,Everton,3
+2022,12,Leicester City,3
+2022,13,Manchester United,3
+2022,14,Nottingham Forest,3
+2022,15,Wolverhampton Wanderers,3
+2022,16,Liverpool,2
+2022,17,Southampton,2
+2022,18,Crystal Palace,1
+2022,19,Leeds United,1
+2021,1,Chelsea,8
+2021,2,Liverpool,7
+2021,3,Manchester City,7
+2021,4,Brentford,6
+2021,5,Crystal Palace,6
+2021,6,Everton,6
+2021,7,Arsenal,5
+2021,8,Leeds United,5
+2021,9,Tottenham Hotspur,5
+2021,10,Brighton & Hove Albion,4
+2021,11,Southampton,4
+2021,12,West Ham United,4
+2021,13,Aston Villa,3
+2021,14,Manchester United,3
+2021,15,Newcastle United,3
+2021,16,Norwich City,3
+2021,17,Leicester City,2
+2021,18,Burnley,1
+2021,19,Watford,1
+2021,20,Wolverhampton Wanderers,1
+2020,1,Leicester City,10
+2020,2,Manchester United,10
+2020,3,Chelsea,8
+2020,4,Arsenal,6
+2020,5,Brighton & Hove Albion,6
+2020,6,Liverpool,6
+2020,7,Newcastle United,6
+2020,8,Aston Villa,5
+2020,9,Manchester City,5
+2020,10,Southampton,5
+2020,11,Tottenham Hotspur,5
+2020,12,Everton,4
+2020,13,Leeds United,4
+2020,14,West Bromwich Albion,4
+2020,15,Wolverhampton Wanderers,4
+2020,16,Burnley,3
+2020,17,Crystal Palace,3
+2020,18,Fulham,3
+2020,19,Sheffield United,3
+2020,20,West Ham United,2
+2019,1,Manchester United,10
+2019,2,Chelsea,7
+2019,3,Watford,7
+2019,4,Manchester City,6
+2019,5,Leicester City,5
+2019,6,Liverpool,5
+2019,7,Bournemouth,4
+2019,8,West Ham United,4
+2019,9,Wolverhampton Wanderers,4
+2019,10,Arsenal,3
+2019,11,Burnley,3
+2019,12,Crystal Palace,3
+2019,13,Tottenham Hotspur,3
+2019,14,Norwich City,2
+2019,15,Southampton,2
+2019,16,Aston Villa,1
+2019,17,Brighton & Hove Albion,1
+2019,18,Everton,1
+2019,19,Sheffield United,1
+2018,1,Crystal Palace,10
+2018,2,Manchester United,9
+2018,3,Bournemouth,7
+2018,4,Liverpool,7
+2018,5,Brighton & Hove Albion,5
+2018,6,Chelsea,5
+2018,7,Leicester City,5
+2018,8,West Ham United,5
+2018,9,Arsenal,4
+2018,10,Southampton,4
+2018,11,Tottenham Hotspur,4
+2018,12,Wolverhampton Wanderers,4
+2018,13,Cardiff City,3
+2018,14,Manchester City,3
+2018,15,Burnley,2
+2018,16,Everton,2
+2018,17,Fulham,2
+2018,18,Huddersfield Town,1
+2018,19,Newcastle United,1
+2018,20,Watford,1
+2017,1,Crystal Palace,8
+2017,2,Manchester City,6
+2017,3,Brighton & Hove Albion,5
+2017,4,Everton,5
+2017,5,Leicester City,5
+2017,6,Arsenal,4
+2017,7,Bournemouth,3
+2017,8,Chelsea,3
+2017,9,Southampton,3
+2017,10,Watford,3
+2017,11,Huddersfield Town,2
+2017,12,Liverpool,2
+2017,13,Tottenham Hotspur,2
+2017,14,West Ham United,2
+2017,15,Manchester United,1
+2017,16,Swansea City,1
+2017,17,West Bromwich Albion,1
+2016,1,Bournemouth,7
+2016,2,Liverpool,7
+2016,3,Manchester City,7
+2016,4,Tottenham Hotspur,7
+2016,5,Burnley,6
+2016,6,Sunderland,5
+2016,7,Arsenal,4
+2016,8,Crystal Palace,4
+2016,9,Leicester City,4
+2016,10,Stoke City,4
+2016,11,Everton,3
+2016,12,Hull City,3
+2016,13,Manchester United,3
+2016,14,Southampton,3
+2016,15,Swansea City,3
+2016,16,Watford,3
+2016,17,West Ham United,3
+2016,18,Chelsea,2
+2016,19,Middlesbrough,2
+2016,20,West Bromwich Albion,1
+2015,1,Leicester City,10
+2015,2,Watford,6
+2015,3,Manchester City,5
+2015,4,Stoke City,5
+2015,5,Swansea City,5
+2015,6,Tottenham Hotspur,5
+2015,7,Chelsea,4
+2015,8,Crystal Palace,4
+2015,9,Everton,4
+2015,10,West Ham United,4
+2015,11,Bournemouth,3
+2015,12,Manchester United,3
+2015,13,Newcastle United,3
+2015,14,Southampton,3
+2015,15,Sunderland,3
+2015,16,Aston Villa,2
+2015,17,Liverpool,2
+2015,18,Arsenal,1
+2015,19,Norwich City,1
+2015,20,West Bromwich Albion,1
+2014,1,Manchester City,7
+2014,2,Arsenal,6
+2014,3,Crystal Palace,5
+2014,4,Liverpool,5
+2014,5,Chelsea,4
+2014,6,Everton,4
+2014,7,Sunderland,4
+2014,8,West Bromwich Albion,4
+2014,9,Leicester City,3
+2014,10,Manchester United,3
+2014,11,Queens Park Rangers,3
+2014,12,Stoke City,3
+2014,13,Tottenham Hotspur,3
+2014,14,Southampton,2
+2014,15,Swansea City,2
+2014,16,Aston Villa,1
+2014,17,Burnley,1
+2014,18,Hull City,1
+2014,19,Newcastle United,1
+2014,20,West Ham United,1
+2013,1,Liverpool,10
+2013,2,Manchester City,6
+2013,3,Sunderland,6
+2013,4,Chelsea,5
+2013,5,Crystal Palace,5
+2013,6,Manchester United,5
+2013,7,Tottenham Hotspur,5
+2013,8,Stoke City,4
+2013,9,Swansea City,4
+2013,10,Arsenal,3
+2013,11,Everton,3
+2013,12,Southampton,3
+2013,13,Aston Villa,2
+2013,14,Fulham,2
+2013,15,Hull City,2
+2013,16,Newcastle United,2
+2013,17,West Bromwich Albion,2
+2013,18,West Ham United,2
+2013,19,Cardiff City,1
+2013,20,Norwich City,1
+2012,1,Chelsea,9
+2012,2,Fulham,6
+2012,3,Arsenal,5
+2012,4,Liverpool,5
+2012,5,West Bromwich Albion,5
+2012,6,Manchester City,4
+2012,7,Manchester United,4
+2012,8,Newcastle United,4
+2012,9,Reading,4
+2012,10,Sunderland,4
+2012,11,West Ham United,4
+2012,12,Aston Villa,3
+2012,13,Southampton,3
+2012,14,Stoke City,3
+2012,15,Everton,2
+2012,16,Norwich City,1
+2012,17,Queens Park Rangers,1
+2012,18,Wigan Athletic,1
+2011,1,Manchester United,9
+2011,2,Manchester City,7
+2011,3,Bolton Wanderers,5
+2011,4,Everton,5
+2011,5,Swansea City,5
+2011,6,Wigan Athletic,5
+2011,7,Blackburn Rovers,4
+2011,8,Chelsea,4
+2011,9,Stoke City,4
+2011,10,Tottenham Hotspur,4
+2011,11,Aston Villa,3
+2011,12,Fulham,3
+2011,13,Wolverhampton Wanderers,3
+2011,14,Arsenal,2
+2011,15,Newcastle United,2
+2011,16,Norwich City,2
+2011,17,Queens Park Rangers,2
+2011,18,Liverpool,1
+2011,19,Sunderland,1
+2011,20,West Bromwich Albion,1
+2010,1,Manchester City,8
+2010,2,Blackpool,7
+2010,3,Chelsea,6
+2010,4,Liverpool,6
+2010,5,Newcastle United,5
+2010,6,Tottenham Hotspur,5
+2010,7,West Ham United,5
+2010,8,Arsenal,4
+2010,9,Aston Villa,4
+2010,10,Bolton Wanderers,4
+2010,11,Sunderland,4
+2010,12,West Bromwich Albion,4
+2010,13,Everton,3
+2010,14,Manchester United,3
+2010,15,Stoke City,3
+2010,16,Wolverhampton Wanderers,3
+2010,17,Birmingham City,2
+2010,18,Fulham,2
+2010,19,Wigan Athletic,2
+2010,20,Blackburn Rovers,1
+2009,1,Chelsea,11
+2009,2,West Ham United,7
+2009,3,Burnley,6
+2009,4,Hull City,6
+2009,5,Manchester United,6
+2009,6,Sunderland,6
+2009,7,Aston Villa,5
+2009,8,Everton,5
+2009,9,Manchester City,5
+2009,10,Bolton Wanderers,4
+2009,11,Fulham,4
+2009,12,Arsenal,3
+2009,13,Blackburn Rovers,3
+2009,14,Liverpool,3
+2009,15,Portsmouth,3
+2009,16,Birmingham City,2
+2009,17,Stoke City,2
+2009,18,Tottenham Hotspur,2
+2009,19,Wolverhampton Wanderers,2
+2009,20,Wigan Athletic,1
+2008,1,Manchester City,6
+2008,2,Arsenal,5
+2008,3,Fulham,5
+2008,4,Liverpool,5
+2008,5,Stoke City,5
+2008,6,Wigan Athletic,5
+2008,7,Aston Villa,4
+2008,8,Blackburn Rovers,4
+2008,9,Everton,4
+2008,10,Manchester United,4
+2008,11,Newcastle United,4
+2008,12,Hull City,3
+2008,13,Tottenham Hotspur,3
+2008,14,West Bromwich Albion,3
+2008,15,Chelsea,2
+2008,16,Portsmouth,2
+2008,17,Middlesbrough,1
+2008,18,Sunderland,1
+2008,19,West Ham United,1
+2007,1,Chelsea,7
+2007,2,Aston Villa,6
+2007,3,Birmingham City,6
+2007,4,Manchester United,6
+2007,5,Arsenal,5
+2007,6,Blackburn Rovers,5
+2007,7,Liverpool,5
+2007,8,Newcastle United,4
+2007,9,Portsmouth,4
+2007,10,Tottenham Hotspur,4
+2007,11,Wigan Athletic,4
+2007,12,Fulham,2
+2007,13,Manchester City,2
+2007,14,Middlesbrough,2
+2007,15,Reading,2
+2007,16,West Ham United,2
+2007,17,Everton,1
+2007,18,Sunderland,1
+2006,1,Arsenal,10
+2006,2,Everton,8
+2006,3,Aston Villa,6
+2006,4,Bolton Wanderers,6
+2006,5,Liverpool,6
+2006,6,Tottenham Hotspur,6
+2006,7,Blackburn Rovers,5
+2006,8,Manchester United,5
+2006,9,Newcastle United,5
+2006,10,Charlton Athletic,4
+2006,11,Middlesbrough,4
+2006,12,Chelsea,3
+2006,13,Fulham,3
+2006,14,Reading,3
+2006,15,Watford,3
+2006,16,Wigan Athletic,3
+2006,17,Manchester City,2
+2006,18,Portsmouth,2
+2006,19,Sheffield United,2
+2006,20,West Ham United,1

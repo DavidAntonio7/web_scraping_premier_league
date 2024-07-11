@@ -1,0 +1,386 @@
+Initial Year,Rank,Player,Club,Nationality,Stat
+2022,1,Dean Henderson,-,England,2
+2022,1,José Sá,Wolverhampton Wanderers,Portugal,2
+2022,1,Nick Pope,Newcastle United,England,2
+2022,4,Gavin Bazunu,-,Ireland,1
+2022,4,Alisson Becker,Liverpool,Brazil,1
+2022,4,David de Gea,-,Spain,1
+2022,4,Lukasz Fabianski,West Ham United,Poland,1
+2022,4,Fraser Forster,Tottenham Hotspur,England,1
+2022,4,Bernd Leno,Fulham,Germany,1
+2022,4,Emiliano Martínez,Aston Villa,Argentina,1
+2022,4,Jordan Pickford,Everton,England,1
+2022,4,Robert Sánchez,-,Spain,1
+2022,4,Jason Steele,Brighton & Hove Albion,England,1
+2022,4,Danny Ward,-,Wales,1
+2022,15,Hugo Lloris,Tottenham Hotspur,France,0
+2021,1,Lukasz Fabianski,West Ham United,Poland,3
+2021,2,David de Gea,-,Spain,2
+2021,2,Kasper Schmeichel,-,Denmark,2
+2021,4,Jack Butland,-,England,1
+2021,4,Ben Foster,-,England,1
+2021,4,Angus Gunn,-,Scotland,1
+2021,4,Emiliano Martínez,Aston Villa,Argentina,1
+2021,4,Freddie Woodman,-,England,1
+2021,9,Tim Krul,-,Netherlands,0
+2020,1,Alisson Becker,Liverpool,Brazil,1
+2020,1,Scott Carson,-,England,1
+2020,1,Karl Darlow,-,England,1
+2020,1,Rui Patrício,-,Portugal,1
+2020,1,Lukasz Fabianski,West Ham United,Poland,1
+2020,1,Fraser Forster,-,England,1
+2020,1,Vicente Guaita,-,Spain,1
+2020,1,Sam Johnstone,West Bromwich Albion,England,1
+2020,1,Bernd Leno,-,Germany,1
+2020,1,Emiliano Martínez,Aston Villa,Argentina,1
+2020,1,Édouard Mendy,-,Senegal,1
+2020,1,Illan Meslier,-,France,1
+2020,1,Ederson,Manchester City,Brazil,1
+2020,14,David de Gea,-,Spain,0
+2019,1,Rui Patrício,-,Portugal,2
+2019,1,Tim Krul,-,Netherlands,2
+2019,1,Kasper Schmeichel,-,Denmark,2
+2019,4,Lukasz Fabianski,West Ham United,Poland,1
+2019,4,Ben Foster,-,England,1
+2019,4,Paulo Gazzaniga,-,Argentina,1
+2019,4,Dean Henderson,-,England,1
+2019,4,Bernd Leno,-,Germany,1
+2019,4,Hugo Lloris,Tottenham Hotspur,France,1
+2019,4,Alex McCarthy,-,England,1
+2019,4,Michael McGovern,-,Northern Ireland,1
+2019,4,Nick Pope,Burnley,England,1
+2019,4,Aaron Ramsdale,-,England,1
+2019,4,Pepe Reina,-,Spain,1
+2019,15,Mathew Ryan,-,Australia,0
+2018,1,Neil Etheridge,-,Philippines,3
+2018,1,Jordan Pickford,Everton,England,3
+2018,3,Hugo Lloris,Tottenham Hotspur,France,2
+2018,4,Kepa,-,Spain,1
+2018,4,Marcus Bettinelli,-,England,1
+2018,4,Lukasz Fabianski,West Ham United,Poland,1
+2018,4,Ben Foster,-,England,1
+2018,4,Angus Gunn,-,Scotland,1
+2018,4,Joe Hart,-,England,1
+2018,4,Wayne Hennessey,-,Wales,1
+2018,4,Jonas Lössl,-,Denmark,1
+2017,1,Lukasz Fabianski,Swansea City,Poland,3
+2017,2,Jonas Lössl,-,Denmark,2
+2017,2,Mathew Ryan,-,Australia,2
+2017,2,Ederson,Manchester City,Brazil,2
+2017,2,Kasper Schmeichel,-,Denmark,2
+2017,6,Asmir Begovic,-,Bosnia & Herzegovina,1
+2017,6,Petr Cech,-,Czech Republic,1
+2017,6,Martin Dúbravka,-,Slovakia,1
+2017,6,Robert Elliot,-,Ireland,1
+2017,6,Fraser Forster,-,England,1
+2017,6,Joe Hart,-,England,1
+2017,6,Loris Karius,Liverpool,Germany,1
+2017,6,Simon Mignolet,-,Belgium,1
+2017,6,Jordan Pickford,-,England,1
+2017,6,Nick Pope,Burnley,England,1
+2016,1,Artur Boruc,-,Poland,2
+2016,1,Eldin Jakupovic,-,Switzerland,2
+2016,1,Simon Mignolet,-,Belgium,2
+2016,1,Maarten Stekelenburg,-,Netherlands,2
+2016,5,Claudio Bravo,-,Chile,1
+2016,5,Willy Caballero,-,Argentina,1
+2016,5,Heurelho Gomes,-,Brazil,1
+2016,5,Lukasz Fabianski,Swansea City,Poland,1
+2016,5,Fraser Forster,-,England,1
+2016,5,Shay Given,-,Ireland,1
+2016,5,Tom Heaton,-,England,1
+2016,5,Darren Randolph,-,Ireland,1
+2016,5,Sergio Romero,-,Argentina,1
+2015,1,Heurelho Gomes,-,Brazil,3
+2015,2,Artur Boruc,-,Poland,2
+2015,2,Adrián,-,Spain,2
+2015,4,Mark Bunn,-,England,1
+2015,4,Thibaut Courtois,-,Belgium,1
+2015,4,Karl Darlow,-,England,1
+2015,4,Simon Mignolet,-,Belgium,1
+2014,1,Adrián,-,Spain,3
+2014,1,Adrián,-,Spain,3
+2014,1,Adrián,-,Spain,3
+2014,1,Adrián,-,Spain,3
+2014,1,Adrián,-,Spain,3
+2014,1,Adrián,-,Spain,3
+2014,1,Adrián,-,Spain,3
+2014,1,Adrián,-,Spain,3
+2014,1,Adrián,-,Spain,3
+2014,1,Adrián,-,Spain,3
+2014,2,Robert Green,-,England,2
+2014,2,Tom Heaton,-,England,2
+2014,2,Allan McGregor,-,Scotland,2
+2014,2,Simon Mignolet,-,Belgium,2
+2014,2,Julian Speroni,-,Argentina,2
+2014,2,Robert Green,-,England,2
+2014,2,Tom Heaton,-,England,2
+2014,2,Allan McGregor,-,Scotland,2
+2014,2,Simon Mignolet,-,Belgium,2
+2014,2,Julian Speroni,-,Argentina,2
+2014,2,Robert Green,-,England,2
+2014,2,Tom Heaton,-,England,2
+2014,2,Allan McGregor,-,Scotland,2
+2014,2,Simon Mignolet,-,Belgium,2
+2014,2,Julian Speroni,-,Argentina,2
+2014,2,Robert Green,-,England,2
+2014,2,Tom Heaton,-,England,2
+2014,2,Allan McGregor,-,Scotland,2
+2014,2,Simon Mignolet,-,Belgium,2
+2014,2,Julian Speroni,-,Argentina,2
+2014,2,Robert Green,-,England,2
+2014,2,Tom Heaton,-,England,2
+2014,2,Allan McGregor,-,Scotland,2
+2014,2,Simon Mignolet,-,Belgium,2
+2014,2,Julian Speroni,-,Argentina,2
+2014,2,Robert Green,-,England,2
+2014,2,Tom Heaton,-,England,2
+2014,2,Allan McGregor,-,Scotland,2
+2014,2,Simon Mignolet,-,Belgium,2
+2014,2,Julian Speroni,-,Argentina,2
+2014,2,Robert Green,-,England,2
+2014,2,Tom Heaton,-,England,2
+2014,2,Allan McGregor,-,Scotland,2
+2014,2,Simon Mignolet,-,Belgium,2
+2014,2,Julian Speroni,-,Argentina,2
+2014,2,Robert Green,-,England,2
+2014,2,Tom Heaton,-,England,2
+2014,2,Allan McGregor,-,Scotland,2
+2014,2,Simon Mignolet,-,Belgium,2
+2014,2,Julian Speroni,-,Argentina,2
+2014,2,Robert Green,-,England,2
+2014,2,Tom Heaton,-,England,2
+2014,2,Allan McGregor,-,Scotland,2
+2014,2,Simon Mignolet,-,Belgium,2
+2014,2,Julian Speroni,-,Argentina,2
+2014,2,Robert Green,-,England,2
+2014,2,Tom Heaton,-,England,2
+2014,2,Allan McGregor,-,Scotland,2
+2014,2,Simon Mignolet,-,Belgium,2
+2014,2,Julian Speroni,-,Argentina,2
+2014,7,David de Gea,-,Spain,1
+2014,7,Joe Hart,-,England,1
+2014,7,Hugo Lloris,Tottenham Hotspur,France,1
+2014,7,Boaz Myhill,-,Wales,1
+2014,7,David de Gea,-,Spain,1
+2014,7,Joe Hart,-,England,1
+2014,7,Hugo Lloris,Tottenham Hotspur,France,1
+2014,7,Boaz Myhill,-,Wales,1
+2014,7,David de Gea,-,Spain,1
+2014,7,Joe Hart,-,England,1
+2014,7,Hugo Lloris,Tottenham Hotspur,France,1
+2014,7,Boaz Myhill,-,Wales,1
+2014,7,David de Gea,-,Spain,1
+2014,7,Joe Hart,-,England,1
+2014,7,Hugo Lloris,Tottenham Hotspur,France,1
+2014,7,Boaz Myhill,-,Wales,1
+2014,7,David de Gea,-,Spain,1
+2014,7,Joe Hart,-,England,1
+2014,7,Hugo Lloris,Tottenham Hotspur,France,1
+2014,7,Boaz Myhill,-,Wales,1
+2014,7,David de Gea,-,Spain,1
+2014,7,Joe Hart,-,England,1
+2014,7,Hugo Lloris,Tottenham Hotspur,France,1
+2014,7,Boaz Myhill,-,Wales,1
+2014,7,David de Gea,-,Spain,1
+2014,7,Joe Hart,-,England,1
+2014,7,Hugo Lloris,Tottenham Hotspur,France,1
+2014,7,Boaz Myhill,-,Wales,1
+2014,7,David de Gea,-,Spain,1
+2014,7,Joe Hart,-,England,1
+2014,7,Hugo Lloris,Tottenham Hotspur,France,1
+2014,7,Boaz Myhill,-,Wales,1
+2014,7,David de Gea,-,Spain,1
+2014,7,Joe Hart,-,England,1
+2014,7,Hugo Lloris,Tottenham Hotspur,France,1
+2014,7,Boaz Myhill,-,Wales,1
+2014,7,David de Gea,-,Spain,1
+2014,7,Joe Hart,-,England,1
+2014,7,Hugo Lloris,Tottenham Hotspur,France,1
+2014,7,Boaz Myhill,-,Wales,1
+2013,1,Ben Foster,-,England,2
+2013,1,Tim Howard,-,United States,2
+2013,3,Asmir Begovic,-,Bosnia & Herzegovina,1
+2013,3,Brad Guzan,-,United States,1
+2013,3,Hugo Lloris,Tottenham Hotspur,France,1
+2013,3,Allan McGregor,-,Scotland,1
+2013,3,Simon Mignolet,-,Belgium,1
+2013,3,Wojciech Szczesny,-,Poland,1
+2013,3,Thomas Sørensen,-,Denmark,1
+2012,1,Mark Schwarzer,-,Australia,3
+2012,2,Kelvin Davis,-,England,2
+2012,3,Artur Boruc,-,Poland,1
+2012,3,Mark Bunn,-,England,1
+2012,3,Ben Foster,-,England,1
+2012,3,Brad Guzan,-,United States,1
+2012,3,Ali Al Habsi,-,Oman,1
+2012,3,Joe Hart,-,England,1
+2012,3,Pepe Reina,-,Spain,1
+2012,3,John Ruddy,-,England,1
+2012,3,Wojciech Szczesny,-,Poland,1
+2012,3,Michel Vorm,-,Netherlands,1
+2011,1,Ali Al Habsi,-,Oman,4
+2011,2,Ben Foster,-,England,2
+2011,2,Wayne Hennessey,Wolverhampton Wanderers,Wales,2
+2011,2,Tim Howard,-,United States,2
+2011,2,Tim Krul,Newcastle United,Netherlands,2
+2011,2,Michel Vorm,-,Netherlands,2
+2011,7,Ádám Bogdán,-,Hungary,1
+2011,7,David de Gea,-,Spain,1
+2011,7,Joe Hart,-,England,1
+2011,7,Bradley Jones,-,Australia,1
+2011,7,Simon Mignolet,-,Belgium,1
+2011,7,Paul Robinson,-,England,1
+2011,7,Declan Rudd,-,England,1
+2011,7,John Ruddy,-,England,1
+2011,7,Wojciech Szczesny,-,Poland,1
+2010,1,Heurelho Gomes,-,Brazil,2
+2010,1,Jussi Jääskeläinen,-,Finland,2
+2010,3,Manuel Almunia,-,Spain,1
+2010,3,Asmir Begovic,-,Bosnia & Herzegovina,1
+2010,3,Petr Cech,-,Czech Republic,1
+2010,3,Ben Foster,-,England,1
+2010,3,Robert Green,-,England,1
+2010,3,Ali Al Habsi,-,Oman,1
+2010,3,Joe Hart,-,England,1
+2010,3,David Stockdale,-,England,1
+2010,3,Wojciech Szczesny,-,Poland,1
+2010,3,Thomas Sørensen,-,Denmark,1
+2009,1,Heurelho Gomes,-,Brazil,3
+2009,1,Brian Jensen,-,Denmark,3
+2009,1,Thomas Sørensen,-,Denmark,3
+2009,4,Manuel Almunia,-,Spain,2
+2009,4,Shay Given,-,Ireland,2
+2009,4,Tim Howard,-,United States,2
+2009,4,Jussi Jääskeläinen,-,Finland,2
+2009,8,Petr Cech,-,Czech Republic,1
+2009,8,Robert Green,-,England,1
+2009,8,Marcus Hahnemann,-,United States,1
+2009,8,David James,-,England,1
+2009,8,Boaz Myhill,-,Wales,1
+2009,8,Pepe Reina,-,Spain,1
+2008,1,Manuel Almunia,-,Spain,2
+2008,1,Shay Given,-,Ireland,2
+2008,1,Robert Green,-,England,2
+2008,1,Manuel Almunia,-,Spain,2
+2008,1,Shay Given,-,Ireland,2
+2008,1,Robert Green,-,England,2
+2008,1,Manuel Almunia,-,Spain,2
+2008,1,Shay Given,-,Ireland,2
+2008,1,Robert Green,-,England,2
+2008,1,Manuel Almunia,-,Spain,2
+2008,1,Shay Given,-,Ireland,2
+2008,1,Robert Green,-,England,2
+2008,1,Manuel Almunia,-,Spain,2
+2008,1,Shay Given,-,Ireland,2
+2008,1,Robert Green,-,England,2
+2008,1,Manuel Almunia,-,Spain,2
+2008,1,Shay Given,-,Ireland,2
+2008,1,Robert Green,-,England,2
+2008,1,Manuel Almunia,-,Spain,2
+2008,1,Shay Given,-,Ireland,2
+2008,1,Robert Green,-,England,2
+2008,1,Manuel Almunia,-,Spain,2
+2008,1,Shay Given,-,Ireland,2
+2008,1,Robert Green,-,England,2
+2008,1,Manuel Almunia,-,Spain,2
+2008,1,Shay Given,-,Ireland,2
+2008,1,Robert Green,-,England,2
+2008,1,Manuel Almunia,-,Spain,2
+2008,1,Shay Given,-,Ireland,2
+2008,1,Robert Green,-,England,2
+2008,4,Petr Cech,-,Czech Republic,1
+2008,4,Matt Duke,-,England,1
+2008,4,Marton Fülöp,-,Hungary,1
+2008,4,Jussi Jääskeläinen,-,Finland,1
+2008,4,David James,-,England,1
+2008,4,Richard Kingson,-,Ghana,1
+2008,4,Mark Schwarzer,-,Australia,1
+2008,4,Petr Cech,-,Czech Republic,1
+2008,4,Matt Duke,-,England,1
+2008,4,Marton Fülöp,-,Hungary,1
+2008,4,Jussi Jääskeläinen,-,Finland,1
+2008,4,David James,-,England,1
+2008,4,Richard Kingson,-,Ghana,1
+2008,4,Mark Schwarzer,-,Australia,1
+2008,4,Petr Cech,-,Czech Republic,1
+2008,4,Matt Duke,-,England,1
+2008,4,Marton Fülöp,-,Hungary,1
+2008,4,Jussi Jääskeläinen,-,Finland,1
+2008,4,David James,-,England,1
+2008,4,Richard Kingson,-,Ghana,1
+2008,4,Mark Schwarzer,-,Australia,1
+2008,4,Petr Cech,-,Czech Republic,1
+2008,4,Matt Duke,-,England,1
+2008,4,Marton Fülöp,-,Hungary,1
+2008,4,Jussi Jääskeläinen,-,Finland,1
+2008,4,David James,-,England,1
+2008,4,Richard Kingson,-,Ghana,1
+2008,4,Mark Schwarzer,-,Australia,1
+2008,4,Petr Cech,-,Czech Republic,1
+2008,4,Matt Duke,-,England,1
+2008,4,Marton Fülöp,-,Hungary,1
+2008,4,Jussi Jääskeläinen,-,Finland,1
+2008,4,David James,-,England,1
+2008,4,Richard Kingson,-,Ghana,1
+2008,4,Mark Schwarzer,-,Australia,1
+2008,4,Petr Cech,-,Czech Republic,1
+2008,4,Matt Duke,-,England,1
+2008,4,Marton Fülöp,-,Hungary,1
+2008,4,Jussi Jääskeläinen,-,Finland,1
+2008,4,David James,-,England,1
+2008,4,Richard Kingson,-,Ghana,1
+2008,4,Mark Schwarzer,-,Australia,1
+2008,4,Petr Cech,-,Czech Republic,1
+2008,4,Matt Duke,-,England,1
+2008,4,Marton Fülöp,-,Hungary,1
+2008,4,Jussi Jääskeläinen,-,Finland,1
+2008,4,David James,-,England,1
+2008,4,Richard Kingson,-,Ghana,1
+2008,4,Mark Schwarzer,-,Australia,1
+2008,4,Petr Cech,-,Czech Republic,1
+2008,4,Matt Duke,-,England,1
+2008,4,Marton Fülöp,-,Hungary,1
+2008,4,Jussi Jääskeläinen,-,Finland,1
+2008,4,David James,-,England,1
+2008,4,Richard Kingson,-,Ghana,1
+2008,4,Mark Schwarzer,-,Australia,1
+2008,4,Petr Cech,-,Czech Republic,1
+2008,4,Matt Duke,-,England,1
+2008,4,Marton Fülöp,-,Hungary,1
+2008,4,Jussi Jääskeläinen,-,Finland,1
+2008,4,David James,-,England,1
+2008,4,Richard Kingson,-,Ghana,1
+2008,4,Mark Schwarzer,-,Australia,1
+2008,4,Petr Cech,-,Czech Republic,1
+2008,4,Matt Duke,-,England,1
+2008,4,Marton Fülöp,-,Hungary,1
+2008,4,Jussi Jääskeläinen,-,Finland,1
+2008,4,David James,-,England,1
+2008,4,Richard Kingson,-,Ghana,1
+2008,4,Mark Schwarzer,-,Australia,1
+2007,1,Robert Green,-,England,3
+2007,2,Brad Friedel,-,United States,2
+2007,2,Marcus Hahnemann,-,United States,2
+2007,2,David James,-,England,2
+2007,5,Manuel Almunia,-,Spain,1
+2007,5,Scott Carson,-,England,1
+2007,5,Joe Hart,-,England,1
+2007,5,Chris Kirkland,-,England,1
+2007,5,Pepe Reina,-,Spain,1
+2007,5,Kasper Schmeichel,-,Denmark,1
+2007,5,Stuart Taylor,-,England,1
+2006,1,Brad Friedel,-,United States,4
+2006,2,Scott Carson,-,England,2
+2006,2,Jussi Jääskeläinen,-,Finland,2
+2006,2,David James,-,England,2
+2006,5,Jason Brown,-,Wales,1
+2006,5,John Filan,-,Australia,1
+2006,5,Tim Howard,-,United States,1
+2006,5,Andreas Isaksson,-,Sweden,1
+2006,5,Paddy Kenny,-,Ireland,1
+2006,5,Chris Kirkland,-,England,1
+2006,5,Tomasz Kuszczak,-,Poland,1
+2006,5,Jan Lastuvka,-,Czech Republic,1
+2006,5,Henrique Hilário,-,Portugal,1
+2006,5,Edwin van der Sar,-,Netherlands,1

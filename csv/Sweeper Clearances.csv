@@ -1,0 +1,638 @@
+Initial Year,Rank,Player,Club,Nationality,Stat
+2022,1,Nick Pope,Newcastle United,England,38
+2022,2,Emiliano Martínez,Aston Villa,Argentina,34
+2022,3,Alisson Becker,Liverpool,Brazil,33
+2022,4,Illan Meslier,-,France,30
+2022,5,Bernd Leno,Fulham,Germany,25
+2022,6,David Raya,-,Spain,22
+2022,7,Kepa,-,Spain,19
+2022,8,Gavin Bazunu,-,Ireland,18
+2022,8,Jordan Pickford,Everton,England,18
+2022,10,Ederson,Manchester City,Brazil,17
+2022,10,Danny Ward,-,Wales,17
+2022,12,José Sá,Wolverhampton Wanderers,Portugal,15
+2022,12,Aaron Ramsdale,Arsenal,England,15
+2022,14,Lukasz Fabianski,West Ham United,Poland,13
+2022,15,David de Gea,-,Spain,12
+2022,16,Vicente Guaita,-,Spain,11
+2022,16,Dean Henderson,-,England,11
+2022,16,Neto,Bournemouth,Brazil,11
+2022,19,Fraser Forster,Tottenham Hotspur,England,7
+2022,19,Hugo Lloris,Tottenham Hotspur,France,7
+2022,21,Jason Steele,Brighton & Hove Albion,England,6
+2022,22,Sam Johnstone,Crystal Palace,England,5
+2022,22,Keylor Navas,-,Costa Rica,5
+2022,22,Robert Sánchez,-,Spain,5
+2022,25,Daniel Iversen,-,Denmark,4
+2022,25,Alex McCarthy,-,England,4
+2022,27,Édouard Mendy,-,Senegal,3
+2022,27,Robin Olsen,Aston Villa,Sweden,3
+2022,29,Martin Dúbravka,Newcastle United,Slovakia,2
+2022,29,Stefan Ortega,Manchester City,Germany,2
+2022,31,Wayne Hennessey,Nottingham Forest,Wales,1
+2022,31,Joel Robles,-,Spain,1
+2022,31,Marek Rodák,Fulham,Slovakia,1
+2022,31,Mark Travers,-,Ireland,1
+2022,31,Joe Whitworth,Crystal Palace,England,1
+2021,1,José Sá,Wolverhampton Wanderers,Portugal,31
+2021,2,Alisson Becker,Liverpool,Brazil,30
+2021,3,Nick Pope,Burnley,England,28
+2021,4,Hugo Lloris,Tottenham Hotspur,France,22
+2021,4,Illan Meslier,-,France,22
+2021,6,Aaron Ramsdale,Arsenal,England,21
+2021,7,Édouard Mendy,-,Senegal,19
+2021,7,Ederson,Manchester City,Brazil,19
+2021,9,Vicente Guaita,-,Spain,17
+2021,9,Jordan Pickford,Everton,England,17
+2021,11,David Raya,-,Spain,16
+2021,12,Fraser Forster,-,England,15
+2021,12,Kasper Schmeichel,-,Denmark,15
+2021,14,Emiliano Martínez,Aston Villa,Argentina,11
+2021,15,Martin Dúbravka,Newcastle United,Slovakia,9
+2021,16,David de Gea,-,Spain,7
+2021,16,Ben Foster,-,England,7
+2021,16,Tim Krul,-,Netherlands,7
+2021,19,Daniel Bachmann,-,Austria,6
+2021,19,Robert Sánchez,-,Spain,6
+2021,21,Lukasz Fabianski,West Ham United,Poland,5
+2021,21,Angus Gunn,-,Scotland,5
+2021,23,Kepa,-,Spain,4
+2021,23,Álvaro Fernández,-,Spain,4
+2021,23,Caoimhín Kelleher,Liverpool,Ireland,4
+2021,26,Jack Butland,-,England,3
+2021,27,Karl Darlow,-,England,2
+2021,27,Jonas Lössl,-,Denmark,2
+2021,27,Alex McCarthy,-,England,2
+2021,27,John Ruddy,-,England,2
+2021,27,Zack Steffen,Manchester City,United States,2
+2021,32,Asmir Begovic,-,Bosnia & Herzegovina,1
+2021,32,Willy Caballero,-,Argentina,1
+2021,32,Wayne Hennessey,Burnley,Wales,1
+2021,35,Bernd Leno,-,Germany,0
+2020,1,Nick Pope,Burnley,England,28
+2020,2,Alisson Becker,Liverpool,Brazil,25
+2020,3,Ederson,Manchester City,Brazil,16
+2020,4,Sam Johnstone,West Bromwich Albion,England,14
+2020,5,Aaron Ramsdale,-,England,13
+2020,6,Bernd Leno,-,Germany,12
+2020,6,Emiliano Martínez,Aston Villa,Argentina,12
+2020,8,Illan Meslier,-,France,11
+2020,9,David de Gea,-,Spain,10
+2020,9,Dean Henderson,-,England,10
+2020,9,Jordan Pickford,Everton,England,10
+2020,12,Édouard Mendy,-,Senegal,9
+2020,13,Vicente Guaita,-,Spain,8
+2020,13,Alex McCarthy,-,England,8
+2020,15,Robert Sánchez,-,Spain,7
+2020,16,Alphonse Areola,Fulham,France,5
+2020,16,Fraser Forster,-,England,5
+2020,16,Hugo Lloris,Tottenham Hotspur,France,5
+2020,19,Rui Patrício,-,Portugal,4
+2020,19,Martin Dúbravka,Newcastle United,Slovakia,4
+2020,19,Lukasz Fabianski,West Ham United,Poland,4
+2020,19,Adrián,Liverpool,Spain,4
+2020,19,Kasper Schmeichel,-,Denmark,4
+2020,19,Lukasz Fabianski,West Ham United,Poland,4
+2020,19,Adrián,Liverpool,Spain,4
+2020,19,Kasper Schmeichel,-,Denmark,4
+2020,19,Lukasz Fabianski,West Ham United,Poland,4
+2020,19,Adrián,Liverpool,Spain,4
+2020,19,Kasper Schmeichel,-,Denmark,4
+2020,19,Lukasz Fabianski,West Ham United,Poland,4
+2020,19,Adrián,Liverpool,Spain,4
+2020,19,Kasper Schmeichel,-,Denmark,4
+2020,19,Lukasz Fabianski,West Ham United,Poland,4
+2020,19,Adrián,Liverpool,Spain,4
+2020,19,Kasper Schmeichel,-,Denmark,4
+2020,19,Lukasz Fabianski,West Ham United,Poland,4
+2020,19,Adrián,Liverpool,Spain,4
+2020,19,Kasper Schmeichel,-,Denmark,4
+2020,19,Lukasz Fabianski,West Ham United,Poland,4
+2020,19,Adrián,Liverpool,Spain,4
+2020,19,Kasper Schmeichel,-,Denmark,4
+2020,19,Lukasz Fabianski,West Ham United,Poland,4
+2020,19,Adrián,Liverpool,Spain,4
+2020,19,Kasper Schmeichel,-,Denmark,4
+2020,24,Mathew Ryan,-,Australia,3
+2020,24,Mathew Ryan,-,Australia,3
+2020,24,Mathew Ryan,-,Australia,3
+2020,24,Mathew Ryan,-,Australia,3
+2020,24,Mathew Ryan,-,Australia,3
+2020,24,Mathew Ryan,-,Australia,3
+2020,24,Mathew Ryan,-,Australia,3
+2020,24,Mathew Ryan,-,Australia,3
+2020,25,Karl Darlow,-,England,2
+2020,25,Bailey Peacock-Farrell,-,Northern Ireland,2
+2020,25,Karl Darlow,-,England,2
+2020,25,Bailey Peacock-Farrell,-,Northern Ireland,2
+2020,25,Karl Darlow,-,England,2
+2020,25,Bailey Peacock-Farrell,-,Northern Ireland,2
+2020,25,Karl Darlow,-,England,2
+2020,25,Bailey Peacock-Farrell,-,Northern Ireland,2
+2020,25,Karl Darlow,-,England,2
+2020,25,Bailey Peacock-Farrell,-,Northern Ireland,2
+2020,25,Karl Darlow,-,England,2
+2020,25,Bailey Peacock-Farrell,-,Northern Ireland,2
+2020,25,Karl Darlow,-,England,2
+2020,25,Bailey Peacock-Farrell,-,Northern Ireland,2
+2020,25,Karl Darlow,-,England,2
+2020,25,Bailey Peacock-Farrell,-,Northern Ireland,2
+2020,27,Kepa,-,Spain,1
+2020,27,Caoimhín Kelleher,Liverpool,Ireland,1
+2020,27,Darren Randolph,West Ham United,Ireland,1
+2020,27,Marek Rodák,Fulham,Slovakia,1
+2020,27,Kepa,-,Spain,1
+2020,27,Caoimhín Kelleher,Liverpool,Ireland,1
+2020,27,Darren Randolph,West Ham United,Ireland,1
+2020,27,Marek Rodák,Fulham,Slovakia,1
+2020,27,Kepa,-,Spain,1
+2020,27,Caoimhín Kelleher,Liverpool,Ireland,1
+2020,27,Darren Randolph,West Ham United,Ireland,1
+2020,27,Marek Rodák,Fulham,Slovakia,1
+2020,27,Kepa,-,Spain,1
+2020,27,Caoimhín Kelleher,Liverpool,Ireland,1
+2020,27,Darren Randolph,West Ham United,Ireland,1
+2020,27,Marek Rodák,Fulham,Slovakia,1
+2020,27,Kepa,-,Spain,1
+2020,27,Caoimhín Kelleher,Liverpool,Ireland,1
+2020,27,Darren Randolph,West Ham United,Ireland,1
+2020,27,Marek Rodák,Fulham,Slovakia,1
+2020,27,Kepa,-,Spain,1
+2020,27,Caoimhín Kelleher,Liverpool,Ireland,1
+2020,27,Darren Randolph,West Ham United,Ireland,1
+2020,27,Marek Rodák,Fulham,Slovakia,1
+2020,27,Kepa,-,Spain,1
+2020,27,Caoimhín Kelleher,Liverpool,Ireland,1
+2020,27,Darren Randolph,West Ham United,Ireland,1
+2020,27,Marek Rodák,Fulham,Slovakia,1
+2020,27,Kepa,-,Spain,1
+2020,27,Caoimhín Kelleher,Liverpool,Ireland,1
+2020,27,Darren Randolph,West Ham United,Ireland,1
+2020,27,Marek Rodák,Fulham,Slovakia,1
+2019,1,Ben Foster,-,England,20
+2019,2,Alisson Becker,Liverpool,Brazil,19
+2019,2,Ederson,Manchester City,Brazil,19
+2019,4,Nick Pope,Burnley,England,18
+2019,5,Bernd Leno,-,Germany,15
+2019,6,Aaron Ramsdale,-,England,13
+2019,7,Kepa,-,Spain,12
+2019,8,Vicente Guaita,-,Spain,10
+2019,8,Tim Krul,-,Netherlands,10
+2019,10,Martin Dúbravka,Newcastle United,Slovakia,9
+2019,10,Paulo Gazzaniga,-,Argentina,9
+2019,10,Jordan Pickford,Everton,England,9
+2019,10,Adrián,Liverpool,Spain,9
+2019,14,Dean Henderson,-,England,8
+2019,14,Mathew Ryan,-,Australia,8
+2019,14,Kasper Schmeichel,-,Denmark,8
+2019,17,Tom Heaton,-,England,7
+2019,18,Angus Gunn,-,Scotland,6
+2019,18,Alex McCarthy,-,England,6
+2019,18,Pepe Reina,-,Spain,6
+2019,21,Lukasz Fabianski,West Ham United,Poland,4
+2019,21,Lukasz Fabianski,West Ham United,Poland,4
+2019,21,Lukasz Fabianski,West Ham United,Poland,4
+2019,21,Lukasz Fabianski,West Ham United,Poland,4
+2019,21,Lukasz Fabianski,West Ham United,Poland,4
+2019,21,Lukasz Fabianski,West Ham United,Poland,4
+2019,21,Lukasz Fabianski,West Ham United,Poland,4
+2019,21,Lukasz Fabianski,West Ham United,Poland,4
+2019,22,David de Gea,-,Spain,3
+2019,22,Rui Patrício,-,Portugal,3
+2019,22,David de Gea,-,Spain,3
+2019,22,Rui Patrício,-,Portugal,3
+2019,22,David de Gea,-,Spain,3
+2019,22,Rui Patrício,-,Portugal,3
+2019,22,David de Gea,-,Spain,3
+2019,22,Rui Patrício,-,Portugal,3
+2019,22,David de Gea,-,Spain,3
+2019,22,Rui Patrício,-,Portugal,3
+2019,22,David de Gea,-,Spain,3
+2019,22,Rui Patrício,-,Portugal,3
+2019,22,David de Gea,-,Spain,3
+2019,22,Rui Patrício,-,Portugal,3
+2019,22,David de Gea,-,Spain,3
+2019,22,Rui Patrício,-,Portugal,3
+2019,24,Willy Caballero,-,Argentina,2
+2019,24,Roberto Jiménez,-,Spain,2
+2019,24,Emiliano Martínez,-,Argentina,2
+2019,24,Willy Caballero,-,Argentina,2
+2019,24,Roberto Jiménez,-,Spain,2
+2019,24,Emiliano Martínez,-,Argentina,2
+2019,24,Willy Caballero,-,Argentina,2
+2019,24,Roberto Jiménez,-,Spain,2
+2019,24,Emiliano Martínez,-,Argentina,2
+2019,24,Willy Caballero,-,Argentina,2
+2019,24,Roberto Jiménez,-,Spain,2
+2019,24,Emiliano Martínez,-,Argentina,2
+2019,24,Willy Caballero,-,Argentina,2
+2019,24,Roberto Jiménez,-,Spain,2
+2019,24,Emiliano Martínez,-,Argentina,2
+2019,24,Willy Caballero,-,Argentina,2
+2019,24,Roberto Jiménez,-,Spain,2
+2019,24,Emiliano Martínez,-,Argentina,2
+2019,24,Willy Caballero,-,Argentina,2
+2019,24,Roberto Jiménez,-,Spain,2
+2019,24,Emiliano Martínez,-,Argentina,2
+2019,24,Willy Caballero,-,Argentina,2
+2019,24,Roberto Jiménez,-,Spain,2
+2019,24,Emiliano Martínez,-,Argentina,2
+2019,27,Wayne Hennessey,-,Wales,1
+2019,27,Hugo Lloris,Tottenham Hotspur,France,1
+2019,27,Michael McGovern,-,Northern Ireland,1
+2019,27,Darren Randolph,West Ham United,Ireland,1
+2019,27,Wayne Hennessey,-,Wales,1
+2019,27,Hugo Lloris,Tottenham Hotspur,France,1
+2019,27,Michael McGovern,-,Northern Ireland,1
+2019,27,Darren Randolph,West Ham United,Ireland,1
+2019,27,Wayne Hennessey,-,Wales,1
+2019,27,Hugo Lloris,Tottenham Hotspur,France,1
+2019,27,Michael McGovern,-,Northern Ireland,1
+2019,27,Darren Randolph,West Ham United,Ireland,1
+2019,27,Wayne Hennessey,-,Wales,1
+2019,27,Hugo Lloris,Tottenham Hotspur,France,1
+2019,27,Michael McGovern,-,Northern Ireland,1
+2019,27,Darren Randolph,West Ham United,Ireland,1
+2019,27,Wayne Hennessey,-,Wales,1
+2019,27,Hugo Lloris,Tottenham Hotspur,France,1
+2019,27,Michael McGovern,-,Northern Ireland,1
+2019,27,Darren Randolph,West Ham United,Ireland,1
+2019,27,Wayne Hennessey,-,Wales,1
+2019,27,Hugo Lloris,Tottenham Hotspur,France,1
+2019,27,Michael McGovern,-,Northern Ireland,1
+2019,27,Darren Randolph,West Ham United,Ireland,1
+2019,27,Wayne Hennessey,-,Wales,1
+2019,27,Hugo Lloris,Tottenham Hotspur,France,1
+2019,27,Michael McGovern,-,Northern Ireland,1
+2019,27,Darren Randolph,West Ham United,Ireland,1
+2019,27,Wayne Hennessey,-,Wales,1
+2019,27,Hugo Lloris,Tottenham Hotspur,France,1
+2019,27,Michael McGovern,-,Northern Ireland,1
+2019,27,Darren Randolph,West Ham United,Ireland,1
+2018,1,Ben Foster,-,England,32
+2018,2,Neil Etheridge,-,Philippines,19
+2018,3,Hugo Lloris,Tottenham Hotspur,France,18
+2018,4,Alisson Becker,Liverpool,Brazil,17
+2018,4,Ederson,Manchester City,Brazil,17
+2018,6,Martin Dúbravka,Newcastle United,Slovakia,16
+2018,7,Jordan Pickford,Everton,England,15
+2018,8,Tom Heaton,-,England,14
+2018,9,Bernd Leno,-,Germany,12
+2018,10,Kepa,-,Spain,9
+2018,10,Jonas Lössl,-,Denmark,9
+2018,10,Sergio Rico,-,Spain,9
+2018,13,Asmir Begovic,-,Bosnia & Herzegovina,8
+2018,14,Kasper Schmeichel,-,Denmark,7
+2018,15,Lukasz Fabianski,West Ham United,Poland,6
+2018,15,Angus Gunn,-,Scotland,6
+2018,15,Alex McCarthy,-,England,6
+2018,18,Marcus Bettinelli,-,England,5
+2018,18,David de Gea,-,Spain,5
+2018,18,Joe Hart,-,England,5
+2018,18,Wayne Hennessey,-,Wales,5
+2018,22,Artur Boruc,-,Poland,4
+2018,23,Fabri,-,Spain,3
+2018,23,Petr Cech,-,Czech Republic,3
+2018,23,Vicente Guaita,-,Spain,3
+2018,26,Rui Patrício,-,Portugal,2
+2018,26,Mathew Ryan,-,Australia,2
+2018,26,Mark Travers,Bournemouth,Ireland,2
+2018,29,David Button,-,England,1
+2018,29,Joel Coleman,-,England,1
+2018,29,Paulo Gazzaniga,-,Argentina,1
+2018,29,Ben Hamer,-,England,1
+2018,29,Michel Vorm,-,Netherlands,1
+2017,1,Ederson,Manchester City,Brazil,40
+2017,2,Hugo Lloris,Tottenham Hotspur,France,37
+2017,3,Jack Butland,-,England,27
+2017,4,Nick Pope,Burnley,England,26
+2017,5,Jonas Lössl,-,Denmark,25
+2017,5,Kasper Schmeichel,-,Denmark,25
+2017,7,Petr Cech,-,Czech Republic,22
+2017,8,Wayne Hennessey,-,Wales,17
+2017,9,Ben Foster,-,England,16
+2017,9,Jordan Pickford,-,England,16
+2017,11,Adrián,-,Spain,15
+2017,12,Heurelho Gomes,-,Brazil,14
+2017,13,Loris Karius,Liverpool,Germany,13
+2017,14,Thibaut Courtois,-,Belgium,12
+2017,14,Simon Mignolet,-,Belgium,12
+2017,16,Asmir Begovic,-,Bosnia & Herzegovina,11
+2017,17,Robert Elliot,-,Ireland,10
+2017,17,Lukasz Fabianski,Swansea City,Poland,10
+2017,19,Martin Dúbravka,-,Slovakia,7
+2017,19,Joe Hart,-,England,7
+2017,21,David de Gea,-,Spain,6
+2017,22,Orestis Karnezis,-,Greece,5
+2017,22,Mathew Ryan,-,Australia,5
+2017,24,Fraser Forster,-,England,3
+2017,24,Eldin Jakupovic,-,Switzerland,3
+2017,26,Claudio Bravo,-,Chile,2
+2017,26,Paulo Gazzaniga,-,Argentina,2
+2017,26,Ben Hamer,-,England,2
+2017,26,Alex McCarthy,-,England,2
+2017,26,Julian Speroni,-,Argentina,2
+2017,31,Willy Caballero,-,Argentina,1
+2017,31,Karl Darlow,-,England,1
+2017,31,Lee Grant,-,England,1
+2017,31,David Ospina,-,Colombia,1
+2016,1,Hugo Lloris,Tottenham Hotspur,France,34
+2016,2,Heurelho Gomes,-,Brazil,30
+2016,2,Kasper Schmeichel,-,Denmark,30
+2016,4,Ben Foster,-,England,28
+2016,5,Claudio Bravo,-,Chile,27
+2016,6,Lukasz Fabianski,Swansea City,Poland,25
+2016,7,Petr Cech,-,Czech Republic,23
+2016,8,Jordan Pickford,Sunderland,England,22
+2016,8,Víctor Valdés,-,Spain,22
+2016,10,Simon Mignolet,-,Belgium,21
+2016,11,Lee Grant,-,England,20
+2016,12,Thibaut Courtois,-,Belgium,14
+2016,13,Willy Caballero,-,Argentina,13
+2016,13,Tom Heaton,-,England,13
+2016,13,Adrián,-,Spain,13
+2016,16,Artur Boruc,-,Poland,12
+2016,16,Wayne Hennessey,-,Wales,12
+2016,18,David de Gea,-,Spain,10
+2016,18,Eldin Jakupovic,-,Switzerland,10
+2016,18,Darren Randolph,-,Ireland,10
+2016,21,Maarten Stekelenburg,-,Netherlands,9
+2016,22,Shay Given,-,Ireland,8
+2016,23,David Marshall,-,Scotland,7
+2016,24,Steve Mandanda,-,France,5
+2016,24,Vito Mannone,-,Italy,5
+2016,24,Joel Robles,-,Spain,5
+2016,24,Ron-Robert Zieler,-,Germany,5
+2016,28,Brad Guzan,-,United States,4
+2016,28,Loris Karius,Liverpool,Germany,4
+2016,30,Michel Vorm,-,Netherlands,3
+2016,31,Jack Butland,-,England,2
+2016,31,Fraser Forster,-,England,2
+2016,31,David Ospina,-,Colombia,2
+2016,31,Sergio Romero,-,Argentina,2
+2016,35,Joel Pereira,-,Portugal,1
+2016,35,Adam Federici,-,Australia,1
+2016,35,Paul Robinson,-,England,1
+2015,1,Kasper Schmeichel,-,Denmark,46
+2015,2,Hugo Lloris,Tottenham Hotspur,France,40
+2015,3,Jack Butland,-,England,36
+2015,4,Petr Cech,-,Czech Republic,33
+2015,5,Simon Mignolet,-,Belgium,32
+2015,6,Adrián,-,Spain,31
+2015,7,Joe Hart,-,England,26
+2015,8,Artur Boruc,-,Poland,24
+2015,8,Heurelho Gomes,-,Brazil,24
+2015,10,Costel Pantilimon,-,Romania,22
+2015,10,John Ruddy,-,England,22
+2015,12,Lukasz Fabianski,Swansea City,Poland,20
+2015,13,David de Gea,-,Spain,18
+2015,13,Brad Guzan,-,United States,18
+2015,13,Vito Mannone,-,Italy,18
+2015,16,Wayne Hennessey,-,Wales,17
+2015,17,Thibaut Courtois,-,Belgium,14
+2015,17,Tim Howard,-,United States,14
+2015,19,Boaz Myhill,-,Wales,12
+2015,20,Robert Elliot,-,Ireland,10
+2015,21,Ben Foster,-,England,9
+2015,22,Karl Darlow,-,England,8
+2015,22,Joel Robles,-,Spain,8
+2015,24,Maarten Stekelenburg,-,Netherlands,7
+2015,25,Asmir Begovic,-,Bosnia & Herzegovina,6
+2015,26,Jakob Haugaard,-,Denmark,5
+2015,26,Declan Rudd,-,England,5
+2015,28,Mark Bunn,-,England,4
+2015,28,Tim Krul,Newcastle United,Netherlands,4
+2015,28,Darren Randolph,West Ham United,Ireland,4
+2015,31,Fraser Forster,-,England,3
+2015,31,David Ospina,-,Colombia,3
+2015,31,Sergio Romero,-,Argentina,3
+2015,34,Adam Federici,-,Australia,2
+2015,34,Paulo Gazzaniga,-,Argentina,2
+2015,34,Shay Given,-,Ireland,2
+2015,34,Alex McCarthy,-,England,2
+2015,34,Jordan Pickford,Sunderland,England,2
+2015,34,Danny Ward,-,Wales,2
+2015,40,Giedrius Arlauskis,-,Lithuania,1
+2015,40,Ádám Bogdán,-,Hungary,1
+2015,40,Julian Speroni,-,Argentina,1
+2014,1,Julian Speroni,-,Argentina,57
+2014,2,Asmir Begovic,-,Bosnia & Herzegovina,42
+2014,3,Tim Krul,Newcastle United,Netherlands,37
+2014,4,Robert Green,-,England,36
+2014,5,Joe Hart,-,England,30
+2014,6,Simon Mignolet,-,Belgium,27
+2014,7,Costel Pantilimon,-,Romania,26
+2014,7,Adrián,-,Spain,26
+2014,7,Kasper Schmeichel,-,Denmark,26
+2014,10,Hugo Lloris,Tottenham Hotspur,France,25
+2014,11,David de Gea,-,Spain,21
+2014,11,Ben Foster,-,England,21
+2014,11,Brad Guzan,-,United States,21
+2014,14,Wojciech Szczesny,-,Poland,20
+2014,15,Thibaut Courtois,-,Belgium,18
+2014,15,Lukasz Fabianski,Swansea City,Poland,18
+2014,15,Tom Heaton,-,England,18
+2014,18,Tim Howard,-,United States,16
+2014,19,Vito Mannone,-,Italy,15
+2014,20,David Ospina,-,Colombia,14
+2014,21,Fraser Forster,-,England,12
+2014,22,Jak Alnwick,-,England,9
+2014,22,Ben Hamer,-,England,9
+2014,22,Allan McGregor,-,Scotland,9
+2014,22,Mark Schwarzer,-,Australia,9
+2014,26,Boaz Myhill,-,Wales,7
+2014,27,Bradley Jones,-,Australia,4
+2014,28,Steve Harper,-,England,3
+2014,28,Eldin Jakupovic,-,Switzerland,3
+2014,28,Joel Robles,-,Spain,3
+2014,28,Michel Vorm,-,Netherlands,3
+2014,32,Jack Butland,-,England,2
+2014,32,Petr Cech,-,Czech Republic,2
+2014,32,Kelvin Davis,-,England,2
+2014,32,Robert Elliot,-,Ireland,2
+2014,32,Wayne Hennessey,-,Wales,2
+2014,32,Emiliano Martínez,-,Argentina,2
+2014,32,Alex McCarthy,-,England,2
+2014,32,Jed Steer,-,England,2
+2014,40,Shay Given,-,Ireland,1
+2014,40,Víctor Valdés,-,Spain,1
+2013,1,Julian Speroni,-,Argentina,63
+2013,2,Tim Krul,Newcastle United,Netherlands,61
+2013,3,Hugo Lloris,Tottenham Hotspur,France,54
+2013,4,Tim Howard,-,United States,42
+2013,4,Wojciech Szczesny,-,Poland,42
+2013,6,Vito Mannone,-,Italy,33
+2013,7,Brad Guzan,-,United States,28
+2013,7,Joe Hart,-,England,28
+2013,9,Artur Boruc,-,Poland,26
+2013,10,Asmir Begovic,-,Bosnia & Herzegovina,24
+2013,11,David Marshall,-,Scotland,19
+2013,11,Allan McGregor,-,Scotland,19
+2013,13,Ben Foster,-,England,18
+2013,14,Adrián,-,Spain,14
+2013,15,Petr Cech,-,Czech Republic,12
+2013,15,John Ruddy,-,England,12
+2013,17,Steve Harper,-,England,11
+2013,17,Jussi Jääskeläinen,-,Finland,11
+2013,17,Simon Mignolet,-,Belgium,11
+2013,20,Paulo Gazzaniga,-,Argentina,9
+2013,20,Boaz Myhill,-,Wales,9
+2013,20,David Stockdale,-,England,9
+2013,23,Maarten Stekelenburg,-,Netherlands,8
+2013,24,David de Gea,-,Spain,7
+2013,25,Michel Vorm,-,Netherlands,6
+2013,26,Costel Pantilimon,-,Romania,4
+2013,27,Jack Butland,-,England,3
+2013,27,Robert Elliot,-,Ireland,3
+2013,27,Joel Robles,-,Spain,3
+2013,27,Gerhard Tremmel,-,Germany,3
+2013,31,Lukasz Fabianski,-,Poland,2
+2013,31,Mark Schwarzer,-,Australia,2
+2013,33,Luke Daniels,-,England,1
+2013,33,Kelvin Davis,-,England,1
+2013,33,Brad Friedel,-,United States,1
+2013,33,Joe Lewis,-,England,1
+2013,33,Thomas Sørensen,-,Denmark,1
+2013,33,Keiren Westwood,-,Ireland,1
+2012,1,Hugo Lloris,Tottenham Hotspur,France,47
+2012,2,Asmir Begovic,-,Bosnia & Herzegovina,41
+2012,3,Wojciech Szczesny,-,Poland,34
+2012,4,Simon Mignolet,-,Belgium,27
+2012,4,Pepe Reina,-,Spain,27
+2012,6,Tim Howard,-,United States,26
+2012,7,Artur Boruc,-,Poland,25
+2012,8,Tim Krul,Newcastle United,Netherlands,24
+2012,9,Ali Al Habsi,-,Oman,19
+2012,10,Mark Schwarzer,-,Australia,17
+2012,11,Brad Guzan,-,United States,16
+2012,12,Jussi Jääskeläinen,-,Finland,14
+2012,13,Joe Hart,-,England,13
+2012,14,Robert Elliot,-,Ireland,12
+2012,15,Mark Bunn,-,England,11
+2012,15,Petr Cech,-,Czech Republic,11
+2012,15,Robert Green,-,England,11
+2012,18,Adam Federici,-,Australia,10
+2012,19,David de Gea,-,Spain,8
+2012,19,Paulo Gazzaniga,-,Argentina,8
+2012,21,Kelvin Davis,-,England,7
+2012,21,Ben Foster,-,England,7
+2012,21,Alex McCarthy,-,England,7
+2012,24,Steve Harper,-,England,6
+2012,24,Bradley Jones,-,Australia,6
+2012,24,Joel Robles,-,Spain,6
+2012,24,John Ruddy,-,England,6
+2012,28,Brad Friedel,-,United States,5
+2012,28,Julio César,-,Brazil,5
+2012,28,Michel Vorm,-,Netherlands,5
+2012,31,Lukasz Fabianski,-,Poland,4
+2012,31,Anders Lindegaard,-,Denmark,4
+2012,31,Boaz Myhill,-,Wales,4
+2012,34,Vito Mannone,-,Italy,3
+2012,35,Lee Camp,-,Northern Ireland,2
+2012,35,Ján Mucha,-,Slovakia,2
+2012,35,Stuart Taylor,-,England,2
+2011,1,Wojciech Szczesny,-,Poland,51
+2011,2,Petr Cech,-,Czech Republic,36
+2011,3,Tim Krul,Newcastle United,Netherlands,33
+2011,4,Jussi Jääskeläinen,-,Finland,31
+2011,5,Brad Friedel,-,United States,29
+2011,5,Wayne Hennessey,Wolverhampton Wanderers,Wales,29
+2011,5,John Ruddy,-,England,29
+2011,8,Joe Hart,-,England,28
+2011,9,Ben Foster,-,England,23
+2011,10,Asmir Begovic,-,Bosnia & Herzegovina,22
+2011,11,Simon Mignolet,-,Belgium,19
+2011,12,Ádám Bogdán,-,Hungary,18
+2011,13,Ali Al Habsi,-,Oman,13
+2011,13,Pepe Reina,-,Spain,13
+2011,13,Paul Robinson,-,England,13
+2011,16,Tim Howard,-,United States,10
+2011,16,Thomas Sørensen,-,Denmark,10
+2011,18,Michel Vorm,-,Netherlands,9
+2011,19,Shay Given,-,Ireland,8
+2011,20,Anders Lindegaard,-,Denmark,7
+2011,21,David de Gea,-,Spain,6
+2011,21,Paddy Kenny,-,Ireland,6
+2011,23,Henrique Hilário,-,Portugal,4
+2011,23,Keiren Westwood,-,Ireland,4
+2011,25,Dorus de Vries,-,Netherlands,3
+2011,25,Declan Rudd,-,England,3
+2011,25,Mark Schwarzer,-,Australia,3
+2011,28,David Stockdale,-,England,2
+2011,29,Mark Bunn,-,England,1
+2011,29,Radek Cerny,-,Czech Republic,1
+2011,29,Craig Gordon,-,Scotland,1
+2011,29,Brad Guzan,-,United States,1
+2011,29,Doni,-,Brazil,1
+2010,1,Petr Cech,-,Czech Republic,42
+2010,2,Jussi Jääskeläinen,-,Finland,38
+2010,3,Wojciech Szczesny,-,Poland,31
+2010,4,Lukasz Fabianski,Arsenal,Poland,26
+2010,4,Paul Robinson,-,England,26
+2010,6,Ben Foster,-,England,24
+2010,7,Scott Carson,-,England,23
+2010,7,Tim Howard,-,United States,23
+2010,9,Asmir Begovic,-,Bosnia & Herzegovina,22
+2010,9,Wayne Hennessey,Wolverhampton Wanderers,Wales,22
+2010,11,Heurelho Gomes,-,Brazil,20
+2010,11,Ali Al Habsi,-,Oman,20
+2010,13,Tim Krul,Newcastle United,Netherlands,18
+2010,13,Pepe Reina,-,Spain,18
+2010,15,Robert Green,-,England,16
+2010,16,Steve Harper,-,England,15
+2010,16,Joe Hart,-,England,15
+2010,18,Richard Kingson,-,Ghana,13
+2010,19,Mark Schwarzer,-,Australia,12
+2010,20,Ádám Bogdán,-,Hungary,11
+2010,21,Manuel Almunia,-,Spain,10
+2010,21,Brad Friedel,-,United States,10
+2010,21,Craig Gordon,-,Scotland,10
+2010,21,Edwin van der Sar,-,Netherlands,10
+2010,25,Simon Mignolet,-,Belgium,9
+2010,25,Boaz Myhill,-,Wales,9
+2010,27,Marcus Hahnemann,-,United States,8
+2010,27,Thomas Sørensen,-,Denmark,8
+2010,29,Matthew Gilks,-,Scotland,6
+2010,30,Chris Kirkland,-,England,5
+2010,30,Jens Lehmann,-,Germany,5
+2010,32,Carlo Cudicini,-,Italy,3
+2010,33,Mark Bunn,-,England,2
+2010,33,Paul Rachubka,-,England,2
+2010,35,Tomasz Kuszczak,-,Poland,1
+2010,35,David Stockdale,-,England,1
+2009,1,Brian Jensen,-,Denmark,40
+2009,2,Manuel Almunia,-,Spain,35
+2009,3,Robert Green,-,England,31
+2009,4,Joe Hart,-,England,28
+2009,4,Paul Robinson,-,England,28
+2009,6,Jussi Jääskeläinen,-,Finland,26
+2009,7,Shay Given,-,Ireland,23
+2009,8,Petr Cech,-,Czech Republic,22
+2009,9,Chris Kirkland,-,England,21
+2009,10,Brad Friedel,-,United States,18
+2009,10,Pepe Reina,-,Spain,18
+2009,12,Mark Schwarzer,-,Australia,17
+2009,12,Thomas Sørensen,-,Denmark,17
+2009,12,Edwin van der Sar,-,Netherlands,17
+2009,15,Wayne Hennessey,-,Wales,16
+2009,15,Boaz Myhill,-,Wales,16
+2009,17,Heurelho Gomes,-,Brazil,15
+2009,17,Tim Howard,-,United States,15
+2009,19,Craig Gordon,-,Scotland,13
+2009,20,Matt Duke,-,England,12
+2009,21,Marton Fülöp,-,Hungary,11
+2009,22,Marcus Hahnemann,-,United States,8
+2009,22,Vito Mannone,-,Italy,8
+2009,24,Ben Foster,-,England,7
+2009,25,Tomasz Kuszczak,-,Poland,6
+2009,26,Carlo Cudicini,-,Italy,5
+2009,26,Lukasz Fabianski,-,Poland,5
+2009,28,Asmir Begovic,-,Bosnia & Herzegovina,4
+2009,28,David James,-,England,4
+2009,30,Steve Simonsen,-,England,3
+2009,30,Ross Turnbull,-,England,3
+2009,32,Jamie Ashdown,-,England,2
+2009,32,Diego Penny,-,Peru,2
+2009,32,Mike Pollitt,-,England,2
+2009,32,Vladimir Stojkovic,-,Serbia,2
+2009,32,Maik Taylor,-,Northern Ireland,2

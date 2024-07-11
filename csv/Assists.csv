@@ -1,0 +1,3101 @@
+Initial Year,Rank,Player,Club,Nationality,Stat
+2022,1,Kevin De Bruyne,Manchester City,Belgium,16
+2022,2,Mohamed Salah,Liverpool,Egypt,12
+2022,2,Leandro Trossard,Arsenal,Belgium,12
+2022,4,Michael Olise,Crystal Palace,France,11
+2022,4,Bukayo Saka,Arsenal,England,11
+2022,6,Riyad Mahrez,-,Algeria,10
+2022,7,Trent Alexander-Arnold,Liverpool,England,9
+2022,7,James Maddison,-,England,9
+2022,9,Bruno Fernandes,Manchester United,Portugal,8
+2022,9,Christian Eriksen,Manchester United,Denmark,8
+2022,9,Morgan Gibbs-White,Nottingham Forest,England,8
+2022,9,Pascal Groß,Brighton & Hove Albion,Germany,8
+2022,9,Erling Haaland,Manchester City,Norway,8
+2022,9,Bryan Mbeumo,Brentford,Cameroon,8
+2022,9,Ivan Perisic,Tottenham Hotspur,Croatia,8
+2022,9,Andy Robertson,Liverpool,Scotland,8
+2022,17,Jack Grealish,Manchester City,England,7
+2022,17,Jack Harrison,-,England,7
+2022,17,Alex Iwobi,-,Nigeria,7
+2022,17,Dejan Kulusevski,-,Sweden,7
+2022,17,Solly March,Brighton & Hove Albion,England,7
+2022,17,Jacob Ramsey,Aston Villa,England,7
+2022,17,Dominic Solanke,Bournemouth,England,7
+2022,17,Kieran Trippier,Newcastle United,England,7
+2022,17,Granit Xhaka,-,Switzerland,7
+2022,17,Martin Ødegaard,Arsenal,Norway,7
+2022,27,Gabriel Jesus,Arsenal,Brazil,6
+2022,27,Rodri,Manchester City,Spain,6
+2022,27,Andreas Pereira,Fulham,Brazil,6
+2022,27,Mathias Jensen,Brentford,Denmark,6
+2022,27,Douglas Luiz,Aston Villa,Brazil,6
+2022,27,Son Heung-Min,Tottenham Hotspur,South Korea,6
+2022,27,Ollie Watkins,Aston Villa,England,6
+2022,27,Joe Willock,Newcastle United,England,6
+2022,35,Willian,Fulham,Brazil,5
+2022,35,Jarrod Bowen,West Ham United,England,5
+2022,35,Pervis Estupiñán,Brighton & Hove Albion,Ecuador,5
+2022,35,Phil Foden,Manchester City,England,5
+2022,35,Bruno Guimarães,Newcastle United,Brazil,5
+2022,35,Pierre-Emile Højbjerg,Tottenham Hotspur,Denmark,5
+2022,35,Kelechi Iheanacho,-,Nigeria,5
+2022,35,Gabriel Martinelli,Arsenal,Brazil,5
+2022,35,Kaoru Mitoma,Brighton & Hove Albion,Japan,5
+2022,35,Bernardo Silva,Manchester City,Portugal,5
+2022,35,Marcus Rashford,Manchester United,England,5
+2022,35,Allan Saint-Maximin,-,France,5
+2022,35,Kenny Tete,Fulham,Netherlands,5
+2022,35,Ben White,Arsenal,England,5
+2022,35,Callum Wilson,Newcastle United,England,5
+2022,50,Leon Bailey,Aston Villa,Jamaica,4
+2022,50,Roberto Firmino,-,Brazil,4
+2022,50,Patson Daka,-,Zambia,4
+2022,50,Eberechi Eze,Crystal Palace,England,4
+2022,50,Wilfried Gnonto,-,Italy,4
+2022,50,Ilkay Gündogan,-,Germany,4
+2022,50,Sean Longstaff,Newcastle United,England,4
+2022,50,Harrison Reed,Fulham,England,4
+2022,50,Marcus Tavernier,Bournemouth,England,4
+2022,50,Diogo Jota,Liverpool,Portugal,4
+2022,50,Ivan Toney,Brentford,England,4
+2022,50,Kostas Tsimikas,Liverpool,Greece,4
+2022,50,Jamie Vardy,-,England,4
+2022,50,James Ward-Prowse,-,England,4
+2022,64,Brenden Aaronson,-,United States,3
+2022,64,Ché Adams,-,Scotland,3
+2022,64,Michail Antonio,West Ham United,Jamaica,3
+2022,64,Jordan Ayew,Crystal Palace,Ghana,3
+2022,64,Saïd Benrahma,West Ham United,Algeria,3
+2022,64,Casemiro,Manchester United,Brazil,3
+2022,64,Timothy Castagne,-,Belgium,3
+2022,64,Richarlison,Tottenham Hotspur,Brazil,3
+2022,64,Cheick Doucouré,Crystal Palace,Mali,3
+2022,64,Brennan Johnson,-,Wales,3
+2022,64,Harry Kane,-,England,3
+2022,64,Neeskens Kebano,-,DR Congo,3
+2022,64,John McGinn,Aston Villa,Scotland,3
+2022,64,Dwight McNeil,Everton,England,3
+2022,64,Álex Moreno,Aston Villa,Spain,3
+2022,64,Darwin Núñez,Liverpool,Uruguay,3
+2022,64,Christian Nørgaard,Brentford,Denmark,3
+2022,64,Dango Ouattara,Bournemouth,Burkina Faso,3
+2022,64,Pedro Porro,-,Spain,3
+2022,64,Jadon Sancho,-,England,3
+2022,64,Fabian Schär,Newcastle United,Switzerland,3
+2022,64,Tomás Soucek,West Ham United,Czech Republic,3
+2022,64,Raheem Sterling,Chelsea,England,3
+2022,64,Lucas Paquetá,West Ham United,Brazil,3
+2022,64,Danny Welbeck,Brighton & Hove Albion,England,3
+2022,64,Harry Wilson,Fulham,Wales,3
+2022,64,Yoane Wissa,Brentford,DR Congo,3
+2022,64,Hakim Ziyech,-,Morocco,3
+2022,92,Carlos Alcaraz,-,Argentina,2
+2022,92,Miguel Almirón,Newcastle United,Paraguay,2
+2022,92,Carlos Vinícius,Fulham,Brazil,2
+2022,92,Patrick Bamford,-,England,2
+2022,92,Armel Bella-Kotchap,-,Germany,2
+2022,92,Rodrigo Bentancur,Tottenham Hotspur,Uruguay,2
+2022,92,Emiliano Buendía,Aston Villa,Argentina,2
+2022,92,Ben Chilwell,Chelsea,England,2
+2022,92,Levi Colwill,Chelsea,England,2
+2021,1,Mohamed Salah,Liverpool,Egypt,13
+2021,2,Trent Alexander-Arnold,Liverpool,England,12
+2021,3,Harvey Barnes,Leicester City,England,10
+2021,3,Jarrod Bowen,West Ham United,England,10
+2021,3,Mason Mount,-,England,10
+2021,3,Andy Robertson,Liverpool,Scotland,10
+2021,7,Reece James,Chelsea,England,9
+2021,7,Harry Kane,-,England,9
+2021,7,Paul Pogba,-,France,9
+2021,10,Michail Antonio,West Ham United,Jamaica,8
+2021,10,Kevin De Bruyne,Manchester City,Belgium,8
+2021,10,Gabriel Jesus,-,Brazil,8
+2021,10,Dejan Kulusevski,-,Sweden,8
+2021,10,James Maddison,-,England,8
+2021,15,João Cancelo,-,Portugal,7
+2021,15,Alexandre Lacazette,-,France,7
+2021,15,Bryan Mbeumo,Brentford,Cameroon,7
+2021,15,Bukayo Saka,Arsenal,England,7
+2021,15,Son Heung-Min,Tottenham Hotspur,South Korea,7
+2021,20,Saïd Benrahma,West Ham United,Algeria,6
+2021,20,Bruno Fernandes,Manchester United,Portugal,6
+2021,20,Emiliano Buendía,Aston Villa,Argentina,6
+2021,20,Emmanuel Dennis,-,Nigeria,6
+2021,20,Danny Ings,-,England,6
+2021,20,Gabriel Martinelli,Arsenal,Brazil,6
+2021,20,Lucas Moura,-,Brazil,6
+2021,27,Richarlison,-,Brazil,5
+2021,27,Kiko Femenía,-,Spain,5
+2021,27,Phil Foden,Manchester City,England,5
+2021,27,Jordan Henderson,-,England,5
+2021,27,Kelechi Iheanacho,-,Nigeria,5
+2021,27,Mateo Kovacic,-,Croatia,5
+2021,27,Riyad Mahrez,-,Algeria,5
+2021,27,Michael Olise,Crystal Palace,France,5
+2021,27,Nathan Redmond,Southampton,England,5
+2021,27,Allan Saint-Maximin,-,France,5
+2021,27,Raheem Sterling,-,England,5
+2021,27,Ivan Toney,Brentford,England,5
+2021,27,James Ward-Prowse,Southampton,England,5
+2021,40,Thiago Alcântara,Liverpool,Spain,4
+2021,40,Marcos Alonso,-,Spain,4
+2021,40,Roberto Firmino,-,Brazil,4
+2021,40,Rodrigo Bentancur,Tottenham Hotspur,Uruguay,4
+2021,40,Vladimír Coufal,West Ham United,Czech Republic,4
+2021,40,Lucas Digne,Aston Villa,France,4
+2021,40,Matt Doherty,-,Ireland,4
+2021,40,Rúben Dias,Manchester City,Portugal,4
+2021,40,Abdoulaye Doucouré,Everton,Mali,4
+2021,40,Christian Eriksen,Brentford,Denmark,4
+2021,40,Demarai Gray,-,Jamaica,4
+2021,40,Pascal Groß,Brighton & Hove Albion,Germany,4
+2021,40,Ilkay Gündogan,-,Germany,4
+2021,40,Daniel James,-,Wales,4
+2021,40,Raúl Jiménez,-,Mexico,4
+2021,40,N'Golo Kanté,-,France,4
+2021,40,Nemanja Matic,-,Serbia,4
+2021,40,John McGinn,Aston Villa,Scotland,4
+2021,40,Bernardo Silva,Manchester City,Portugal,4
+2021,40,Enock Mwepu,-,Zambia,4
+2021,40,Alex Telles,-,Brazil,4
+2021,40,Christian Nørgaard,Brentford,Denmark,4
+2021,40,Declan Rice,-,England,4
+2021,40,Fred,-,Brazil,4
+2021,40,Diogo Jota,Liverpool,Portugal,4
+2021,40,Youri Tielemans,-,Belgium,4
+2021,40,Oleksandr Zinchenko,Manchester City,Ukraine,4
+2021,40,Martin Ødegaard,Arsenal,Norway,4
+2021,68,Ché Adams,-,Scotland,3
+2021,68,Kristoffer Ajer,Brentford,Norway,3
+2021,68,Joachim Andersen,Crystal Palace,Denmark,3
+2021,68,Jordan Ayew,Crystal Palace,Ghana,3
+2021,68,Ricardo Pereira,-,Portugal,3
+2021,68,Josh Brownhill,Burnley,England,3
+2021,68,Matty Cash,Aston Villa,Poland,3
+2021,68,Daniel Podence,-,Portugal,3
+2021,68,Philippe Coutinho,-,Brazil,3
+2021,68,Aaron Cresswell,West Ham United,England,3
+2021,68,Patson Daka,-,Zambia,3
+2021,68,Raphinha,-,Brazil,3
+2021,68,Luis Díaz,Liverpool,Colombia,3
+2021,68,Cristiano Ronaldo,-,Portugal,3
+2021,68,Odsonne Édouard,Crystal Palace,France,3
+2021,68,Pablo Fornals,West Ham United,Spain,3
+2021,68,Ryan Fraser,-,Scotland,3
+2021,68,Conor Gallagher,Chelsea,England,3
+2021,68,Jack Grealish,Manchester City,England,3
+2021,68,Kai Havertz,-,Germany,3
+2021,68,Joshua King,-,Norway,3
+2021,68,Manuel Lanzini,-,Argentina,3
+2021,68,Joël Matip,Liverpool,Cameroon,3
+2021,68,James McArthur,-,Scotland,3
+2021,68,Tyrone Mings,Aston Villa,England,3
+2021,68,Jakub Moder,Brighton & Hove Albion,Poland,3
+2021,68,Ayoze Pérez,-,Spain,3
+2021,68,Teemu Pukki,-,Finland,3
+2021,68,Sergio Reguilón,Tottenham Hotspur,Spain,3
+2021,68,Jadon Sancho,Manchester United,England,3
+2021,68,Luke Shaw,Manchester United,England,3
+2021,68,Douglas Luiz,Aston Villa,Brazil,3
+2021,68,Chiquinho,-,Portugal,3
+2020,1,Harry Kane,-,England,14
+2020,2,Bruno Fernandes,Manchester United,Portugal,12
+2020,2,Kevin De Bruyne,Manchester City,Belgium,12
+2020,4,Jack Grealish,-,England,10
+2020,4,Son Heung-Min,Tottenham Hotspur,South Korea,10
+2020,6,Raphinha,-,Brazil,9
+2020,6,Marcus Rashford,Manchester United,England,9
+2020,6,Jamie Vardy,-,England,9
+2020,9,Aaron Cresswell,West Ham United,England,8
+2020,9,Pascal Groß,Brighton & Hove Albion,Germany,8
+2020,9,Jack Harrison,-,England,8
+2020,9,Timo Werner,-,Germany,8
+2020,13,Trent Alexander-Arnold,Liverpool,England,7
+2020,13,Patrick Bamford,-,England,7
+2020,13,Roberto Firmino,-,Brazil,7
+2020,13,Vladimír Coufal,West Ham United,Czech Republic,7
+2020,13,Lucas Digne,-,France,7
+2020,13,Sadio Mané,-,Senegal,7
+2020,13,Andy Robertson,Liverpool,Scotland,7
+2020,13,Raheem Sterling,-,England,7
+2020,13,James Ward-Prowse,-,England,7
+2020,22,Saïd Benrahma,West Ham United,Algeria,6
+2020,22,Matheus Pereira,-,Brazil,6
+2020,22,Eberechi Eze,Crystal Palace,England,6
+2020,22,Pedro Neto,Wolverhampton Wanderers,Portugal,6
+2020,22,Riyad Mahrez,-,Algeria,6
+2020,22,Bernardo Silva,Manchester City,Portugal,6
+2020,22,Bertrand Traoré,Aston Villa,Burkina Faso,6
+2020,29,Ché Adams,-,Scotland,5
+2020,29,Marc Albrighton,-,England,5
+2020,29,Michail Antonio,West Ham United,Jamaica,5
+2020,29,Stuart Armstrong,-,Scotland,5
+2020,29,Willian,-,Brazil,5
+2020,29,Jarrod Bowen,West Ham United,England,5
+2020,29,Ben Chilwell,Chelsea,England,5
+2020,29,Phil Foden,Manchester City,England,5
+2020,29,Mateusz Klich,-,Poland,5
+2020,29,James Maddison,-,England,5
+2020,29,John McGinn,Aston Villa,Scotland,5
+2020,29,Dwight McNeil,Burnley,England,5
+2020,29,Mason Mount,-,England,5
+2020,29,Mohamed Salah,Liverpool,Egypt,5
+2020,29,Luke Shaw,Manchester United,England,5
+2020,29,Gylfi Sigurdsson,-,Iceland,5
+2020,29,Andros Townsend,-,England,5
+2020,29,Leandro Trossard,Brighton & Hove Albion,Belgium,5
+2020,29,Ollie Watkins,Aston Villa,England,5
+2020,29,Callum Wilson,Newcastle United,England,5
+2020,49,Harvey Barnes,-,England,4
+2020,49,Gabriel Jesus,-,Brazil,4
+2020,49,Pablo Fornals,West Ham United,Spain,4
+2020,49,Pierre-Emile Højbjerg,Tottenham Hotspur,Denmark,4
+2020,49,Danny Ings,-,England,4
+2020,49,Jesse Lingard,-,England,4
+2020,49,Ademola Lookman,-,Nigeria,4
+2020,49,Wilfred Ndidi,-,Nigeria,4
+2020,49,Lucas Moura,-,Brazil,4
+2020,49,James Rodríguez,-,Colombia,4
+2020,49,Allan Saint-Maximin,-,France,4
+2020,49,Emile Smith Rowe,Arsenal,England,4
+2020,49,Youri Tielemans,-,Belgium,4
+2020,49,Aaron Wan-Bissaka,Manchester United,England,4
+2020,63,Ezgjan Alioski,-,North Macedonia,3
+2020,63,Frank Anguissa,-,Cameroon,3
+2020,63,Pierre-Emerick Aubameyang,-,Gabon,3
+2020,63,Sèrge Aurier,-,Cote D’Ivoire,3
+2020,63,Jordan Ayew,Crystal Palace,Ghana,3
+2020,63,Steven Bergwijn,-,Netherlands,3
+2020,63,Timothy Castagne,-,Belgium,3
+2020,63,João Cancelo,-,Portugal,3
+2020,63,Edinson Cavani,-,Uruguay,3
+2020,63,Dani Ceballos,-,Spain,3
+2020,63,Séamus Coleman,Everton,Ireland,3
+2020,63,Richarlison,-,Brazil,3
+2020,63,Abdoulaye Doucouré,Everton,Mali,3
+2020,63,Darnell Furlong,-,England,3
+2020,63,Kai Havertz,-,Germany,3
+2020,63,Callum Hudson-Odoi,-,England,3
+2020,63,Anthony Martial,Manchester United,France,3
+2020,63,Aleksandar Mitrovic,-,Serbia,3
+2020,63,Jacob Murphy,Newcastle United,England,3
+2020,63,Paul Pogba,-,France,3
+2020,63,Nathan Redmond,Southampton,England,3
+2020,63,Sergio Reguilón,Tottenham Hotspur,Spain,3
+2020,63,Bukayo Saka,Arsenal,England,3
+2020,63,Jeffrey Schlupp,Crystal Palace,Ghana,3
+2020,63,Jonjo Shelvey,-,England,3
+2020,63,Fábio Silva,-,Portugal,3
+2020,63,Hélder Costa,-,Angola,3
+2020,63,Kieran Tierney,-,Scotland,3
+2020,63,Theo Walcott,-,England,3
+2020,63,Ashley Westwood,-,England,3
+2020,63,Chris Wood,-,New Zealand,3
+2020,63,Hakim Ziyech,-,Morocco,3
+2020,95,Joelinton,Newcastle United,Brazil,2
+2020,95,César Azpilicueta,-,Spain,2
+2020,95,George Baldock,Sheffield United,Greece,2
+2020,95,Gareth Bale,-,Wales,2
+2020,95,Héctor Bellerín,-,Spain,2
+2020,95,Matty Cash,Aston Villa,Poland,2
+2019,1,Kevin De Bruyne,Manchester City,Belgium,20
+2019,2,Trent Alexander-Arnold,Liverpool,England,13
+2019,3,Andy Robertson,Liverpool,Scotland,12
+2019,4,Mohamed Salah,Liverpool,Egypt,10
+2019,4,David Silva,-,Spain,10
+2019,4,Son Heung-Min,Tottenham Hotspur,South Korea,10
+2019,7,Riyad Mahrez,-,Algeria,9
+2019,7,Adama Traoré,-,Spain,9
+2019,9,Roberto Firmino,-,Brazil,8
+2019,9,Harvey Barnes,-,England,8
+2019,11,Willian,-,Brazil,7
+2019,11,Bruno Fernandes,Manchester United,Portugal,7
+2019,11,Emiliano Buendía,-,Argentina,7
+2019,11,Gabriel Jesus,-,Brazil,7
+2019,11,Lucas Digne,-,France,7
+2019,11,Sadio Mané,-,Senegal,7
+2019,11,Bernardo Silva,Manchester City,Portugal,7
+2019,11,Marcus Rashford,Manchester United,England,7
+2019,19,César Azpilicueta,-,Spain,6
+2019,19,Daniel James,-,Wales,6
+2019,19,Raúl Jiménez,-,Mexico,6
+2019,19,Anthony Martial,Manchester United,France,6
+2019,19,Dwight McNeil,Burnley,England,6
+2019,19,Nicolas Pépé,-,Cote D’Ivoire,6
+2019,19,João Moutinho,-,Portugal,6
+2019,19,Youri Tielemans,-,Belgium,6
+2019,19,Ashley Westwood,-,England,6
+2019,28,Sèrge Aurier,-,Cote D’Ivoire,5
+2019,28,Gerard Deulofeu,-,Spain,5
+2019,28,Pablo Fornals,West Ham United,Spain,5
+2019,28,Jack Grealish,-,England,5
+2019,28,Jordan Henderson,-,England,5
+2019,28,Conor Hourihane,-,Ireland,5
+2019,28,Callum Hudson-Odoi,-,England,5
+2019,28,Mason Mount,-,England,5
+2019,28,Bukayo Saka,-,England,5
+2019,28,Robert Snodgrass,-,Scotland,5
+2019,28,Jamie Vardy,-,England,5
+2019,39,Dele Alli,-,England,4
+2019,39,Ross Barkley,Chelsea,England,4
+2019,39,Jarrod Bowen,West Ham United,England,4
+2019,39,Andy Carroll,-,England,4
+2019,39,Anwar El Ghazi,-,Netherlands,4
+2019,39,Ryan Fraser,-,Scotland,4
+2019,39,Pascal Groß,Brighton & Hove Albion,Germany,4
+2019,39,Joshua King,-,Norway,4
+2019,39,Alexandre Lacazette,-,France,4
+2019,39,Lys Mousset,-,France,4
+2019,39,Felipe Anderson,-,Brazil,4
+2019,39,Ayoze Pérez,-,Spain,4
+2019,39,Erik Pieters,-,Netherlands,4
+2019,39,Christian Pulisic,-,United States,4
+2019,39,Nathan Redmond,Southampton,England,4
+2019,39,Diego Rico,-,Spain,4
+2019,39,Lucas Moura,-,Brazil,4
+2019,39,Allan Saint-Maximin,-,France,4
+2019,39,Ismaïla Sarr,-,Senegal,4
+2019,39,Djibril Sidibé,-,France,4
+2019,39,Enda Stevens,-,Ireland,4
+2019,39,Kyle Walker,Manchester City,England,4
+2019,39,Aaron Wan-Bissaka,Manchester United,England,4
+2019,62,Tammy Abraham,-,England,3
+2019,62,Sergio Agüero,-,Argentina,3
+2019,62,Marc Albrighton,-,England,3
+2019,62,Michail Antonio,West Ham United,Jamaica,3
+2019,62,Stuart Armstrong,-,Scotland,3
+2019,62,Christian Atsu,-,Ghana,3
+2019,62,Pierre-Emerick Aubameyang,-,Gabon,3
+2019,62,George Baldock,Sheffield United,Greece,3
+2019,62,Étienne Capoue,-,France,3
+2019,62,Ben Chilwell,-,England,3
+2019,62,Richarlison,-,Brazil,3
+2019,62,Matt Doherty,-,Ireland,3
+2019,62,Lewis Dunk,Brighton & Hove Albion,England,3
+2019,62,Ryan Fredericks,West Ham United,England,3
+2019,62,Demarai Gray,-,Jamaica,3
+2019,62,Andreas Pereira,-,Brazil,3
+2019,62,Mason Holgate,-,England,3
+2019,62,Kelechi Iheanacho,-,Nigeria,3
+2019,62,Naby Keïta,-,Guinea,3
+2019,62,Mateo Kovacic,-,Croatia,3
+2019,62,Pedro Neto,Wolverhampton Wanderers,Portugal,3
+2019,62,John Lundstram,-,England,3
+2019,62,James Maddison,-,England,3
+2019,62,Neal Maupay,Brighton & Hove Albion,France,3
+2019,62,James McArthur,-,Scotland,3
+2019,62,John McGinn,Aston Villa,Scotland,3
+2019,62,Mark Noble,-,England,3
+2019,62,Paul Pogba,-,France,3
+2019,62,Teemu Pukki,-,Finland,3
+2019,62,Declan Rice,-,England,3
+2019,62,Gylfi Sigurdsson,-,Iceland,3
+2019,62,Jack Stephens,-,England,3
+2019,62,Fabinho,-,Brazil,3
+2019,62,Leandro Trossard,Brighton & Hove Albion,Belgium,3
+2019,62,Theo Walcott,-,England,3
+2019,62,James Ward-Prowse,-,England,3
+2019,62,Wilfried Zaha,-,Cote D’Ivoire,3
+2019,99,Ché Adams,-,Scotland,2
+2019,99,Nathan Aké,-,Netherlands,2
+2018,1,Eden Hazard,-,Belgium,15
+2018,2,Ryan Fraser,-,Scotland,14
+2018,3,Trent Alexander-Arnold,Liverpool,England,12
+2018,3,Christian Eriksen,-,Denmark,12
+2018,5,Andy Robertson,Liverpool,Scotland,11
+2018,6,Leroy Sané,-,Germany,10
+2018,6,Raheem Sterling,-,England,10
+2018,8,Paul Pogba,-,France,9
+2018,8,Callum Wilson,-,England,9
+2018,10,Sergio Agüero,-,Argentina,8
+2018,10,Alexandre Lacazette,-,France,8
+2018,10,Matt Ritchie,Newcastle United,Scotland,8
+2018,10,Mohamed Salah,Liverpool,Egypt,8
+2018,10,João Moutinho,-,Portugal,8
+2018,10,David Silva,-,Spain,8
+2018,16,Raúl Jiménez,-,Mexico,7
+2018,16,James Maddison,-,England,7
+2018,16,Bernardo Silva,Manchester City,Portugal,7
+2018,16,Salomón Rondón,-,Venezuela,7
+2018,16,Ashley Westwood,-,England,7
+2018,21,Roberto Firmino,-,Brazil,6
+2018,21,Ricardo Pereira,-,Portugal,6
+2018,21,Willian,-,Brazil,6
+2018,21,Abdoulaye Doucouré,-,Mali,6
+2018,21,Jóhann Gudmundsson,Burnley,Iceland,6
+2018,21,José Holebas,-,Greece,6
+2018,21,Alex Iwobi,-,Nigeria,6
+2018,21,Anthony Knockaert,-,France,6
+2018,21,James McArthur,-,Scotland,6
+2018,21,Aaron Ramsey,-,Wales,6
+2018,21,Marcus Rashford,Manchester United,England,6
+2018,21,Ryan Sessegnon,-,England,6
+2018,21,Gylfi Sigurdsson,-,Iceland,6
+2018,21,Son Heung-Min,Tottenham Hotspur,South Korea,6
+2018,35,Pierre-Emerick Aubameyang,-,Gabon,5
+2018,35,César Azpilicueta,-,Spain,5
+2018,35,Ross Barkley,Chelsea,England,5
+2018,35,Héctor Bellerín,-,Spain,5
+2018,35,David Brooks,Bournemouth,Wales,5
+2018,35,Troy Deeney,-,England,5
+2018,35,Gerard Deulofeu,-,Spain,5
+2018,35,Matt Doherty,-,Ireland,5
+2018,35,Sead Kolasinac,-,Bosnia & Herzegovina,5
+2018,35,Solly March,Brighton & Hove Albion,England,5
+2018,35,Dwight McNeil,-,England,5
+2018,35,Benjamin Mendy,-,France,5
+2018,35,Mark Noble,-,England,5
+2018,35,Robert Snodgrass,-,Scotland,5
+2018,35,Diogo Jota,-,Portugal,5
+2018,35,Wilfried Zaha,-,Cote D’Ivoire,5
+2018,51,Marcos Alonso,-,Spain,4
+2018,51,Michail Antonio,West Ham United,Jamaica,4
+2018,51,Marko Arnautovic,-,Austria,4
+2018,51,Víctor Camarasa,-,Spain,4
+2018,51,Ben Chilwell,-,England,4
+2018,51,Lucas Digne,-,France,4
+2018,51,Olivier Giroud,-,France,4
+2018,51,Isaac Hayden,-,England,4
+2018,51,Will Hughes,-,England,4
+2018,51,Harry Kane,-,England,4
+2018,51,N'Golo Kanté,-,France,4
+2018,51,Fernando Llorente,-,Spain,4
+2018,51,Riyad Mahrez,-,Algeria,4
+2018,51,James Milner,-,England,4
+2018,51,Henrikh Mkhitaryan,-,Armenia,4
+2018,51,Felipe Anderson,-,Brazil,4
+2018,51,Nathan Redmond,Southampton,England,4
+2018,51,Luke Shaw,Manchester United,England,4
+2018,51,Youri Tielemans,-,Belgium,4
+2018,51,Andros Townsend,-,England,4
+2018,51,Jamie Vardy,-,England,4
+2018,51,Luciano Vietto,-,Argentina,4
+2018,73,Dele Alli,-,England,3
+2018,73,Ryan Babel,-,Netherlands,3
+2018,73,Bernard,-,Brazil,3
+2018,73,Étienne Capoue,-,France,3
+2018,73,Rúben Neves,-,Portugal,3
+2018,73,Gabriel Jesus,-,Brazil,3
+2018,73,Pascal Groß,Brighton & Hove Albion,Germany,3
+2018,73,Ilkay Gündogan,-,Germany,3
+2018,73,Jordan Henderson,-,England,3
+2018,73,Ander Herrera,-,Spain,3
+2018,73,Pierre-Emile Højbjerg,-,Denmark,3
+2018,73,Kelechi Iheanacho,-,Nigeria,3
+2018,73,Danny Ings,-,England,3
+2018,73,Joshua King,-,Norway,3
+2018,73,Aymeric Laporte,-,Spain,3
+2018,73,Javier Manquillo,Newcastle United,Spain,3
+2018,73,Aleksandar Mitrovic,-,Serbia,3
+2018,73,Nacho Monreal,-,Spain,3
+2018,73,Sean Morrison,-,England,3
+2018,73,Steve Mounié,-,Benin,3
+2018,73,Fernandinho,-,Brazil,3
+2018,73,Danny Rose,-,England,3
+2018,73,Alexis Sánchez,-,Chile,3
+2018,73,Xherdan Shaqiri,-,Switzerland,3
+2018,73,Moussa Sissoko,-,France,3
+2018,73,Junior Stanislas,-,England,3
+2018,73,Matt Targett,-,England,3
+2018,73,Cenk Tosun,-,Turkey,3
+2017,1,Kevin De Bruyne,Manchester City,Belgium,16
+2017,2,Leroy Sané,-,Germany,15
+2017,3,David Silva,-,Spain,11
+2017,3,Raheem Sterling,-,England,11
+2017,5,Dele Alli,-,England,10
+2017,5,Christian Eriksen,-,Denmark,10
+2017,5,Riyad Mahrez,-,Algeria,10
+2017,5,Paul Pogba,-,France,10
+2017,5,Mohamed Salah,Liverpool,Egypt,10
+2017,10,Henrikh Mkhitaryan,-,Armenia,9
+2017,11,Pascal Groß,Brighton & Hove Albion,Germany,8
+2017,11,Jóhann Gudmundsson,Burnley,Iceland,8
+2017,11,Mesut Özil,-,Germany,8
+2017,11,Aaron Ramsey,-,Wales,8
+2017,15,Marc Albrighton,-,England,7
+2017,15,Roberto Firmino,-,Brazil,7
+2017,15,Willian,-,Brazil,7
+2017,15,Chris Brunt,-,Northern Ireland,7
+2017,15,Aaron Cresswell,West Ham United,England,7
+2017,15,Romelu Lukaku,-,Belgium,7
+2017,15,Sadio Mané,-,Senegal,7
+2017,15,Alex Oxlade-Chamberlain,-,England,7
+2017,15,Xherdan Shaqiri,-,Switzerland,7
+2017,15,Andros Townsend,-,England,7
+2017,15,Granit Xhaka,-,Switzerland,7
+2017,26,Sergio Agüero,-,Argentina,6
+2017,26,Joe Allen,-,Wales,6
+2017,26,Marko Arnautovic,-,Austria,6
+2017,26,César Azpilicueta,-,Spain,6
+2017,26,Dominic Calvert-Lewin,Everton,England,6
+2017,26,Philippe Coutinho,-,Brazil,6
+2017,26,Ben Davies,Tottenham Hotspur,Wales,6
+2017,26,Jordon Ibe,-,England,6
+2017,26,Manuel Lanzini,-,Argentina,6
+2017,26,Álvaro Morata,-,Spain,6
+2017,26,Alexis Sánchez,-,Chile,6
+2017,26,Son Heung-Min,Tottenham Hotspur,South Korea,6
+2017,26,Kyle Walker,Manchester City,England,6
+2017,39,Christian Benteke,-,Belgium,5
+2017,39,Eric Choupo-Moting,-,Cameroon,5
+2017,39,Alex Iwobi,-,Nigeria,5
+2017,39,Jesse Lingard,-,England,5
+2017,39,Anthony Martial,Manchester United,France,5
+2017,39,Juan Mata,-,Spain,5
+2017,39,Ayoze Pérez,-,Spain,5
+2017,39,Marcus Rashford,Manchester United,England,5
+2017,39,Matt Ritchie,Newcastle United,Scotland,5
+2017,39,Andy Robertson,Liverpool,Scotland,5
+2017,39,Andrew Surman,-,England,5
+2017,39,Kieran Trippier,-,England,5
+2017,51,Pierre-Emerick Aubameyang,-,Gabon,4
+2017,51,André Ayew,-,Ghana,4
+2017,51,Ryan Bertrand,-,England,4
+2017,51,Emre Can,-,Germany,4
+2017,51,Tom Carroll,-,England,4
+2017,51,Richarlison,-,Brazil,4
+2017,51,Cesc Fàbregas,-,Spain,4
+2017,51,Eden Hazard,-,Belgium,4
+2017,51,José Holebas,-,Greece,4
+2017,51,Sead Kolasinac,-,Bosnia & Herzegovina,4
+2017,51,Alexandre Lacazette,-,France,4
+2017,51,Harry Maguire,-,England,4
+2017,51,Bernardo Silva,Manchester City,Portugal,4
+2017,51,Davy Pröpper,-,Netherlands,4
+2017,51,Collin Quaner,-,Germany,4
+2017,51,Ashley Young,-,England,4
+2017,67,Nathan Aké,-,Netherlands,3
+2017,67,Cédric Soares,-,Portugal,3
+2017,67,Leighton Baines,-,England,3
+2017,67,Héctor Bellerín,-,Spain,3
+2017,67,Charlie Daniels,-,England,3
+2017,67,Gabriel Jesus,-,Brazil,3
+2017,67,Abdoulaye Doucouré,-,Mali,3
+2017,67,Ryan Fraser,-,Scotland,3
+2017,67,Dwight Gayle,-,England,3
+2017,67,Will Hughes,-,England,3
+2017,67,Kelechi Iheanacho,-,Nigeria,3
+2017,67,José Izquierdo,-,Colombia,3
+2017,67,Joshua King,-,Norway,3
+2017,67,Cheikhou Kouyaté,-,Senegal,3
+2017,67,Ruben Loftus-Cheek,-,England,3
+2017,67,Matthew Lowton,-,England,3
+2017,67,Arthur Masuaku,-,DR Congo,3
+2017,67,James Milner,-,England,3
+2017,67,Aaron Mooy,-,Australia,3
+2017,67,Victor Moses,-,Nigeria,3
+2017,67,Wilfred Ndidi,-,Nigeria,3
+2017,67,Nathan Redmond,Southampton,England,3
+2017,67,Salomón Rondón,-,Venezuela,3
+2017,67,Fernandinho,-,Brazil,3
+2017,67,Jonjo Shelvey,-,England,3
+2017,67,Gylfi Sigurdsson,-,Iceland,3
+2017,67,Adam Smith,-,England,3
+2017,67,Dale Stephens,-,England,3
+2017,67,Dusan Tadic,-,Serbia,3
+2017,67,Theo Walcott,-,England,3
+2017,67,James Ward-Prowse,-,England,3
+2017,67,Jack Wilshere,-,England,3
+2017,67,Wilfried Zaha,-,Cote D’Ivoire,3
+2017,100,Marcos Alonso,-,Spain,2
+2016,1,Kevin De Bruyne,Manchester City,Belgium,18
+2016,2,Christian Eriksen,-,Denmark,15
+2016,3,Gylfi Sigurdsson,-,Iceland,13
+2016,4,Cesc Fàbregas,-,Spain,12
+2016,5,Alexis Sánchez,-,Chile,10
+2016,6,Mesut Özil,-,Germany,9
+2016,6,Pedro,-,Spain,9
+2016,6,Georginio Wijnaldum,-,Netherlands,9
+2016,6,Wilfried Zaha,-,Cote D’Ivoire,9
+2016,10,Ross Barkley,Everton,England,8
+2016,10,Matt Phillips,-,Scotland,8
+2016,12,Dele Alli,-,England,7
+2016,12,Roberto Firmino,-,Brazil,7
+2016,12,Philippe Coutinho,-,Brazil,7
+2016,12,Diego Costa,-,Spain,7
+2016,12,Harry Kane,-,England,7
+2016,12,Adam Lallana,-,England,7
+2016,12,Nemanja Matic,-,Serbia,7
+2016,12,Alex Oxlade-Chamberlain,-,England,7
+2016,12,David Silva,-,Spain,7
+2016,21,Marc Albrighton,-,England,6
+2016,21,Ander Herrera,-,Spain,6
+2016,21,Romelu Lukaku,-,Belgium,6
+2016,21,Anthony Martial,Manchester United,France,6
+2016,21,Kevin Mirallas,-,Belgium,6
+2016,21,Dimitri Payet,-,France,6
+2016,21,Son Heung-Min,Tottenham Hotspur,South Korea,6
+2016,21,Raheem Sterling,-,England,6
+2016,29,Marko Arnautovic,-,Austria,5
+2016,29,Nacer Chadli,-,Belgium,5
+2016,29,Ryan Fraser,-,Scotland,5
+2016,29,Eden Hazard,-,Belgium,5
+2016,29,Zlatan Ibrahimovic,-,Sweden,5
+2016,29,Sadio Mané,-,Senegal,5
+2016,29,Jason Puncheon,-,England,5
+2016,29,Wayne Rooney,-,England,5
+2016,29,Adam Smith,-,England,5
+2016,29,Robert Snodgrass,-,Scotland,5
+2016,29,Junior Stanislas,-,England,5
+2016,29,Dusan Tadic,-,Serbia,5
+2016,29,Kieran Trippier,-,England,5
+2016,29,Jamie Vardy,-,England,5
+2016,29,Kyle Walker,-,England,5
+2016,44,Harry Arter,-,Ireland,4
+2016,44,César Azpilicueta,-,Spain,4
+2016,44,Héctor Bellerín,-,Spain,4
+2016,44,Ryan Bertrand,-,England,4
+2016,44,Yannick Bolasie,-,DR Congo,4
+2016,44,Chris Brunt,-,Northern Ireland,4
+2016,44,Gabriel Jesus,-,Brazil,4
+2016,44,Troy Deeney,-,England,4
+2016,44,Christian Fuchs,-,Austria,4
+2016,44,Jordan Henderson,-,England,4
+2016,44,José Holebas,-,Greece,4
+2016,44,Álvaro Negredo,-,Spain,4
+2016,44,Paul Pogba,-,France,4
+2016,44,Aaron Ramsey,-,Wales,4
+2016,44,Islam Slimani,-,Algeria,4
+2016,44,Andros Townsend,-,England,4
+2016,44,James Ward-Prowse,-,England,4
+2016,61,Charlie Adam,-,Scotland,3
+2016,61,Benik Afobe,-,DR Congo,3
+2016,61,Sergio Agüero,-,Argentina,3
+2016,61,Marcos Alonso,-,Spain,3
+2016,61,Cédric Soares,-,Portugal,3
+2016,61,Nordin Amrabat,-,Morocco,3
+2016,61,Michail Antonio,West Ham United,Jamaica,3
+2016,61,André Ayew,-,Ghana,3
+2016,61,Jordan Ayew,-,Ghana,3
+2016,61,Leighton Baines,-,England,3
+2016,61,Yohan Cabaye,-,France,3
+2016,61,Séamus Coleman,Everton,Ireland,3
+2016,61,Charlie Daniels,-,England,3
+2016,61,Ben Davies,Tottenham Hotspur,Wales,3
+2016,61,Tom Davies,-,England,3
+2016,61,Steven Davis,-,Northern Ireland,3
+2016,61,Steven Defour,-,Belgium,3
+2016,61,Stewart Downing,-,England,3
+2016,61,Sofiane Feghouli,-,Algeria,3
+2016,61,Viktor Fischer,-,Denmark,3
+2016,61,Darren Fletcher,-,Scotland,3
+2016,61,Olivier Giroud,-,France,3
+2016,61,Demarai Gray,-,Jamaica,3
+2016,61,Andre Gray,-,Jamaica,3
+2016,61,Kamil Grosicki,-,Poland,3
+2016,61,Abel Hernández,-,Uruguay,3
+2016,61,Kelechi Iheanacho,-,Nigeria,3
+2016,61,Alex Iwobi,-,Nigeria,3
+2016,61,Adnan Januzaj,-,Belgium,3
+2016,61,Riyad Mahrez,-,Algeria,3
+2016,61,Juan Mata,-,Spain,3
+2016,61,James McArthur,-,Scotland,3
+2016,61,James Milner,-,England,3
+2016,61,Luciano Narsingh,-,Netherlands,3
+2016,61,Divock Origi,Liverpool,Belgium,3
+2016,61,Lucas Leiva,-,Brazil,3
+2016,61,Gastón Ramírez,-,Uruguay,3
+2016,61,Leroy Sané,-,Germany,3
+2016,61,Antonio Valencia,-,Ecuador,3
+2016,61,Sam Vokes,-,Wales,3
+2015,1,Mesut Özil,-,Germany,19
+2015,2,Christian Eriksen,-,Denmark,13
+2015,3,Dimitri Payet,-,France,12
+2015,3,Dusan Tadic,-,Serbia,12
+2015,5,Riyad Mahrez,-,Algeria,11
+2015,5,James Milner,-,England,11
+2015,5,David Silva,-,Spain,11
+2015,8,Dele Alli,-,England,9
+2015,8,Kevin De Bruyne,Manchester City,Belgium,9
+2015,8,Érik Lamela,-,Argentina,9
+2015,11,Ross Barkley,Everton,England,8
+2015,11,Gerard Deulofeu,-,Spain,8
+2015,11,Wes Hoolahan,-,Ireland,8
+2015,14,Roberto Firmino,-,Brazil,7
+2015,14,Troy Deeney,-,England,7
+2015,14,Danny Drinkwater,-,England,7
+2015,14,Cesc Fàbregas,-,Spain,7
+2015,14,Jesús Navas,-,Spain,7
+2015,14,Moussa Sissoko,-,France,7
+2015,20,Marc Albrighton,-,England,6
+2015,20,Marko Arnautovic,-,Austria,6
+2015,20,Willian,-,Brazil,6
+2015,20,Diego Costa,-,Spain,6
+2015,20,Olivier Giroud,-,France,6
+2015,20,Adam Lallana,-,England,6
+2015,20,Romelu Lukaku,-,Belgium,6
+2015,20,Sadio Mané,-,Senegal,6
+2015,20,Graziano Pellè,-,Italy,6
+2015,20,Matt Ritchie,-,Scotland,6
+2015,20,Wayne Rooney,-,England,6
+2015,20,Xherdan Shaqiri,-,Switzerland,6
+2015,20,Jamie Vardy,-,England,6
+2015,33,Héctor Bellerín,-,Spain,5
+2015,33,Philippe Coutinho,-,Brazil,5
+2015,33,Charlie Daniels,-,England,5
+2015,33,Adam Johnson,-,England,5
+2015,33,Juan Mata,-,Spain,5
+2015,33,Jonjo Shelvey,-,England,5
+2015,33,Yaya Touré,-,Cote D’Ivoire,5
+2015,33,Jordan Veretout,-,France,5
+2015,33,Georginio Wijnaldum,-,Netherlands,5
+2015,42,Tom Cleverley,-,England,4
+2015,42,Aaron Cresswell,West Ham United,England,4
+2015,42,Simon Francis,-,England,4
+2015,42,Christian Fuchs,-,Austria,4
+2015,42,Jonny Howson,-,England,4
+2015,42,Daryl Janmaat,-,Netherlands,4
+2015,42,N'Golo Kanté,-,France,4
+2015,42,Arouna Koné,-,[object Object],4
+2015,42,Shane Long,-,Ireland,4
+2015,42,Yann M'Vila,-,France,4
+2015,42,Anthony Martial,Manchester United,France,4
+2015,42,Aleksandar Mitrovic,-,Serbia,4
+2015,42,Alberto Moreno,-,Spain,4
+2015,42,Mark Noble,-,England,4
+2015,42,Aaron Ramsey,-,Wales,4
+2015,42,Alexis Sánchez,-,Chile,4
+2015,42,James Ward-Prowse,-,England,4
+2015,59,Vurnon Anita,-,Curacao,3
+2015,59,Michail Antonio,West Ham United,Jamaica,3
+2015,59,César Azpilicueta,-,Spain,3
+2015,59,Christian Benteke,-,Belgium,3
+2015,59,Ryan Bertrand,-,England,3
+2015,59,Yannick Bolasie,-,DR Congo,3
+2015,59,Wilfried Bony,-,Cote D’Ivoire,3
+2015,59,Chris Brunt,-,Northern Ireland,3
+2015,59,Santi Cazorla,-,Spain,3
+2015,59,Séamus Coleman,Everton,Ireland,3
+2015,59,Steven Davis,-,Northern Ireland,3
+2015,59,Damien Delaney,-,Ireland,3
+2015,59,Oscar,-,Brazil,3
+2015,59,Darren Fletcher,-,Scotland,3
+2015,59,Craig Gardner,-,England,3
+2015,59,Eden Hazard,-,Belgium,3
+2015,59,Jordan Henderson,-,England,3
+2015,59,Odion Ighalo,-,Nigeria,3
+2015,59,Glen Johnson,-,England,3
+2015,59,Aleksandar Kolarov,-,Serbia,3
+2015,59,Jeremain Lens,-,Netherlands,3
+2015,59,Nacho Monreal,-,Spain,3
+2015,59,James Morrison,-,Scotland,3
+2015,59,Kyle Naughton,-,England,3
+2015,59,Sheyi Ojo,-,England,3
+2015,59,Jason Puncheon,-,England,3
+2015,59,Nathan Redmond,Norwich City,England,3
+2015,59,Danny Rose,-,England,3
+2015,59,Bacary Sagna,-,France,3
+2015,59,Gylfi Sigurdsson,-,Iceland,3
+2015,59,Andrew Surman,-,England,3
+2015,59,Antonio Valencia,-,Ecuador,3
+2015,59,Patrick van Aanholt,-,Netherlands,3
+2015,59,Kyle Walker,-,England,3
+2015,59,Jonathan Walters,-,Ireland,3
+2015,59,Connor Wickham,-,England,3
+2015,95,Ibrahim Afellay,-,Netherlands,2
+2015,95,Gabriel Agbonlahor,-,England,2
+2015,95,Sergio Agüero,-,Argentina,2
+2015,95,Toby Alderweireld,-,Belgium,2
+2015,95,Cédric Soares,-,Portugal,2
+2015,95,Jordan Amavi,-,France,2
+2014,1,Cesc Fàbregas,-,Spain,18
+2014,2,Santi Cazorla,-,Spain,11
+2014,3,Chris Brunt,-,Northern Ireland,10
+2014,3,Ángel Di María,-,Argentina,10
+2014,3,Gylfi Sigurdsson,-,Iceland,10
+2014,6,Leighton Baines,-,England,9
+2014,6,Eden Hazard,-,Belgium,9
+2014,6,Jordan Henderson,-,England,9
+2014,9,Sergio Agüero,-,Argentina,8
+2014,9,Oscar,-,Brazil,8
+2014,9,Stewart Downing,-,England,8
+2014,9,Jesús Navas,-,Spain,8
+2014,9,Matt Phillips,-,Scotland,8
+2014,9,Alexis Sánchez,-,Chile,8
+2014,9,Jamie Vardy,-,England,8
+2014,16,Érik Lamela,-,Argentina,7
+2014,16,James Milner,-,England,7
+2014,16,Jefferson Montero,-,Ecuador,7
+2014,16,Jason Puncheon,-,England,7
+2014,16,David Silva,-,Spain,7
+2014,16,Raheem Sterling,-,England,7
+2014,16,Dusan Tadic,-,Serbia,7
+2014,23,Yannick Bolasie,-,DR Congo,6
+2014,23,Jack Colback,-,England,6
+2014,23,Daryl Janmaat,-,Netherlands,6
+2014,23,Samir Nasri,-,France,6
+2014,23,Aaron Ramsey,-,Wales,6
+2014,23,James Ward-Prowse,-,England,6
+2014,29,Marko Arnautovic,-,Austria,5
+2014,29,Charlie Austin,-,England,5
+2014,29,Leandro Bacuna,-,Curacao,5
+2014,29,Nacer Chadli,-,Belgium,5
+2014,29,Philippe Coutinho,-,Brazil,5
+2014,29,Ahmed El Mohamady,-,Egypt,5
+2014,29,Branislav Ivanovic,-,Serbia,5
+2014,29,Shane Long,-,Ireland,5
+2014,29,Romelu Lukaku,-,Belgium,5
+2014,29,Mesut Özil,-,Germany,5
+2014,29,Wayne Rooney,-,England,5
+2014,29,Jonjo Shelvey,-,England,5
+2014,29,Patrick van Aanholt,-,Netherlands,5
+2014,29,Ashley Young,-,England,5
+2014,43,Aaron Cresswell,West Ham United,England,4
+2014,43,Radamel Falcao,-,Colombia,4
+2014,43,Craig Gardner,-,England,4
+2014,43,Ander Herrera,-,Spain,4
+2014,43,Danny Ings,-,England,4
+2014,43,Harry Kane,-,England,4
+2014,43,Ryan Mason,-,England,4
+2014,43,Juan Mata,-,Spain,4
+2014,43,Danny Rose,-,England,4
+2014,43,Ramires,-,Brazil,4
+2014,43,Kieran Trippier,-,England,4
+2014,43,Jonathan Walters,-,Ireland,4
+2014,43,Pablo Zabaleta,-,Argentina,4
+2014,43,Bobby Zamora,-,England,4
+2014,57,Marc Albrighton,-,England,3
+2014,57,César Azpilicueta,-,Spain,3
+2014,57,Joey Barton,-,England,3
+2014,57,Wilfried Bony,-,Cote D’Ivoire,3
+2014,57,Willian,-,Brazil,3
+2014,57,Gaël Clichy,-,France,3
+2014,57,Diego Costa,-,Spain,3
+2014,57,Scott Dann,-,England,3
+2014,57,Fabian Delph,-,England,3
+2014,57,Mame Diouf,-,Senegal,3
+2014,57,Graham Dorrans,-,Scotland,3
+2014,57,Kieran Gibbs,-,England,3
+2014,57,Olivier Giroud,-,France,3
+2014,57,Stephen Ireland,-,Ireland,3
+2014,57,Mile Jedinak,-,Australia,3
+2014,57,Stevan Jovetic,-,Montenegro,3
+2014,57,Aleksandar Kolarov,-,Serbia,3
+2014,57,Adam Lallana,-,England,3
+2014,57,Sebastian Larsson,-,Sweden,3
+2014,57,Riyad Mahrez,-,Algeria,3
+2014,57,Sadio Mané,-,Senegal,3
+2014,57,Nemanja Matic,-,Serbia,3
+2014,57,Victor Moses,-,Nigeria,3
+2014,57,Glenn Murray,-,England,3
+2014,57,Mark Noble,-,England,3
+2014,57,Stephen Quinn,-,Ireland,3
+2014,57,Fernandinho,-,Brazil,3
+2014,57,Stéphane Sessègnon,-,Benin,3
+2014,57,Alexandre Song,-,Cameroon,3
+2014,57,James Tomkins,-,England,3
+2014,57,Leonardo Ulloa,-,Argentina,3
+2014,57,Enner Valencia,-,Ecuador,3
+2014,57,Danny Welbeck,-,England,3
+2014,90,Sammy Ameobi,-,England,2
+2014,90,Ross Barkley,Everton,England,2
+2014,90,Ashley Barnes,-,England,2
+2014,90,Gareth Barry,-,England,2
+2014,90,Nabil Bentaleb,-,Algeria,2
+2014,90,Christian Benteke,-,Belgium,2
+2014,90,Ryan Bertrand,-,England,2
+2014,90,Daley Blind,-,Netherlands,2
+2014,90,George Boyd,-,Scotland,2
+2014,90,Robert Brady,-,Ireland,2
+2014,90,Liam Bridcutt,-,Scotland,2
+2013,1,Steven Gerrard,-,England,13
+2013,2,Luis Suárez,-,Uruguay,12
+2013,3,Rickie Lambert,-,England,10
+2013,3,Wayne Rooney,-,England,10
+2013,5,Mesut Özil,-,Germany,9
+2013,5,David Silva,-,Spain,9
+2013,5,Yaya Touré,-,Cote D’Ivoire,9
+2013,8,Santi Cazorla,-,Spain,8
+2013,8,Christian Eriksen,-,Denmark,8
+2013,8,Olivier Giroud,-,France,8
+2013,8,Kevin Mirallas,-,Belgium,8
+2013,8,Aaron Ramsey,-,Wales,8
+2013,13,Marko Arnautovic,-,Austria,7
+2013,13,Philippe Coutinho,-,Brazil,7
+2013,13,Steven Davis,-,Northern Ireland,7
+2013,13,Eden Hazard,-,Belgium,7
+2013,13,Jordan Henderson,-,England,7
+2013,13,Pablo Hernández,-,Spain,7
+2013,13,Aleksandar Kolarov,-,Serbia,7
+2013,13,Samir Nasri,-,France,7
+2013,13,Jesús Navas,-,Spain,7
+2013,13,Daniel Sturridge,-,England,7
+2013,23,Sergio Agüero,-,Argentina,6
+2013,23,Adam Lallana,-,England,6
+2013,23,Romelu Lukaku,-,Belgium,6
+2013,23,Juan Mata,-,Spain,6
+2013,23,Jonjo Shelvey,-,England,6
+2013,23,Moussa Sissoko,-,France,6
+2013,23,Pablo Zabaleta,-,Argentina,6
+2013,30,Gabriel Agbonlahor,-,England,5
+2013,30,Chris Brunt,-,Northern Ireland,5
+2013,30,Peter Crouch,-,England,5
+2013,30,Adam Johnson,-,England,5
+2013,30,Jordon Mutch,-,England,5
+2013,30,Kevin Nolan,-,England,5
+2013,30,Roberto Soldado,-,Spain,5
+2013,30,Raheem Sterling,-,England,5
+2013,30,Fernando Torres,-,Spain,5
+2013,30,Peter Whittingham,-,England,5
+2013,40,Charlie Adam,-,Scotland,4
+2013,40,Emmanuel Adebayor,-,Togo,4
+2013,40,Marc Albrighton,-,England,4
+2013,40,Leighton Baines,-,England,4
+2013,40,Gareth Barry,-,England,4
+2013,40,Yannick Bolasie,-,DR Congo,4
+2013,40,Wilfried Bony,-,Cote D’Ivoire,4
+2013,40,Andy Carroll,-,England,4
+2013,40,Nathaniel Clyne,-,England,4
+2013,40,Johan Elmander,-,Sweden,4
+2013,40,Emanuele Giaccherini,-,Italy,4
+2013,40,Jake Livermore,-,England,4
+2013,40,Nemanja Matic,-,Serbia,4
+2013,40,James Milner,-,England,4
+2013,40,Mark Noble,-,England,4
+2013,40,Leon Osman,-,England,4
+2013,40,Wayne Routledge,-,England,4
+2013,40,Theo Walcott,-,England,4
+2013,40,Andreas Weimann,-,Austria,4
+2013,40,Jack Wilshere,-,England,4
+2013,60,Sone Aluko,-,Nigeria,3
+2013,60,Morgan Amalfitano,-,France,3
+2013,60,Victor Anichebe,-,Nigeria,3
+2013,60,Hatem Ben Arfa,-,France,3
+2013,60,Nacer Chadli,-,Belgium,3
+2013,60,Jonathan de Guzmán,-,Netherlands,3
+2013,60,Mathieu Debuchy,-,France,3
+2013,60,Gerard Deulofeu,-,Spain,3
+2013,60,Damien Duff,-,Ireland,3
+2013,60,Patrice Evra,-,France,3
+2013,60,Yoan Gouffran,-,France,3
+2013,60,Chicharito,-,Mexico,3
+2013,60,Lewis Holtby,-,Germany,3
+2013,60,Adnan Januzaj,-,Belgium,3
+2013,60,Matthew Jarvis,-,England,3
+2013,60,Shinji Kagawa,-,Japan,3
+2013,60,Frank Lampard,-,England,3
+2013,60,Sebastian Larsson,-,Sweden,3
+2013,60,Aaron Lennon,-,England,3
+2013,60,Matthew Lowton,-,England,3
+2013,60,James McCarthy,-,Ireland,3
+2013,60,James Morrison,-,Scotland,3
+2013,60,Álvaro Negredo,-,Spain,3
+2013,60,Gastón Ramírez,-,Uruguay,3
+2013,60,Nathan Redmond,Norwich City,England,3
+2013,60,Loïc Rémy,-,France,3
+2013,60,Kieran Richardson,-,England,3
+2013,60,Jay Rodríguez,-,England,3
+2013,60,Fernandinho,-,Brazil,3
+2013,60,Bryan Ruiz,-,Costa Rica,3
+2013,60,Antonio Valencia,-,Ecuador,3
+2013,60,Robin van Persie,-,Netherlands,3
+2013,60,Matej Vydra,-,Czech Republic,3
+2013,93,Darren Bent,-,England,2
+2013,93,Christian Benteke,-,Belgium,2
+2013,93,Paulinho,-,Brazil,2
+2013,93,Willian,-,Brazil,2
+2013,93,Fabio Borini,-,Italy,2
+2013,93,George Boyd,-,Scotland,2
+2013,93,Yohan Cabaye,-,France,2
+2013,93,Fraizer Campbell,-,England,2
+2012,1,Juan Mata,-,Spain,12
+2012,2,Santi Cazorla,-,Spain,11
+2012,2,Eden Hazard,-,Belgium,11
+2012,4,Wayne Rooney,-,England,10
+2012,4,Theo Walcott,-,England,10
+2012,6,Steven Gerrard,-,England,9
+2012,6,Lukas Podolski,-,Germany,9
+2012,6,Robin van Persie,-,Netherlands,9
+2012,9,Shaun Maloney,-,Scotland,8
+2012,9,David Silva,-,Spain,8
+2012,9,Carlos Tevez,-,Argentina,8
+2012,12,Jean Beausejour,-,Chile,7
+2012,12,Damien Duff,-,Ireland,7
+2012,12,Aaron Lennon,-,England,7
+2012,12,Jobi McAnuff,-,Jamaica,7
+2012,12,Samir Nasri,-,France,7
+2012,12,Bryan Ruiz,-,Costa Rica,7
+2012,18,Jonathan de Guzmán,-,Netherlands,6
+2012,18,Pablo Hernández,-,Spain,6
+2012,18,Adam Johnson,-,England,6
+2012,18,Steven Pienaar,-,South Africa,6
+2012,18,Robert Snodgrass,-,Scotland,6
+2012,18,Fernando Torres,-,Spain,6
+2012,18,Ashley Westwood,-,England,6
+2012,25,Leighton Baines,-,England,5
+2012,25,Séamus Coleman,Everton,Ireland,5
+2012,25,Philippe Coutinho,-,Brazil,5
+2012,25,Oscar,-,Brazil,5
+2012,25,Stewart Downing,-,England,5
+2012,25,Patrice Evra,-,France,5
+2012,25,Marouane Fellaini,-,Belgium,5
+2012,25,Arouna Koné,-,[object Object],5
+2012,25,Adam Lallana,-,England,5
+2012,25,Rickie Lambert,-,England,5
+2012,25,James Morrison,-,Scotland,5
+2012,25,Jay Rodríguez,-,England,5
+2012,25,Luis Suárez,-,Uruguay,5
+2012,25,Yaya Touré,-,Cote D’Ivoire,5
+2012,25,Antonio Valencia,-,Ecuador,5
+2012,40,Victor Anichebe,-,Nigeria,4
+2012,40,César Azpilicueta,-,Spain,4
+2012,40,Gareth Bale,-,Wales,4
+2012,40,Christian Benteke,-,Belgium,4
+2012,40,Michael Carrick,-,England,4
+2012,40,Andy Carroll,-,England,4
+2012,40,Peter Crouch,-,England,4
+2012,40,Clint Dempsey,-,United States,4
+2012,40,Nathan Dyer,-,England,4
+2012,40,José Enrique,-,Spain,4
+2012,40,Jordan Henderson,-,England,4
+2012,40,Tom Huddlestone,-,England,4
+2012,40,Glen Johnson,-,England,4
+2012,40,Shane Long,-,Ireland,4
+2012,40,Romelu Lukaku,-,Belgium,4
+2012,40,Sylvain Marveaux,-,France,4
+2012,40,Charles N'Zogbia,-,France,4
+2012,40,Joseph O'Brien,-,Ireland,4
+2012,40,Sascha Riether,-,Germany,4
+2012,40,Wayne Routledge,-,England,4
+2012,40,Nicky Shorey,-,England,4
+2012,40,Gylfi Sigurdsson,-,Iceland,4
+2012,40,Adel Taarabt,-,Morocco,4
+2012,40,Ricardo Vaz Tê,-,Portugal,4
+2012,40,Kyle Walker,-,England,4
+2012,40,Danny Welbeck,-,England,4
+2012,40,Glenn Whelan,-,Ireland,4
+2012,67,Gabriel Agbonlahor,-,England,3
+2012,67,Hope Akpan,-,Nigeria,3
+2012,67,Mikel Arteta,-,Spain,3
+2012,67,Elliott Bennett,-,England,3
+2012,67,Dimitar Berbatov,-,Bulgaria,3
+2012,67,Chris Brunt,-,Northern Ireland,3
+2012,67,Nathaniel Clyne,-,England,3
+2012,67,Jermain Defoe,-,England,3
+2012,67,Mousa Dembélé,-,Belgium,3
+2012,67,Graham Dorrans,-,Scotland,3
+2012,67,Edin Dzeko,-,Bosnia & Herzegovina,3
+2012,67,Kieran Gibbs,-,England,3
+2012,67,Ryan Giggs,-,Wales,3
+2012,67,Olivier Giroud,-,France,3
+2012,67,Ian Harte,-,Ireland,3
+2012,67,Chicharito,-,Mexico,3
+2012,67,Brett Holman,-,Australia,3
+2012,67,Grant Holt,-,England,3
+2012,67,Wes Hoolahan,-,Ireland,3
+2012,67,Cameron Jerome,-,England,3
+2012,67,Shinji Kagawa,-,Japan,3
+2012,67,Gervinho,-,Cote D’Ivoire,3
+2012,67,Sebastian Larsson,-,Sweden,3
+2012,67,Matthew Lowton,-,England,3
+2012,67,Stéphane Mbia,-,Cameroon,3
+2012,67,James McClean,-,Ireland,3
+2012,67,James Milner,-,England,3
+2012,67,Kevin Mirallas,-,Belgium,3
+2012,67,Mark Noble,-,England,3
+2012,67,Gary O'Neil,-,England,3
+2012,67,Peter Odemwingie,-,Nigeria,3
+2012,67,Alex Oxlade-Chamberlain,-,England,3
+2012,67,Park Ji-Sung,-,South Korea,3
+2012,67,Rafael,-,Brazil,3
+2011,1,David Silva,-,Spain,15
+2011,2,Juan Mata,-,Spain,13
+2011,2,Antonio Valencia,-,Ecuador,13
+2011,4,Emmanuel Adebayor,-,Togo,11
+2011,4,Alexandre Song,-,Cameroon,11
+2011,6,Nani,-,Portugal,10
+2011,6,Gareth Bale,-,Wales,10
+2011,8,Samir Nasri,-,France,9
+2011,8,Stéphane Sessègnon,-,Benin,9
+2011,8,Robin van Persie,-,Netherlands,9
+2011,11,Sergio Agüero,-,Argentina,8
+2011,11,Ryan Giggs,-,Wales,8
+2011,11,Theo Walcott,-,England,8
+2011,14,Kevin Doyle,-,Ireland,7
+2011,14,Matthew Etherington,-,England,7
+2011,14,Wes Hoolahan,-,Ireland,7
+2011,14,Rafael van der Vaart,-,Netherlands,7
+2011,14,Ashley Young,Manchester United,England,7
+2011,19,Charlie Adam,-,Scotland,6
+2011,19,Chris Brunt,-,Northern Ireland,6
+2011,19,Yohan Cabaye,-,France,6
+2011,19,Ashley Cole,-,England,6
+2011,19,Clint Dempsey,-,United States,6
+2011,19,Chris Eagles,-,England,6
+2011,19,Gervinho,-,Cote D’Ivoire,6
+2011,19,Jermaine Pennant,-,England,6
+2011,19,Martin Petrov,-,Bulgaria,6
+2011,19,Steven Pienaar,-,South Africa,6
+2011,19,Yaya Touré,-,Cote D’Ivoire,6
+2011,30,Gabriel Agbonlahor,-,England,5
+2011,30,Shola Ameobi,-,Nigeria,5
+2011,30,Jean Beausejour,-,Chile,5
+2011,30,Hatem Ben Arfa,-,France,5
+2011,30,Nicklas Bendtner,-,Denmark,5
+2011,30,Royston Drenthe,-,Netherlands,5
+2011,30,Mark Gower,-,England,5
+2011,30,Junior Hoilett,-,Canada,5
+2011,30,Bradley Johnson,-,England,5
+2011,30,Frank Lampard,-,England,5
+2011,30,Aaron Lennon,-,England,5
+2011,30,James Milner,Manchester City,England,5
+2011,30,James Morrison,-,Scotland,5
+2011,30,Danny Murphy,-,England,5
+2011,30,Steven Nzonzi,-,France,5
+2011,30,Micah Richards,-,England,5
+2011,30,Jonathan Walters,-,Ireland,5
+2011,30,Bobby Zamora,-,England,5
+2011,48,Benoit Assou-Ekotto,-,Cameroon,4
+2011,48,Elliott Bennett,-,England,4
+2011,48,Gaël Clichy,-,France,4
+2011,48,Patrice Evra,-,France,4
+2011,48,Marouane Fellaini,-,Belgium,4
+2011,48,Matthew Jarvis,-,England,4
+2011,48,Ivan Klasnic,-,Croatia,4
+2011,48,Aleksandar Kolarov,-,Serbia,4
+2011,48,Luka Modric,-,Croatia,4
+2011,48,Steve Morison,-,Wales,4
+2011,48,Youssouf Mulumbu,-,DR Congo,4
+2011,48,David N'Gog,-,France,4
+2011,48,Charles N'Zogbia,-,France,4
+2011,48,Morten Pedersen,-,Norway,4
+2011,48,Rafael,-,Brazil,4
+2011,48,Aaron Ramsey,-,Wales,4
+2011,48,John Arne Riise,-,Norway,4
+2011,48,Hugo Rodallega,-,Colombia,4
+2011,48,Wayne Rooney,-,England,4
+2011,48,Tomas Rosicky,-,Czech Republic,4
+2011,48,Wayne Routledge,-,England,4
+2011,48,Scott Sinclair,-,England,4
+2011,48,Fernando Torres,-,Spain,4
+2011,48,Raul Meireles,-,Portugal,4
+2011,48,Danny Welbeck,Manchester United,England,4
+2011,73,Andrey Arshavin,-,Russia,3
+2011,73,Gareth Barry,-,England,3
+2011,73,Joey Barton,-,England,3
+2011,73,Craig Bellamy,-,Wales,3
+2011,73,Michael Carrick,-,England,3
+2011,73,Landon Donovan,-,United States,3
+2011,73,Damien Duff,-,Ireland,3
+2011,73,Edin Dzeko,-,Bosnia & Herzegovina,3
+2011,73,Sylvan Ebanks-Blake,-,England,3
+2011,73,Jonny Evans,Manchester United,Northern Ireland,3
+2011,73,David Fox,-,England,3
+2011,73,Jonás Gutiérrez,-,Argentina,3
+2011,73,Tony Hibbert,-,England,3
+2011,73,Stephen Ireland,-,Ireland,3
+2011,73,Florent Malouda,-,France,3
+2011,73,Gabriel Obertan,-,France,3
+2011,73,Bryan Ruiz,-,Costa Rica,3
+2011,73,Gylfi Sigurdsson,-,Iceland,3
+2011,73,Daniel Sturridge,-,England,3
+2011,73,Luis Suárez,-,Uruguay,3
+2011,73,Adel Taarabt,-,Morocco,3
+2011,73,Ryan Taylor,-,England,3
+2011,73,Carlos Tevez,-,Argentina,3
+2011,73,Armand Traore,-,Senegal,3
+2011,73,Shaun Wright-Phillips,-,England,3
+2011,98,Yakubu,-,Nigeria,2
+2011,98,Marc Albrighton,-,England,2
+2011,98,Joe Allen,-,Wales,2
+2010,1,Nani,-,Portugal,14
+2010,2,Didier Drogba,-,Cote D’Ivoire,13
+2010,3,Andrey Arshavin,-,Russia,11
+2010,3,Leighton Baines,-,England,11
+2010,3,Cesc Fàbregas,-,Spain,11
+2010,3,Wayne Rooney,-,England,11
+2010,7,Ashley Young,-,England,10
+2010,8,Joey Barton,-,England,9
+2010,8,Chris Brunt,-,Northern Ireland,9
+2010,10,Charlie Adam,-,Scotland,8
+2010,10,Jermaine Pennant,-,England,8
+2010,10,Rafael van der Vaart,-,Netherlands,8
+2010,13,Stewart Downing,-,England,7
+2010,13,Dirk Kuijt,-,Netherlands,7
+2010,13,Peter Odemwingie,-,Nigeria,7
+2010,13,David Silva,-,Spain,7
+2010,13,Robin van Persie,-,Netherlands,7
+2010,13,Theo Walcott,-,England,7
+2010,19,Peter Crouch,-,England,6
+2010,19,Johan Elmander,-,Sweden,6
+2010,19,Matthew Etherington,-,England,6
+2010,19,Darren Fletcher,-,Scotland,6
+2010,19,Ryan Giggs,-,Wales,6
+2010,19,Matthew Jarvis,-,England,6
+2010,19,Cameron Jerome,-,England,6
+2010,19,Sebastian Larsson,-,Sweden,6
+2010,19,Lee Chung-Yong,-,South Korea,6
+2010,19,James Milner,Manchester City,England,6
+2010,19,Morten Pedersen,-,Norway,6
+2010,19,Carlos Tevez,-,Argentina,6
+2010,31,Mikel Arteta,-,Spain,5
+2010,31,Kevin Davies,-,England,5
+2010,31,Brett Emerton,-,Australia,5
+2010,31,Steven Gerrard,-,England,5
+2010,31,Adam Johnson,-,England,5
+2010,31,Charles N'Zogbia,-,France,5
+2010,31,Leon Osman,-,England,5
+2010,31,Martin Petrov,-,Bulgaria,5
+2010,31,Steven Reid,-,Ireland,5
+2010,31,Jerome Thomas,-,England,5
+2010,31,Raul Meireles,-,Portugal,5
+2010,31,Bobby Zamora,-,England,5
+2010,43,Marc Albrighton,-,England,4
+2010,43,Nicolas Anelka,-,France,4
+2010,43,Dimitar Berbatov,-,Bulgaria,4
+2010,43,Marouane Chamakh,-,Morocco,4
+2010,43,Simon Davies,-,Wales,4
+2010,43,Kevin Doyle,-,Ireland,4
+2010,43,Jonás Gutiérrez,-,Argentina,4
+2010,43,Asamoah Gyan,-,Ghana,4
+2010,43,Jordan Henderson,-,England,4
+2010,43,Thomas Hitzlsperger,-,Germany,4
+2010,43,Branislav Ivanovic,-,Serbia,4
+2010,43,Florent Malouda,-,France,4
+2010,43,Danny Murphy,-,England,4
+2010,43,Roman Pavlyuchenko,-,Russia,4
+2010,43,Matt Phillips,-,Scotland,4
+2010,43,Jason Roberts,-,Grenada,4
+2010,43,Gary Taylor-Fletcher,-,England,4
+2010,43,Fernando Torres,-,Spain,4
+2010,43,Yaya Touré,-,Cote D’Ivoire,4
+2010,62,Abou Diaby,-,France,3
+2010,62,Shola Ameobi,-,Nigeria,3
+2010,62,James Beattie,-,England,3
+2010,62,Tim Cahill,-,Australia,3
+2010,62,Andy Carroll,-,England,3
+2010,62,Ashley Cole,-,England,3
+2010,62,Mark Davies,-,England,3
+2010,62,Mousa Dembélé,-,Belgium,3
+2010,62,Clint Dempsey,-,United States,3
+2010,62,El Hadji Diouf,-,Senegal,3
+2010,62,Sylvan Ebanks-Blake,-,England,3
+2010,62,Ian Evatt,-,England,3
+2010,62,Elliot Grandin,-,France,3
+2010,62,Andrew Johnson,-,England,3
+2010,62,Salomon Kalou,-,Cote D’Ivoire,3
+2010,62,Peter Løvenkrands,-,Denmark,3
+2010,62,Steed Malbranque,-,France,3
+2010,62,Nenad Milijas,-,Serbia,3
+2010,62,James Morrison,-,Scotland,3
+2010,62,Victor Moses,-,Nigeria,3
+2010,62,Ryan Nelsen,-,New Zealand,3
+2010,62,Mark Noble,-,England,3
+2010,62,John O'Shea,-,Ireland,3
+2010,62,Victor Obinna,-,Nigeria,3
+2010,62,Jonas Olsson,-,Sweden,3
+2010,62,Park Ji-Sung,-,South Korea,3
+2010,62,Frédéric Piquionne,-,France,3
+2010,62,Kieran Richardson,-,England,3
+2010,62,Bacary Sagna,-,France,3
+2010,62,Paul Scholes,-,England,3
+2010,62,Stéphane Sessègnon,-,Benin,3
+2010,62,Luis Suárez,-,Uruguay,3
+2010,62,Matthew Taylor,-,England,3
+2010,62,Luke Varney,-,England,3
+2010,62,Kyle Walker,-,England,3
+2010,62,Jack Wilshere,-,England,3
+2010,62,Boudewijn Zenden,-,Netherlands,3
+2010,62,Nikola Zigic,-,Serbia,3
+2010,100,Gareth Barry,-,England,2
+2009,1,Frank Lampard,-,England,14
+2009,2,Cesc Fàbregas,-,Spain,13
+2009,3,James Milner,-,England,12
+2009,4,Didier Drogba,-,Cote D’Ivoire,10
+2009,5,Ryan Giggs,-,Wales,9
+2009,5,Aaron Lennon,-,England,9
+2009,7,Leighton Baines,-,England,8
+2009,7,Craig Bellamy,-,Wales,8
+2009,7,Matthew Etherington,-,England,8
+2009,7,Florent Malouda,-,France,8
+2009,11,Nicolas Anelka,-,France,7
+2009,11,Gareth Barry,-,England,7
+2009,11,Kevin Davies,-,England,7
+2009,11,Steven Gerrard,-,England,7
+2009,11,Morten Pedersen,-,Norway,7
+2009,11,Carlos Tevez,-,Argentina,7
+2009,11,Antonio Valencia,-,Ecuador,7
+2009,11,Robin van Persie,-,Netherlands,7
+2009,11,Shaun Wright-Phillips,-,England,7
+2009,11,Ashley Young,-,England,7
+2009,21,Nani,-,Portugal,6
+2009,21,Alberto Aquilani,-,Italy,6
+2009,21,Peter Crouch,-,England,6
+2009,21,Niko Kranjcar,-,Croatia,6
+2009,21,Charles N'Zogbia,-,France,6
+2009,21,Andy Reid,-,Ireland,6
+2009,27,Gareth Bale,-,Wales,5
+2009,27,Michael Ballack,-,Germany,5
+2009,27,Nicklas Bendtner,-,Denmark,5
+2009,27,Christian Benitez,-,Ecuador,5
+2009,27,Dimitar Berbatov,-,Bulgaria,5
+2009,27,Joe Cole,-,England,5
+2009,27,Steven Fletcher,-,Scotland,5
+2009,27,Darren Fletcher,-,Scotland,5
+2009,27,Jordan Henderson,-,England,5
+2009,27,Branislav Ivanovic,-,Serbia,5
+2009,27,Adam Johnson,-,England,5
+2009,27,Steed Malbranque,-,France,5
+2009,39,Yakubu,-,Nigeria,4
+2009,39,Eduardo da Silva,-,Croatia,4
+2009,39,Yossi Benayoun,-,Israel,4
+2009,39,Michael Brown,-,England,4
+2009,39,Tim Cahill,-,Australia,4
+2009,39,Fraizer Campbell,-,England,4
+2009,39,Jermain Defoe,-,England,4
+2009,39,Wade Elliott,-,England,4
+2009,39,Stephen Hunt,-,Ireland,4
+2009,39,Emiliano Insúa,-,Argentina,4
+2009,39,Tyrone Mears,-,Jamaica,4
+2009,39,Samir Nasri,-,France,4
+2009,39,Erik Nevland,-,Norway,4
+2009,39,Mark Noble,-,England,4
+2009,39,Jamie O'Hara,-,England,4
+2009,39,Hugo Rodallega,-,Colombia,4
+2009,39,Tomas Rosicky,-,Czech Republic,4
+2009,39,Bobby Zamora,-,England,4
+2009,57,Abou Diaby,-,France,3
+2009,57,Emmanuel Adebayor,-,Togo,3
+2009,57,Gabriel Agbonlahor,-,England,3
+2009,57,Jozy Altidore,-,United States,3
+2009,57,Christophe Berra,-,Scotland,3
+2009,57,Robbie Blake,-,England,3
+2009,57,John Carew,-,Norway,3
+2009,57,Lee Cattermole,-,England,3
+2009,57,Tamir Cohen,-,Israel,3
+2009,57,Ashley Cole,-,England,3
+2009,57,Carlton Cole,-,England,3
+2009,57,Jack Collison,-,Wales,3
+2009,57,Jack Cork,-,England,3
+2009,57,Robinho,-,Brazil,3
+2009,57,Clint Dempsey,-,United States,3
+2009,57,Alessandro Diamanti,-,Italy,3
+2009,57,Landon Donovan,-,United States,3
+2009,57,Damien Duff,-,Ireland,3
+2009,57,Chris Eagles,-,England,3
+2009,57,Emmanuel Eboué,-,Cote D’Ivoire,3
+2009,57,Patrice Evra,-,France,3
+2009,57,Julien Faubert,-,Martinique,3
+2009,57,Guillermo Franco,-,Mexico,3
+2009,57,Ricardo Fuller,-,Jamaica,3
+2009,57,Zoltán Gera,-,Hungary,3
+2009,57,John Heitinga,-,Netherlands,3
+2009,57,Tom Huddlestone,-,England,3
+2009,57,Matthew Jarvis,-,England,3
+2009,57,Cameron Jerome,-,England,3
+2009,57,Glen Johnson,-,England,3
+2009,57,Kenwyne Jones,-,Trinidad & Tobago,3
+2009,57,Salomon Kalou,-,Cote D’Ivoire,3
+2009,57,Dirk Kuijt,-,Netherlands,3
+2009,57,Lee Chung-Yong,-,South Korea,3
+2009,57,Dean Marney,-,England,3
+2009,57,Benni McCarthy,-,South Africa,3
+2009,57,James McFadden,-,Scotland,3
+2009,57,Nenad Milijas,-,Serbia,3
+2009,57,Luka Modric,-,Croatia,3
+2009,57,Victor Moses,-,Nigeria,3
+2009,57,Scott Parker,-,England,3
+2009,57,Martin Petrov,-,Bulgaria,3
+2009,57,Steven Pienaar,-,South Africa,3
+2009,57,Aaron Ramsey,-,Wales,3
+2008,1,Frank Lampard,-,England,10
+2008,1,Robin van Persie,-,Netherlands,10
+2008,3,Dimitar Berbatov,-,Bulgaria,9
+2008,3,Steven Gerrard,-,England,9
+2008,3,Stephen Ireland,-,Ireland,9
+2008,6,Cesc Fàbregas,-,Spain,8
+2008,6,Dirk Kuijt,-,Netherlands,8
+2008,6,Steed Malbranque,-,France,8
+2008,6,James Milner,-,England,8
+2008,10,Gareth Barry,-,England,7
+2008,10,Ryan Giggs,-,Wales,7
+2008,10,Robbie Keane,-,Ireland,7
+2008,10,Morten Pedersen,-,Norway,7
+2008,10,Denilson,-,Brazil,7
+2008,10,Steven Pienaar,-,South Africa,7
+2008,10,Wayne Rooney,-,England,7
+2008,10,Ashley Young,-,England,7
+2008,18,Mikel Arteta,-,Spain,6
+2008,18,Leighton Baines,-,England,6
+2008,18,Cristiano Ronaldo,-,Portugal,6
+2008,18,Luka Modric,-,Croatia,6
+2008,22,Gabriel Agbonlahor,-,England,5
+2008,22,Andrey Arshavin,-,Russia,5
+2008,22,Yossi Benayoun,-,Israel,5
+2008,22,Michael Carrick,-,England,5
+2008,22,Peter Crouch,-,England,5
+2008,22,Simon Davies,-,Wales,5
+2008,22,Robinho,-,Brazil,5
+2008,22,Florent Malouda,-,France,5
+2008,22,Grétar Steinsson,-,Iceland,5
+2008,31,Emmanuel Adebayor,-,Togo,4
+2008,31,Xabi Alonso,-,Spain,4
+2008,31,Fábio Aurélio,-,Brazil,4
+2008,31,Michael Ballack,-,Germany,4
+2008,31,Gary Cahill,-,England,4
+2008,31,Joe Cole,-,England,4
+2008,31,Kevin Davies,-,England,4
+2008,31,Jermain Defoe,-,England,4
+2008,31,Rory Delap,-,Ireland,4
+2008,31,Didier Drogba,-,Cote D’Ivoire,4
+2008,31,Salomon Kalou,-,Cote D’Ivoire,4
+2008,31,Aaron Lennon,-,England,4
+2008,31,Dean Marney,-,England,4
+2008,31,Danny Murphy,-,England,4
+2008,31,Kevin Nolan,-,England,4
+2008,31,Leon Osman,-,England,4
+2008,31,Jermaine Pennant,-,England,4
+2008,31,Andy Reid,-,Ireland,4
+2008,31,Tuncay Sanli,-,Turkey,4
+2008,31,Matthew Taylor,-,England,4
+2008,31,Antonio Valencia,-,Ecuador,4
+2008,31,Shaun Wright-Phillips,-,England,4
+2008,53,James Beattie,-,England,3
+2008,53,Nadir Belhadj,-,Algeria,3
+2008,53,Luís Boa Morte,-,Portugal,3
+2008,53,José Bosingwa,-,Portugal,3
+2008,53,Jimmy Bullard,-,England,3
+2008,53,Tim Cahill,-,Australia,3
+2008,53,John Carew,-,Norway,3
+2008,53,Carlton Cole,-,England,3
+2008,53,Vedran Corluka,-,Croatia,3
+2008,53,Andy Dawson,-,England,3
+2008,53,Jô,-,Brazil,3
+2008,53,David Di Michele,-,Italy,3
+2008,53,Stewart Downing,-,England,3
+2008,53,Emmanuel Eboué,-,Cote D’Ivoire,3
+2008,53,Matthew Etherington,-,England,3
+2008,53,Craig Fagan,-,England,3
+2008,53,Danny Guthrie,-,England,3
+2008,53,Jonás Gutiérrez,-,Argentina,3
+2008,53,Danny Higginbotham,-,Gibraltar,3
+2008,53,Jermaine Jenas,-,England,3
+2008,53,Glen Johnson,-,England,3
+2008,53,Andrew Johnson,-,England,3
+2008,53,Vincent Kompany,-,Belgium,3
+2008,53,Niko Kranjcar,-,Croatia,3
+2008,53,Liam Lawrence,-,Ireland,3
+2008,53,Benni McCarthy,-,South Africa,3
+2008,53,James Morrison,-,Scotland,3
+2008,53,Phil Neville,-,England,3
+2008,53,Geremi,-,Cameroon,3
+2008,53,Mark Noble,-,England,3
+2008,53,John O'Shea,-,Ireland,3
+2008,53,Scott Parker,-,England,3
+2008,53,Elano,-,Brazil,3
+2008,53,Albert Riera,-,Spain,3
+2008,53,Christopher Samba,-,Congo,3
+2008,53,Daniel Sturridge,-,England,3
+2008,53,Carlos Tevez,-,Argentina,3
+2008,53,Fernando Torres,-,Spain,3
+2008,53,Borja Valero,-,Spain,3
+2008,53,Stephen Warnock,-,England,3
+2008,93,Abou Diaby,-,France,2
+2008,93,Daniel Agger,-,Denmark,2
+2008,93,Jérémie Aliadière,-,France,2
+2008,93,Nani,-,Portugal,2
+2008,93,Nicolas Anelka,-,France,2
+2008,93,Nicklas Bendtner,-,Denmark,2
+2008,93,Darren Bent,-,England,2
+2008,93,David Bentley,-,England,2
+2007,1,Cesc Fàbregas,-,Spain,17
+2007,2,Ashley Young,-,England,14
+2007,3,Gareth Barry,-,England,10
+2007,3,Salomon Kalou,-,Cote D’Ivoire,10
+2007,3,Wayne Rooney,-,England,10
+2007,6,Nani,-,Portugal,9
+2007,6,Dimitar Berbatov,-,Bulgaria,9
+2007,6,Elano,-,Brazil,9
+2007,6,Nicky Shorey,-,England,9
+2007,10,David Bentley,-,England,8
+2007,10,Steven Gerrard,-,England,8
+2007,10,Frank Lampard,-,England,8
+2007,10,Martin Petrov,-,Bulgaria,8
+2007,14,Carlton Cole,-,England,7
+2007,14,Simon Davies,-,Wales,7
+2007,14,Tom Huddlestone,-,England,7
+2007,14,Geremi,-,Cameroon,7
+2007,18,Jérémie Aliadière,-,France,6
+2007,18,El Hadji Diouf,-,Senegal,6
+2007,18,Cristiano Ronaldo,-,Portugal,6
+2007,18,Stewart Downing,-,England,6
+2007,18,Didier Drogba,-,Cote D’Ivoire,6
+2007,18,Aliaksandr Hleb,-,Belarus,6
+2007,18,Jermaine Jenas,-,England,6
+2007,18,Kenwyne Jones,-,Trinidad & Tobago,6
+2007,18,Carlos Tevez,-,Argentina,6
+2007,27,Mikel Arteta,-,Spain,5
+2007,27,Pascal Chimbonda,-,France,5
+2007,27,Gaël Clichy,-,France,5
+2007,27,Joe Cole,-,England,5
+2007,27,Sebastian Larsson,-,Sweden,5
+2007,27,Steven Pienaar,-,South Africa,5
+2007,27,Jason Roberts,-,Grenada,5
+2007,27,Roque Santa Cruz,-,Paraguay,5
+2007,35,Emmanuel Adebayor,-,Togo,4
+2007,35,Gabriel Agbonlahor,-,England,4
+2007,35,Nicolas Anelka,-,France,4
+2007,35,Julio Arca,-,Argentina,4
+2007,35,Emre,-,Turkey,4
+2007,35,Lee Carsley,-,Ireland,4
+2007,35,Pedro Mendes,-,Portugal,4
+2007,35,Kevin Davies,-,England,4
+2007,35,Ryan Giggs,-,Wales,4
+2007,35,Stephen Hunt,-,Ireland,4
+2007,35,Stephen Ireland,-,Ireland,4
+2007,35,Glen Johnson,-,England,4
+2007,35,Andrew Johnson,-,England,4
+2007,35,Jason Koumas,-,Wales,4
+2007,35,Dirk Kuijt,-,Netherlands,4
+2007,35,Grant Leadbitter,-,England,4
+2007,35,George McCartney,-,Northern Ireland,4
+2007,35,James McFadden,-,Scotland,4
+2007,35,Lucas Leiva,-,Brazil,4
+2007,35,Fábio Rochemback,-,Brazil,4
+2007,35,Bacary Sagna,-,France,4
+2007,35,Paul Scholes,-,England,4
+2007,35,Fernando Torres,-,Spain,4
+2007,35,Shaun Wright-Phillips,-,England,4
+2007,59,Eduardo da Silva,-,Croatia,3
+2007,59,Ryan Babel,-,Netherlands,3
+2007,59,Joey Barton,-,England,3
+2007,59,Nicklas Bendtner,-,Denmark,3
+2007,59,Darren Bent,-,England,3
+2007,59,George Boateng,-,Netherlands,3
+2007,59,Jimmy Bullard,-,England,3
+2007,59,Papa Bouba Diop,-,Senegal,3
+2007,59,David Dunn,-,England,3
+2007,59,Michael Essien,-,Ghana,3
+2007,59,Mikael Forssell,-,Finland,3
+2007,59,Steve Howard,-,Scotland,3
+2007,59,Phil Jagielka,-,England,3
+2007,59,Kanu,-,Nigeria,3
+2007,59,Robbie Keane,-,Ireland,3
+2007,59,Aaron Lennon,-,England,3
+2007,59,Freddie Ljungberg,-,Sweden,3
+2007,59,Gary McSheffrey,-,England,3
+2007,59,Sulley Muntari,-,Ghana,3
+2007,59,Daryl Murphy,-,Ireland,3
+2007,59,Mark Noble,-,England,3
+2007,59,Kevin Nolan,-,England,3
+2007,59,Gary O'Neil,-,England,3
+2007,59,Nigel Reo-Coker,-,England,3
+2007,59,Liam Ridgewell,-,England,3
+2007,59,John Arne Riise,-,Norway,3
+2007,59,Ryan Taylor,-,England,3
+2007,59,John Utaka,-,Nigeria,3
+2007,59,Darius Vassell,-,England,3
+2007,59,Theo Walcott,-,England,3
+2007,59,Stephen Warnock,-,England,3
+2007,90,Yakubu,-,Nigeria,2
+2007,90,Gilberto Silva,-,Brazil,2
+2007,90,Yossi Benayoun,-,Israel,2
+2007,90,Marcus Bent,-,England,2
+2007,90,Habib Beye,-,Senegal,2
+2007,90,Luís Boa Morte,-,Portugal,2
+2007,90,Lee Bowyer,-,England,2
+2007,90,Wes Brown,-,England,2
+2007,90,Tim Cahill,-,Australia,2
+2007,90,Jamie Carragher,-,England,2
+2007,90,Michael Carrick,-,England,2
+2006,1,Cesc Fàbregas,-,Spain,11
+2006,1,Wayne Rooney,-,England,11
+2006,3,Frank Lampard,-,England,10
+2006,4,Mikel Arteta,-,Spain,9
+2006,4,Dimitar Berbatov,-,Bulgaria,9
+2006,6,David Bentley,-,England,8
+2006,6,Cristiano Ronaldo,-,Portugal,8
+2006,6,Stewart Downing,-,England,8
+2006,9,Ryan Giggs,-,Wales,7
+2006,9,Aaron Lennon,-,England,7
+2006,11,Peter Crouch,-,England,6
+2006,11,Kevin Kilbane,-,Ireland,6
+2006,11,Morten Pedersen,-,Norway,6
+2006,11,Georgios Samaras,-,Greece,6
+2006,11,Andriy Shevchenko,-,Ukraine,6
+2006,11,Steve Sidwell,-,England,6
+2006,11,Ashley Young,-,England,6
+2006,18,Nicolas Anelka,-,France,5
+2006,18,Kevin Davies,-,England,5
+2006,18,Sean Davis,-,England,5
+2006,18,El Hadji Diouf,-,Senegal,5
+2006,18,Stephen Hunt,-,Ireland,5
+2006,18,Lee McCulloch,-,Scotland,5
+2006,18,James Milner,-,England,5
+2006,18,Lucas Neill,-,Australia,5
+2006,18,Phil Neville,-,England,5
+2006,18,Nicky Shorey,-,England,5
+2006,28,Gabriel Agbonlahor,-,England,4
+2006,28,Yakubu,-,Nigeria,4
+2006,28,Gareth Barry,-,England,4
+2006,28,Joey Barton,-,England,4
+2006,28,Wayne Bridge,-,England,4
+2006,28,Ivan Campo,-,Spain,4
+2006,28,Didier Drogba,-,Cote D’Ivoire,4
+2006,28,Emmanuel Eboué,-,Cote D’Ivoire,4
+2006,28,Steve Finnan,-,Ireland,4
+2006,28,Luis Garcia,-,Spain,4
+2006,28,Thierry Henry,-,France,4
+2006,28,Aliaksandr Hleb,-,Belarus,4
+2006,28,Dirk Kuijt,-,Netherlands,4
+2006,28,Steed Malbranque,-,France,4
+2006,28,Nick Montgomery,-,Scotland,4
+2006,28,Gary O'Neil,-,England,4
+2006,28,Jermaine Pennant,-,England,4
+2006,28,Emanuel Pogatetz,-,Austria,4
+2006,28,Arjen Robben,-,Netherlands,4
+2006,28,Louis Saha,-,France,4
+2006,28,Seol Ki-Hyeon,-,South Korea,4
+2006,28,Nolberto Solano,-,Peru,4
+2006,28,Matthew Taylor,-,England,4
+2006,28,Shaun Wright-Phillips,-,England,4
+2006,52,Emmanuel Adebayor,-,Togo,3
+2006,52,Fábio Aurélio,-,Brazil,3
+2006,52,James Beattie,-,England,3
+2006,52,Yossi Benayoun,-,Israel,3
+2006,52,Luís Boa Morte,-,Portugal,3
+2006,52,Hameur Bouazza,-,Algeria,3
+2006,52,Michael Carrick,-,England,3
+2006,52,Lee Carsley,-,Ireland,3
+2006,52,Pascal Chimbonda,-,France,3
+2006,52,Bobby Convey,-,United States,3
+2006,52,Pedro Mendes,-,Portugal,3
+2006,52,Simon Davies,-,Wales,3
+2006,52,Brett Emerton,-,Australia,3
+2006,52,Michael Essien,-,Ghana,3
+2006,52,Derek Geary,-,Ireland,3
+2006,52,Jimmy Floyd Hasselbaink,-,Netherlands,3
+2006,52,Heidar Helguson,-,Iceland,3
+2006,52,Claus Jensen,-,Denmark,3
+2006,52,Colin Kazim-Richards,-,Turkey,3
+2006,52,Glen Little,-,England,3
+2006,52,Obafemi Martins,-,Nigeria,3
+2006,52,Benjani,-,Zimbabwe,3
+2006,52,Gary Neville,-,England,3
+2006,52,John Obi Mikel,-,Nigeria,3
+2006,52,Franck Queudrue,-,France,3
+2006,52,Tomasz Radzinski,-,Canada,3
+2006,52,Fábio Rochemback,-,Brazil,3
+2006,52,Tommy Smith,-,England,3
+2006,52,Gary Speed,-,Wales,3
+2006,52,Idan Tal,-,Israel,3
+2006,52,Carlos Tevez,-,Argentina,3
+2006,52,Robin van Persie,-,Netherlands,3
+2006,52,Mark Viduka,-,Australia,3
+2006,52,Theo Walcott,-,England,3
+2006,52,Bobby Zamora,-,England,3
+2006,87,Daniel Agger,-,Denmark,2
+2006,87,Gilberto Silva,-,Brazil,2
+2006,87,Craig Bellamy,-,Wales,2
+2006,87,Emre,-,Turkey,2
+2006,87,Marcus Bent,-,England,2
+2006,87,Patrik Berger,-,Czech Republic,2
+2006,87,Wes Brown,-,England,2
+2006,87,Nicky Butt,-,England,2
+2006,87,Sol Campbell,-,England,2
+2006,87,John Carew,-,Norway,2
+2006,87,Lee Cattermole,-,England,2
+2006,87,Ashley Cole,-,England,2
+2006,87,Bernardo Corradi,-,Italy,2
+2006,87,Paul Dickov,-,Scotland,2
+2005,1,Didier Drogba,-,Cote D’Ivoire,11
+2005,2,José Antonio Reyes,-,Spain,10
+2005,3,Luís Boa Morte,-,Portugal,9
+2005,3,Wayne Rooney,-,England,9
+2005,5,Thierry Henry,-,France,8
+2005,5,Frank Lampard,-,England,8
+2005,5,James Milner,-,England,8
+2005,5,Danny Murphy,-,England,8
+2005,5,Charles N'Zogbia,-,France,8
+2005,5,Park Ji-Sung,-,South Korea,8
+2005,11,Xabi Alonso,-,Spain,7
+2005,11,Mikel Arteta,-,Spain,7
+2005,11,Kevin Davies,-,England,7
+2005,11,Ryan Giggs,-,Wales,7
+2005,11,Darius Vassell,-,England,7
+2005,16,Yakubu,-,Nigeria,6
+2005,16,Yossi Benayoun,-,Israel,6
+2005,16,Michael Carrick,-,England,6
+2005,16,Cristiano Ronaldo,-,Portugal,6
+2005,16,Mido,-,Egypt,6
+2005,16,Jermaine Pennant,-,England,6
+2005,16,Dean Whitehead,-,England,6
+2005,16,Bobby Zamora,-,England,6
+2005,24,Andrew Cole,-,England,5
+2005,24,Peter Crouch,-,England,5
+2005,24,Jermain Defoe,-,England,5
+2005,24,Asier Del Horno,-,Spain,5
+2005,24,Matthew Etherington,-,England,5
+2005,24,Cesc Fàbregas,-,Spain,5
+2005,24,Steven Gerrard,-,England,5
+2005,24,Eidur Gudjohnsen,-,Iceland,5
+2005,24,Aaron Hughes,-,Northern Ireland,5
+2005,24,Fernando Morientes,-,Spain,5
+2005,24,James Morrison,-,Scotland,5
+2005,24,Morten Pedersen,-,Norway,5
+2005,36,Emmanuel Adebayor,-,Togo,4
+2005,36,Joey Barton,-,England,4
+2005,36,Darren Bent,-,England,4
+2005,36,Jimmy Bullard,-,England,4
+2005,36,Joe Cole,-,England,4
+2005,36,Stewart Downing,-,England,4
+2005,36,Damien Duff,-,Ireland,4
+2005,36,Stelios Giannakopoulos,-,Greece,4
+2005,36,Jonathan Greening,-,England,4
+2005,36,Marlon Harewood,-,England,4
+2005,36,Emile Heskey,-,England,4
+2005,36,Jermaine Jenas,-,England,4
+2005,36,Paul Konchesky,-,England,4
+2005,36,Shefki Kuqi,-,Finland,4
+2005,36,Steed Malbranque,-,France,4
+2005,36,Kevin Nolan,-,England,4
+2005,36,Leon Osman,-,England,4
+2005,36,Kevin Phillips,-,England,4
+2005,36,Robert Pirès,-,France,4
+2005,36,Tomasz Radzinski,-,Canada,4
+2005,36,Nigel Reo-Coker,-,England,4
+2005,36,Dennis Rommedahl,-,Denmark,4
+2005,36,Alan Shearer,-,England,4
+2005,36,Teemu Tainio,-,Finland,4
+2005,36,Matthew Taylor,-,England,4
+2005,36,Ricardo Vaz Tê,-,Portugal,4
+2005,36,Mark Viduka,-,Australia,4
+2005,63,Julio Arca,-,Argentina,3
+2005,63,Milan Baros,-,Czech Republic,3
+2005,63,James Beattie,-,England,3
+2005,63,Tim Cahill,-,Australia,3
+2005,63,Henri Camara,-,Senegal,3
+2005,63,Pascal Chimbonda,-,France,3
+2005,63,Simon Elliott,-,New Zealand,3
+2005,63,Brett Emerton,-,Australia,3
+2005,63,Steve Finnan,-,Ireland,3
+2005,63,Mathieu Flamini,-,France,3
+2005,63,Luis Garcia,-,Spain,3
+2005,63,Hermann Hreidarsson,-,Iceland,3
+2005,63,Bryan Hughes,-,England,3
+2005,63,Junichi Inamoto,-,Japan,3
+2005,63,Kanu,-,Nigeria,3
+2005,63,Robbie Keane,-,Ireland,3
+2005,63,Harry Kewell,-,Australia,3
+2005,63,Aaron Lennon,-,England,3
+2005,63,Freddie Ljungberg,-,Sweden,3
+2005,63,Lomana Lua Lua,-,DR Congo,3
+2005,63,Brian McBride,-,United States,3
+2005,63,Brian Priske,-,Denmark,3
+2005,63,Franck Queudrue,-,France,3
+2005,63,Arjen Robben,-,Netherlands,3
+2005,63,Laurent Robert,-,France,3
+2005,63,Jason Roberts,-,Grenada,3
+2005,63,Fábio Rochemback,-,Brazil,3
+2005,63,Wayne Routledge,-,England,3
+2005,63,Robbie Savage,-,Wales,3
+2005,63,Teddy Sheringham,-,England,3
+2005,63,Trevor Sinclair,-,England,3
+2005,63,Gary Speed,-,Wales,3
+2005,63,Gary Teale,-,Scotland,3
+2005,63,Andy van der Meijde,-,Netherlands,3
+2005,63,Ruud van Nistelrooij,-,Netherlands,3
+2005,63,Shaun Wright-Phillips,-,England,3
+2005,99,Darren Ambrose,-,England,2
+2005,99,Shola Ameobi,-,Nigeria,2
+2004,1,Frank Lampard,-,England,18
+2004,2,Thierry Henry,-,France,14
+2004,3,Dennis Bergkamp,-,Netherlands,12
+2004,4,Stewart Downing,-,England,11
+2004,5,José Antonio Reyes,-,Spain,10
+2004,6,Luís Boa Morte,-,Portugal,9
+2004,6,Ryan Giggs,-,Wales,9
+2004,6,Jonathan Greening,-,England,9
+2004,6,Arjen Robben,-,Netherlands,9
+2004,6,Wayne Routledge,-,England,9
+2004,11,Freddie Ljungberg,-,Sweden,8
+2004,12,Damien Duff,-,Ireland,7
+2004,12,Jimmy Floyd Hasselbaink,-,Netherlands,7
+2004,12,Danny Murphy,-,England,7
+2004,12,John Arne Riise,-,Norway,7
+2004,16,Peter Crouch,-,England,6
+2004,16,Thomas Gravesen,-,Denmark,6
+2004,16,Eidur Gudjohnsen,-,Iceland,6
+2004,16,Dietmar Hamann,-,Germany,6
+2004,16,Darren Huckerby,-,England,6
+2004,16,Frederic Kanoute,-,Mali,6
+2004,16,Steed Malbranque,-,France,6
+2004,16,Patrick Vieira,-,France,6
+2004,24,Juan Pablo Ángel,-,Colombia,5
+2004,24,Joey Barton,-,England,5
+2004,24,Patrik Berger,-,Czech Republic,5
+2004,24,Tim Cahill,-,Australia,5
+2004,24,Ulises de la Cruz,-,Ecuador,5
+2004,24,Didier Drogba,-,Cote D’Ivoire,5
+2004,24,Cesc Fàbregas,-,Spain,5
+2004,24,Robbie Fowler,-,England,5
+2004,24,Robbie Keane,-,Ireland,5
+2004,24,Mark Pembridge,-,Wales,5
+2004,24,Laurent Robert,-,France,5
+2004,24,Nolberto Solano,-,Peru,5
+2004,24,Gary Speed,-,Wales,5
+2004,37,Xabi Alonso,-,Spain,4
+2004,37,Craig Bellamy,-,Wales,4
+2004,37,Marcus Bent,-,England,4
+2004,37,Eyal Berkovic,-,Israel,4
+2004,37,Lauren,-,Cameroon,4
+2004,37,Michael Carrick,-,England,4
+2004,37,Carlton Cole,-,England,4
+2004,37,Andrew Cole,-,England,4
+2004,37,Rory Delap,-,Ireland,4
+2004,37,El Hadji Diouf,-,Senegal,4
+2004,37,Cristiano Ronaldo,-,Portugal,4
+2004,37,Brett Emerton,-,Australia,4
+2004,37,Fabrice Fernandes,-,France,4
+2004,37,Luis Garcia,-,Spain,4
+2004,37,Steven Gerrard,-,England,4
+2004,37,Stelios Giannakopoulos,-,Greece,4
+2004,37,Emile Heskey,-,England,4
+2004,37,Brian McBride,-,United States,4
+2004,37,Leon McKenzie,-,England,4
+2004,37,Robert Pirès,-,France,4
+2004,37,Franck Queudrue,-,France,4
+2004,37,Tomasz Radzinski,-,Canada,4
+2004,37,Steven Reid,-,Ireland,4
+2004,37,Aki Riihilahti,-,Finland,4
+2004,37,Alan Smith,-,England,4
+2004,37,Shaun Wright-Phillips,-,England,4
+2004,63,Yakubu,-,Nigeria,3
+2004,63,Mikel Arteta,-,Spain,3
+2004,63,Dean Ashton,-,England,3
+2004,63,Shaun Bartlett,-,South Africa,3
+2004,63,David Bentley,-,England,3
+2004,63,Olivier Bernard,-,France,3
+2004,63,Lee Bowyer,-,England,3
+2004,63,Michael Brown,-,England,3
+2004,63,Tiago,-,Portugal,3
+2004,63,Simon Davies,-,Wales,3
+2004,63,David Dunn,-,England,3
+2004,63,Richard Dunne,-,Ireland,3
+2004,63,Duncan Ferguson,-,Scotland,3
+2004,63,Zoltán Gera,-,Hungary,3
+2004,63,Geoff Horsfield,-,England,3
+2004,63,Hermann Hreidarsson,-,Iceland,3
+2004,63,Nicky Hunt,-,England,3
+2004,63,Francis Jeffers,-,England,3
+2004,63,Jermaine Jenas,-,England,3
+2004,63,Andrew Johnson,-,England,3
+2004,63,Kevin Kilbane,-,Ireland,3
+2004,63,Graeme Le Saux,-,England,3
+2004,63,Lomana Lua Lua,-,DR Congo,3
+2004,63,Jonathan Macken,-,Ireland,3
+2004,63,Danny Mills,-,England,3
+2004,63,Szilard Nemeth,-,Slovakia,3
+2004,63,Gary Neville,-,England,3
+2004,63,Morten Pedersen,-,Norway,3
+2004,63,Jermaine Pennant,-,England,3
+2004,63,Jamie Redknapp,-,England,3
+2004,63,Robbie Savage,-,Wales,3
+2004,63,Paul Scholes,-,England,3
+2004,63,Riccardo Scimeca,-,England,3
+2004,63,Mathias Svensson,-,Sweden,3
+2004,63,David Thompson,-,England,3
+2004,63,David Unsworth,-,England,3
+2004,99,Nicolas Anelka,-,France,2
+2004,99,Celestine Babayaro,-,Nigeria,2
+2003,1,Muzzy Izzet,-,Turkey,14
+2003,2,Paolo Di Canio,-,Italy,12
+2003,3,Brett Emerton,-,Australia,11
+2003,3,Ryan Giggs,-,Wales,11
+2003,5,Steed Malbranque,-,France,10
+2003,6,Kevin Davies,-,England,9
+2003,6,Damien Duff,-,Ireland,9
+2003,8,Gareth Barry,-,England,8
+2003,8,Robert Pirès,-,France,8
+2003,10,Dennis Bergkamp,-,Netherlands,7
+2003,10,Steven Gerrard,-,England,7
+2003,10,Tugay,-,Turkey,7
+2003,10,Louis Saha,-,France,7
+2003,14,James Beattie,-,England,6
+2003,14,Andrew Cole,-,England,6
+2003,14,Thierry Henry,-,France,6
+2003,14,Thomas Hitzlsperger,-,Germany,6
+2003,14,Jermaine Pennant,-,England,6
+2003,14,Laurent Robert,-,France,6
+2003,20,Patrik Berger,-,Czech Republic,5
+2003,20,Joe Cole,-,England,5
+2003,20,Jimmy Floyd Hasselbaink,-,Netherlands,5
+2003,20,Claus Jensen,-,Denmark,5
+2003,20,Mark Kennedy,-,Ireland,5
+2003,20,Frank Lampard,-,England,5
+2003,20,Stan Lazaridis,-,Australia,5
+2003,20,Freddie Ljungberg,-,Sweden,5
+2003,20,Gary Naysmith,-,Scotland,5
+2003,20,Nolberto Solano,-,Peru,5
+2003,20,Steve Stone,-,England,5
+2003,20,Sun Jihai,-,China,5
+2003,20,Michael Tarnat,-,Germany,5
+2003,33,Darren Anderton,-,England,4
+2003,33,Nicolas Anelka,-,France,4
+2003,33,Gilberto Silva,-,Brazil,4
+2003,33,Luís Boa Morte,-,Portugal,4
+2003,33,Wayne Bridge,-,England,4
+2003,33,Cristiano Ronaldo,-,Portugal,4
+2003,33,Diego Forlán,-,Uruguay,4
+2003,33,Paul Gallagher,-,Scotland,4
+2003,33,Ian Harte,-,Ireland,4
+2003,33,Emile Heskey,-,England,4
+2003,33,Seth Johnson,-,England,4
+2003,33,Damien Johnson,-,Northern Ireland,4
+2003,33,Ledley King,-,England,4
+2003,33,Gaizka Mendieta,-,Spain,4
+2003,33,Clinton Morrison,-,Ireland,4
+2003,33,Danny Murphy,-,England,4
+2003,33,Adrian Mutu,-,Romania,4
+2003,33,Geremi,-,Cameroon,4
+2003,33,Jay Jay Okocha,-,Nigeria,4
+2003,33,Tomasz Radzinski,-,Canada,4
+2003,33,John Arne Riise,-,Norway,4
+2003,33,Wayne Rooney,-,England,4
+2003,33,Jlloyd Samuel,-,Trinidad & Tobago,4
+2003,33,Robbie Savage,-,Wales,4
+2003,33,Alan Shearer,-,England,4
+2003,33,Teddy Sheringham,-,England,4
+2003,33,Antoine Sibierski,-,France,4
+2003,33,Patrick Vieira,-,France,4
+2003,33,Peter Whittingham,-,England,4
+2003,33,Boudewijn Zenden,-,Netherlands,4
+2003,63,Yakubu,-,Nigeria,3
+2003,63,Markus Babbel,-,Germany,3
+2003,63,Milan Baros,-,Czech Republic,3
+2003,63,Marcus Bent,-,England,3
+2003,63,Olivier Bernard,-,France,3
+2003,63,Henri Camara,-,Senegal,3
+2003,63,Lee Clark,-,England,3
+2003,63,Ashley Cole,-,England,3
+2003,63,Peter Crouch,-,England,3
+2003,63,Arjan De Zeeuw,-,Netherlands,3
+2003,63,Paul Dickov,-,Scotland,3
+2003,63,Youri Djorkaeff,-,France,3
+2003,63,Jason Dodd,-,England,3
+2003,63,Kieron Dyer,-,England,3
+2003,63,Stelios Giannakopoulos,-,Greece,3
+2003,63,Thomas Gravesen,-,Denmark,3
+2003,63,Lee Hendrie,-,England,3
+2003,63,Joseph-Desire Job,-,Cameroon,3
+2003,63,Roy Keane,-,Ireland,3
+2003,63,Robbie Keane,-,Ireland,3
+2003,63,Harry Kewell,-,Australia,3
+2003,63,Kléberson,-,Brazil,3
+2003,63,Paul Konchesky,-,England,3
+2003,63,Gary Neville,-,England,3
+2003,63,Michael Owen,-,England,3
+2003,63,Kevin Phillips,-,England,3
+2003,63,Alex Rae,-,Scotland,3
+2003,63,Paul Scholes,-,England,3
+2003,63,James Scowcroft,-,England,3
+2003,63,Alan Smith,-,England,3
+2003,63,Gary Speed,-,Wales,3
+2003,63,Matthew Taylor,-,England,3
+2003,63,Mark Viduka,-,Australia,3
+2003,63,Steve Watson,-,England,3
+2003,97,Darren Ambrose,-,England,2
+2003,97,Shola Ameobi,-,Nigeria,2
+2003,97,Celestine Babayaro,-,Nigeria,2
+2003,97,Joey Barton,-,England,2
+2002,1,Thierry Henry,-,France,20
+2002,2,Ryan Giggs,-,Wales,10
+2002,3,Dennis Bergkamp,-,Netherlands,9
+2002,4,David Beckham,-,England,8
+2002,4,Eyal Berkovic,-,Israel,8
+2002,4,Thomas Gravesen,-,Denmark,8
+2002,4,Geremi,-,Cameroon,8
+2002,8,Steven Gerrard,-,England,7
+2002,8,Jimmy Floyd Hasselbaink,-,Netherlands,7
+2002,8,Claus Jensen,-,Denmark,7
+2002,8,Harry Kewell,-,Australia,7
+2002,8,Danny Murphy,-,England,7
+2002,8,Laurent Robert,-,France,7
+2002,8,Gianfranco Zola,-,Italy,7
+2002,15,Darren Anderton,-,England,6
+2002,15,Ali Benarbia,-,Algeria,6
+2002,15,Andrew Cole,-,England,6
+2002,15,Jermain Defoe,-,England,6
+2002,15,Stan Lazaridis,-,Australia,6
+2002,15,Massimo Maccarone,-,Italy,6
+2002,15,Mikaël Silvestre,-,France,6
+2002,15,Nolberto Solano,-,Peru,6
+2002,15,Ole Gunnar Solskjaer,-,Norway,6
+2002,24,Nicolas Anelka,-,France,5
+2002,24,Craig Bellamy,-,Wales,5
+2002,24,Damien Duff,-,Ireland,5
+2002,24,Hugo Viana,-,Portugal,5
+2002,24,Stern John,-,Trinidad & Tobago,5
+2002,24,Gary Kelly,-,Ireland,5
+2002,24,Jason Koumas,-,Wales,5
+2002,24,Steed Malbranque,-,France,5
+2002,24,Michael Owen,-,England,5
+2002,24,Emmanuel Petit,-,France,5
+2002,24,John Arne Riise,-,Norway,5
+2002,24,Robbie Savage,-,Wales,5
+2002,24,Alan Smith,-,England,5
+2002,24,Boudewijn Zenden,-,Netherlands,5
+2002,38,Gareth Barry,-,England,4
+2002,38,Kevin Campbell,-,England,4
+2002,38,Ashley Cole,-,England,4
+2002,38,Youri Djorkaeff,-,France,4
+2002,38,David Dunn,-,England,4
+2002,38,Kieron Dyer,-,England,4
+2002,38,Jesper Grønkjaer,-,Denmark,4
+2002,38,Joseph-Desire Job,-,Cameroon,4
+2002,38,Kanu,-,Nigeria,4
+2002,38,Graeme Le Saux,-,England,4
+2002,38,Gary Neville,-,England,4
+2002,38,Brett Ormerod,-,England,4
+2002,38,Kevin Phillips,-,England,4
+2002,38,Franck Queudrue,-,France,4
+2002,38,Wayne Rooney,-,England,4
+2002,38,Alan Shearer,-,England,4
+2002,38,Teddy Sheringham,-,England,4
+2002,38,Vladimir Smicer,-,Czech Republic,4
+2002,38,Ruud van Nistelrooij,-,Netherlands,4
+2002,38,Sylvain Wiltord,-,France,4
+2002,38,Christian Ziege,-,Germany,4
+2002,59,Juan Pablo Ángel,-,Colombia,3
+2002,59,Eirik Bakke,-,Norway,3
+2002,59,Joe Cole,-,England,3
+2002,59,Simon Davies,-,Wales,3
+2002,59,Paolo Di Canio,-,Italy,3
+2002,59,Dion Dublin,-,England,3
+2002,59,Matthew Etherington,-,England,3
+2002,59,Fabrice Fernandes,-,France,3
+2002,59,Scot Gemmill,-,Scotland,3
+2002,59,Keith Gillespie,-,Northern Ireland,3
+2002,59,Juninho Paulista,-,Brazil,3
+2002,59,Jonathan Greening,-,England,3
+2002,59,Ian Harte,-,Ireland,3
+2002,59,Emile Heskey,-,England,3
+2002,59,Thomas Hitzlsperger,-,Germany,3
+2002,59,Kevin Horlock,-,Northern Ireland,3
+2002,59,Steffen Iversen,-,Norway,3
+2002,59,Frank Lampard,-,England,3
+2002,59,Kevin Lisbie,-,Jamaica,3
+2002,59,Chris Marsden,-,England,3
+2002,59,Derek McInnes,-,Scotland,3
+2002,59,Matt Oakley,-,England,3
+2002,59,Jay Jay Okocha,-,Nigeria,3
+2002,59,Egil Ostenstad,-,Norway,3
+2002,59,Scott Parker,-,England,3
+2002,59,Robert Pirès,-,France,3
+2002,59,Gustavo Poyet,-,Uruguay,3
+2002,59,Tomasz Radzinski,-,Canada,3
+2002,59,Paul Scholes,-,England,3
+2002,59,Gary Speed,-,Wales,3
+2002,59,Anders Svensson,-,Sweden,3
+2002,59,David Thompson,-,England,3
+2002,59,Li Tie,-,China,3
+2002,59,Darius Vassell,-,England,3
+2002,59,Juan Sebastián Verón,-,Argentina,3
+2002,59,Mark Viduka,-,Australia,3
+2002,59,Patrick Vieira,-,France,3
+2002,59,Shaun Wright-Phillips,-,England,3
+2002,59,Dwight Yorke,-,[object Object],3
+2002,98,Milenko Acimovic,-,Slovenia,2
+2002,98,Shola Ameobi,-,Nigeria,2
+2002,98,Gilberto Silva,-,Brazil,2
+2001,1,Robert Pirès,-,France,15
+2001,2,Dennis Bergkamp,-,Netherlands,12
+2001,2,Ryan Giggs,-,Wales,12
+2001,4,Laurent Robert,-,France,11
+2001,5,Nolberto Solano,-,Peru,9
+2001,5,Ole Gunnar Solskjaer,-,Norway,9
+2001,5,Mark Venus,-,England,9
+2001,8,David Beckham,-,England,8
+2001,8,Benito Carbone,-,Italy,8
+2001,8,Steven Gerrard,-,England,8
+2001,8,Steed Malbranque,-,France,8
+2001,8,Danny Murphy,-,England,8
+2001,13,Emile Heskey,-,England,7
+2001,13,Graeme Le Saux,-,England,7
+2001,13,Trevor Sinclair,-,England,7
+2001,13,Mark Viduka,-,Australia,7
+2001,13,Sylvain Wiltord,-,France,7
+2001,18,Paolo Di Canio,-,Italy,6
+2001,18,Damien Duff,-,Ireland,6
+2001,18,Eidur Gudjohnsen,-,Iceland,6
+2001,18,Jimmy Floyd Hasselbaink,-,Netherlands,6
+2001,18,Sebastien Schemmel,-,France,6
+2001,18,Vladimir Smicer,-,Czech Republic,6
+2001,18,Christian Ziege,-,Germany,6
+2001,25,Darren Anderton,-,England,5
+2001,25,Lee Bowyer,-,England,5
+2001,25,Andrew Cole,-,England,5
+2001,25,David Dunn,-,England,5
+2001,25,Per Frandsen,-,Denmark,5
+2001,25,Thomas Gravesen,-,Denmark,5
+2001,25,Thierry Henry,-,France,5
+2001,25,Matt Jansen,-,England,5
+2001,25,Roy Keane,-,Ireland,5
+2001,25,Paul Scholes,-,England,5
+2001,25,Mikaël Silvestre,-,France,5
+2001,25,Anders Svensson,-,Sweden,5
+2001,37,Niclas Alexandersson,-,Sweden,4
+2001,37,Julio Arca,-,Argentina,4
+2001,37,James Beattie,-,England,4
+2001,37,Craig Bellamy,-,Wales,4
+2001,37,Jason Dodd,-,England,4
+2001,37,Kieron Dyer,-,England,4
+2001,37,Robbie Elliott,-,England,4
+2001,37,Robbie Fowler,-,England,4
+2001,37,Ricardo Gardner,-,Jamaica,4
+2001,37,Scot Gemmill,-,Scotland,4
+2001,37,Keith Gillespie,-,Northern Ireland,4
+2001,37,Dietmar Hamann,-,Germany,4
+2001,37,Ian Harte,-,Ireland,4
+2001,37,Aaron Hughes,-,Northern Ireland,4
+2001,37,Robbie Keane,-,Ireland,4
+2001,37,Freddie Ljungberg,-,Sweden,4
+2001,37,Gary McAllister,-,Scotland,4
+2001,37,Gary Naysmith,-,Scotland,4
+2001,37,Marian Pahars,-,Latvia,4
+2001,37,Kevin Phillips,-,England,4
+2001,37,Gustavo Poyet,-,Uruguay,4
+2001,37,Martijn Reuser,-,Netherlands,4
+2001,37,Stefan Schwarz,-,Sweden,4
+2001,37,Alan Shearer,-,England,4
+2001,37,Marcus Stewart,-,England,4
+2001,37,Steve Stone,-,England,4
+2001,37,Ruud van Nistelrooij,-,Netherlands,4
+2001,37,Gianfranco Zola,-,Italy,4
+2001,65,Juan Pablo Ángel,-,Colombia,3
+2001,65,Gareth Barry,-,England,3
+2001,65,Gudni Bergsson,-,Iceland,3
+2001,65,Rufus Brevett,-,England,3
+2001,65,Deon Burton,-,Jamaica,3
+2001,65,Ashley Cole,-,England,3
+2001,65,Joe Cole,-,England,3
+2001,65,Callum Davidson,-,Scotland,3
+2001,65,Simon Davies,-,Wales,3
+2001,65,Dion Dublin,-,England,3
+2001,65,Jason Euell,-,Jamaica,3
+2001,65,Corrado Grabbi,-,Italy,3
+2001,65,Jesper Grønkjaer,-,Denmark,3
+2001,65,Barry Hayles,-,Jamaica,3
+2001,65,Lee Hendrie,-,England,3
+2001,65,Craig Hignett,-,England,3
+2001,65,Matt Holland,-,Ireland,3
+2001,65,Jonatan Johansson,-,Finland,3
+2001,65,Frederic Kanoute,-,Mali,3
+2001,65,Gary Kelly,-,Ireland,3
+2001,65,Tugay,-,Turkey,3
+2001,65,Harry Kewell,-,Australia,3
+2001,65,Frank Lampard,-,England,3
+2001,65,Robert Lee,-,England,3
+2001,65,Lomana Lua Lua,-,DR Congo,3
+2001,65,Carlos Marinelli,-,Argentina,3
+2001,65,Steve Marlet,-,France,3
+2001,65,Jason McAteer,-,Ireland,3
+2001,65,Richard Naylor,-,England,3
+2001,65,Gary Neville,-,England,3
+2001,65,Mark Pembridge,-,Wales,3
+2001,65,Emmanuel Petit,-,France,3
+2001,65,Franck Queudrue,-,France,3
+2001,65,Niall Quinn,-,Ireland,3
+2001,65,Tomasz Radzinski,-,Canada,3
+2001,65,Fabrizio Ravanelli,-,Italy,3
+2000,1,David Beckham,-,England,12
+2000,2,Nolberto Solano,-,Peru,10
+2000,3,Jimmy Floyd Hasselbaink,-,Netherlands,9
+2000,3,Thierry Henry,-,France,9
+2000,3,Vladimir Smicer,-,Czech Republic,9
+2000,6,Ryan Giggs,-,Wales,8
+2000,6,Graham Stuart,-,England,8
+2000,8,Stephen Clemence,-,England,7
+2000,8,Paolo Di Canio,-,Italy,7
+2000,8,Hassan Kachloul,-,Morocco,7
+2000,8,Roy Keane,-,Ireland,7
+2000,8,Robert Pirès,-,France,7
+2000,8,Gustavo Poyet,-,Uruguay,7
+2000,14,Stefano Eranio,-,Italy,6
+2000,14,Eidur Gudjohnsen,-,Iceland,6
+2000,14,Ian Harte,-,Ireland,6
+2000,14,Don Hutchison,-,Scotland,6
+2000,14,Paul Merson,-,England,6
+2000,14,Marian Pahars,-,Latvia,6
+2000,14,Teddy Sheringham,-,England,6
+2000,14,Alan Smith,-,England,6
+2000,14,Paul Telfer,-,Scotland,6
+2000,23,Celestine Babayaro,-,Nigeria,5
+2000,23,Patrik Berger,-,Czech Republic,5
+2000,23,Lee Bowyer,-,England,5
+2000,23,Kieron Dyer,-,England,5
+2000,23,Lee Hendrie,-,England,5
+2000,23,Matt Holland,-,Ireland,5
+2000,23,Seth Johnson,-,England,5
+2000,23,Kanu,-,Nigeria,5
+2000,23,Jim Magilton,-,Northern Ireland,5
+2000,23,Gary McAllister,-,Scotland,5
+2000,23,Paul Scholes,-,England,5
+2000,23,Sylvain Wiltord,-,France,5
+2000,35,Julio Arca,-,Argentina,4
+2000,35,James Beattie,-,England,4
+2000,35,Benito Carbone,-,Italy,4
+2000,35,Dion Dublin,-,England,4
+2000,35,David Ginola,-,France,4
+2000,35,Emile Heskey,-,England,4
+2000,35,Hermann Hreidarsson,-,Iceland,4
+2000,35,Eoin Jess,-,Scotland,4
+2000,35,Frederic Kanoute,-,Mali,4
+2000,35,Christian Karembeu,-,France,4
+2000,35,Mark Kennedy,-,Ireland,4
+2000,35,Harry Kewell,-,Australia,4
+2000,35,Oyvind Leonhardsen,-,Norway,4
+2000,35,Kevin Phillips,-,England,4
+2000,35,Serhiy Rebrov,-,Ukraine,4
+2000,35,Ole Gunnar Solskjaer,-,Norway,4
+2000,35,Marcus Stewart,-,England,4
+2000,35,Dean Sturridge,-,England,4
+2000,35,Mark Viduka,-,Australia,4
+2000,35,Patrick Vieira,-,France,4
+2000,35,Ashley Ward,-,England,4
+2000,35,Jeff Whitley,-,Northern Ireland,4
+2000,35,Dennis Wise,-,England,4
+2000,35,Alan Wright,-,England,4
+2000,35,Dwight Yorke,-,[object Object],4
+2000,35,Gianfranco Zola,-,Italy,4
+2000,61,Darren Anderton,-,England,3
+2000,61,Markus Babbel,-,Germany,3
+2000,61,Nick Barmby,-,England,3
+2000,61,Dennis Bergkamp,-,Netherlands,3
+2000,61,Alen Boksic,-,Croatia,3
+2000,61,Michael Bridges,-,England,3
+2000,61,Michael Carrick,-,England,3
+2000,61,Jamie Clapham,-,England,3
+2000,61,Andrew Cole,-,England,3
+2000,61,Olivier Dacourt,-,France,3
+2000,61,Samuele Dalla Bona,-,Italy,3
+2000,61,Kevin Davies,-,England,3
+2000,61,Simon Davies,-,Wales,3
+2000,61,Tore Andre Flo,-,Norway,3
+2000,61,Robbie Fowler,-,England,3
+2000,61,Steve Guppy,-,England,3
+2000,61,Mustapha Hadji,-,Morocco,3
+2000,61,Dietmar Hamann,-,Germany,3
+2000,61,Claus Jensen,-,Denmark,3
+2000,61,Robbie Keane,-,Ireland,3
+2000,61,Gary Kelly,-,Ireland,3
+2000,61,Georgi Kinkladze,-,Georgia,3
+2000,61,Radostin Kishishev,-,Bulgaria,3
+2000,61,Frank Lampard,-,England,3
+2000,61,Neil Lennon,-,Northern Ireland,3
+2000,61,Freddie Ljungberg,-,Sweden,3
+2000,61,Chris Makin,-,England,3
+2000,61,Gavin McCann,-,England,3
+2000,61,Mario Melchiot,-,Netherlands,3
+2000,61,Danny Murphy,-,England,3
+2000,61,Richard Naylor,-,England,3
+2000,61,Michael Owen,-,England,3
+2000,61,Alex Rae,-,Scotland,3
+2000,61,Hamilton Ricard,-,Colombia,3
+2000,61,Stefan Schwarz,-,Sweden,3
+2000,61,James Scowcroft,-,England,3
+2000,61,Tim Sherwood,-,England,3
+2000,61,Trevor Sinclair,-,England,3
+2000,61,Gary Speed,-,Wales,3
+2000,61,David Thompson,-,England,3
+1999,1,David Beckham,-,England,15
+1999,1,Nolberto Solano,-,Peru,15
+1999,3,Paolo Di Canio,-,Italy,13
+1999,4,Ryan Giggs,-,Wales,12
+1999,5,Dennis Bergkamp,-,Netherlands,9
+1999,6,Nick Barmby,-,England,8
+1999,6,Thierry Henry,-,France,8
+1999,6,Steffen Iversen,-,Norway,8
+1999,6,Wim Jonk,-,Netherlands,8
+1999,6,Paul Merson,-,England,8
+1999,6,Marc Overmars,-,Netherlands,8
+1999,6,Niall Quinn,-,Ireland,8
+1999,6,Trevor Sinclair,-,England,8
+1999,14,David Ginola,-,France,7
+1999,14,Steve Guppy,-,England,7
+1999,14,Mustapha Hadji,-,Morocco,7
+1999,14,Emmanuel Petit,-,France,7
+1999,14,Alan Shearer,-,England,7
+1999,14,Ole Gunnar Solskjaer,-,Norway,7
+1999,14,Gianfranco Zola,-,Italy,7
+1999,21,Kevin Campbell,-,England,6
+1999,21,Carl Cort,-,Guyana,6
+1999,21,Kieron Dyer,-,England,6
+1999,21,Francis Jeffers,-,England,6
+1999,21,Georgi Kinkladze,-,Georgia,6
+1999,21,Neil Lennon,-,Northern Ireland,6
+1999,21,Dominic Matteo,-,Scotland,6
+1999,21,Stuart Ripley,-,England,6
+1999,21,Cedric Roussel,-,Belgium,6
+1999,21,Teddy Sheringham,-,England,6
+1999,21,Christian Ziege,-,Germany,6
+1999,32,Darren Anderton,-,England,5
+1999,32,Peter Beagrie,-,England,5
+1999,32,Benito Carbone,-,Italy,5
+1999,32,Jason Euell,-,Jamaica,5
+1999,32,Gunnar Halle,-,Norway,5
+1999,32,Ian Harte,-,Ireland,5
+1999,32,Julian Joachim,-,England,5
+1999,32,Matthew Le Tissier,-,England,5
+1999,32,Mark Pembridge,-,Wales,5
+1999,32,Dan Petrescu,-,Romania,5
+1999,32,Gustavo Poyet,-,Uruguay,5
+1999,32,Alex Rae,-,Scotland,5
+1999,32,Paul Scholes,-,England,5
+1999,32,Nicky Summerbee,-,England,5
+1999,32,Mauricio Taricco,-,Argentina,5
+1999,32,Paulo Wanchope,-,Costa Rica,5
+1999,32,Dennis Wise,-,England,5
+1999,32,Alan Wright,-,England,5
+1999,50,Niclas Alexandersson,-,Sweden,4
+1999,50,Michael Bridges,-,England,4
+1999,50,Andrew Cole,-,England,4
+1999,50,Kenny Cunningham,-,Ireland,4
+1999,50,Brian Deane,-,England,4
+1999,50,Rory Delap,-,Ireland,4
+1999,50,Dion Dublin,-,England,4
+1999,50,Matt Elliott,-,Scotland,4
+1999,50,Marcus Gayle,-,Jamaica,4
+1999,50,Michael Gray,-,England,4
+1999,50,John Hartson,-,Wales,4
+1999,50,Emile Heskey,-,England,4
+1999,50,Don Hutchison,-,Scotland,4
+1999,50,Micah Hyde,-,Jamaica,4
+1999,50,Seth Johnson,-,England,4
+1999,50,Kanu,-,Nigeria,4
+1999,50,Robbie Keane,-,Ireland,4
+1999,50,Harry Kewell,-,Australia,4
+1999,50,Alan Kimble,-,England,4
+1999,50,Steve Lomas,-,Northern Ireland,4
+1999,50,Gary McAllister,-,Scotland,4
+1999,50,Stephen McPhail,-,Ireland,4
+1999,50,Kevin Phillips,-,England,4
+1999,50,Vladimir Smicer,-,Czech Republic,4
+1999,50,Trond Egil Soltvedt,-,Norway,4
+1999,75,Trond Andersen,-,Norway,3
+1999,75,Warren Barton,-,England,3
+1999,75,David Batty,-,England,3
+1999,75,Patrik Berger,-,Czech Republic,3
+1999,75,Andy Booth,-,England,3
+1999,75,Nicky Butt,-,England,3
+1999,75,Sol Campbell,-,England,3
+1999,75,Stephen Carr,-,Ireland,3
+1999,75,Youssef Chippo,-,Morocco,3
+1999,75,Kevin Davies,-,England,3
+1999,75,Gilles De Bilde,-,Belgium,3
+1999,75,Didier Domi,-,France,3
+1999,75,Albert Ferrer,-,Spain,3
+1999,75,Steven Gerrard,-,England,3
+1999,75,Darren Huckerby,-,England,3
+1999,75,Mark Hughes,-,Wales,3
+1999,75,Stephen Hughes,-,England,3
+1999,75,Muzzy Izzet,-,Turkey,3
+1999,75,Temuri Ketsbaia,-,Georgia,3
+1999,75,Frank Lampard,-,England,3
+1999,75,Gavin McCann,-,England,3
+1999,75,Sylvinho,-,Brazil,3
+1999,75,Lee Mills,-,England,3
+1999,75,Gary Neville,-,England,3
+1999,75,Stefan Oakes,-,England,3
+1999,75,Matt Oakley,-,England,3
+1998,1,Dennis Bergkamp,-,Netherlands,13
+1998,1,Jimmy Floyd Hasselbaink,-,Netherlands,13
+1998,3,David Beckham,-,England,11
+1998,3,Eyal Berkovic,-,Israel,11
+1998,3,Steve Guppy,-,England,11
+1998,3,Dwight Yorke,-,[object Object],11
+1998,7,David Ginola,-,France,10
+1998,8,Darren Anderton,-,England,9
+1998,8,Harry Kewell,-,Australia,9
+1998,10,James Beattie,-,England,7
+1998,10,Ian Harte,-,Ireland,7
+1998,10,Don Hutchison,-,Scotland,7
+1998,10,Matthew Le Tissier,-,England,7
+1998,10,Paul Scholes,-,England,7
+1998,15,George Boateng,-,Netherlands,6
+1998,15,Benito Carbone,-,Italy,6
+1998,15,Stephen Froggatt,-,England,6
+1998,15,Lee Hendrie,-,England,6
+1998,15,Michael Hughes,-,Northern Ireland,6
+1998,15,Steve McManaman,-,England,6
+1998,15,Marc Overmars,-,Netherlands,6
+1998,15,Steve Stone,-,England,6
+1998,15,Gianfranco Zola,-,Italy,6
+1998,24,Nicolas Anelka,-,France,5
+1998,24,Michael Ball,-,England,5
+1998,24,Lars Bohinen,-,Norway,5
+1998,24,Dion Dublin,-,England,5
+1998,24,Robbie Fowler,-,England,5
+1998,24,Marcus Gayle,-,Jamaica,5
+1998,24,Francis Jeffers,-,England,5
+1998,24,Wim Jonk,-,Netherlands,5
+1998,24,Michael Owen,-,England,5
+1998,24,Trevor Sinclair,-,England,5
+1998,24,Nolberto Solano,-,Peru,5
+1998,24,Paulo Wanchope,-,Costa Rica,5
+1998,36,Mikkel Beck,-,Denmark,4
+1998,36,Patrik Berger,-,Czech Republic,4
+1998,36,Roberto Di Matteo,-,Italy,4
+1998,36,Jason Dodd,-,England,4
+1998,36,Tore Andre Flo,-,Norway,4
+1998,36,Dean Gordon,-,England,4
+1998,36,Andy Hinchcliffe,-,England,4
+1998,36,David Hopkin,-,Scotland,4
+1998,36,Darren Huckerby,-,England,4
+1998,36,Paul Ince,-,England,4
+1998,36,Julian Joachim,-,England,4
+1998,36,Paul Merson,-,England,4
+1998,36,Dan Petrescu,-,Romania,4
+1998,36,Jamie Redknapp,-,England,4
+1998,36,Dean Sturridge,-,England,4
+1998,36,Ian Taylor,-,England,4
+1998,36,Pierre van Hooijdonk,-,Netherlands,4
+1998,36,Steve Watson,-,England,4
+1998,36,Jason Wilcox,-,England,4
+1998,36,Dennis Wise,-,England,4
+1998,56,Niclas Alexandersson,-,Sweden,3
+1998,56,Nick Barmby,-,England,3
+1998,56,Jesper Blomqvist,-,Sweden,3
+1998,56,Nicky Butt,-,England,3
+1998,56,Stephen Carr,-,Ireland,3
+1998,56,Jamie Carragher,-,England,3
+1998,56,Andrew Cole,-,England,3
+1998,56,Stan Collymore,-,England,3
+1998,56,Rory Delap,-,Ireland,3
+1998,56,Garry Flitcroft,-,England,3
+1998,56,Keith Gillespie,-,Northern Ireland,3
+1998,56,John Hartson,-,Wales,3
+1998,56,Vegard Heggem,-,Norway,3
+1998,56,Emile Heskey,-,England,3
+1998,56,Temuri Ketsbaia,-,Georgia,3
+1998,56,Alan Kimble,-,England,3
+1998,56,Frank Lampard,-,England,3
+1998,56,Neil Lennon,-,Northern Ireland,3
+1998,56,José Dominguez,-,Portugal,3
+1998,56,Gary Neville,-,England,3
+1998,56,Matt Oakley,-,England,3
+1998,56,Emmanuel Petit,-,France,3
+1998,56,Hamilton Ricard,-,Colombia,3
+1998,56,Alan Shearer,-,England,3
+1998,56,Teddy Sheringham,-,England,3
+1998,56,Alan Smith,-,England,3
+1998,56,Robbie Stockdale,-,Scotland,3
+1998,56,Alan Thompson,-,England,3
+1998,56,Andy Townsend,-,Ireland,3
+1998,56,Patrick Vieira,-,France,3
+1998,56,Clyde Wijnhard,-,Netherlands,3
+1998,56,Ian Wright,-,England,3
+1998,88,John Aloisi,-,Australia,2
+1998,88,Celestine Babayaro,-,Nigeria,2
+1998,88,Henning Berg,-,Norway,2
+1998,88,Stig Inge Bjornebye,-,Norway,2
+1998,88,Andy Booth,-,England,2
+1998,88,Lee Bowyer,-,England,2
+1998,88,Kevin Campbell,-,England,2
+1998,88,Kenny Cunningham,-,Ireland,2
+1998,88,Jean-Claude Darcheville,-,France,2
+1998,88,Kevin Davies,-,England,2
+1998,88,Brian Deane,-,England,2
+1998,88,Paolo Di Canio,-,Italy,2
+1998,88,Tony Dorigo,-,England,2
+1997,1,David Beckham,-,England,13
+1997,2,Dennis Bergkamp,-,Netherlands,11
+1997,3,Eyal Berkovic,-,Israel,10
+1997,3,Dion Dublin,-,England,10
+1997,3,Steve Guppy,-,England,10
+1997,3,Michael Owen,-,England,10
+1997,3,Teddy Sheringham,-,England,10
+1997,8,Ryan Giggs,-,Wales,9
+1997,8,David Ginola,-,France,9
+1997,8,Matthew Le Tissier,-,England,9
+1997,8,Steve McManaman,-,England,9
+1997,12,Martin Bullock,-,England,8
+1997,12,John Hartson,-,Wales,8
+1997,12,Gary Kelly,-,Ireland,8
+1997,12,Stuart Ripley,-,England,8
+1997,16,Nick Barmby,-,England,7
+1997,16,Andrew Cole,-,England,7
+1997,16,Emmanuel Petit,-,France,7
+1997,19,Nicolas Anelka,-,France,6
+1997,19,Francesco Baiano,-,Italy,6
+1997,19,Stig Inge Bjornebye,-,Norway,6
+1997,19,Benito Carbone,-,Italy,6
+1997,19,Paolo Di Canio,-,Italy,6
+1997,19,Jason Dodd,-,England,6
+1997,19,Duncan Ferguson,-,Scotland,6
+1997,19,Jimmy Floyd Hasselbaink,-,Netherlands,6
+1997,19,Paul Ince,-,England,6
+1997,19,Attilio Lombardo,-,Italy,6
+1997,19,Ian Nolan,-,Northern Ireland,6
+1997,19,Chris Sutton,-,England,6
+1997,19,Alan Thompson,-,England,6
+1997,32,Nathan Blake,-,Wales,5
+1997,32,Lee Bowyer,-,England,5
+1997,32,Roberto Di Matteo,-,Italy,5
+1997,32,Les Ferdinand,-,England,5
+1997,32,Ruel Fox,-,Montserrat,5
+1997,32,Emile Heskey,-,England,5
+1997,32,Jürgen Klinsmann,-,Germany,5
+1997,32,Stan Lazaridis,-,Australia,5
+1997,32,Marc Overmars,-,Netherlands,5
+1997,32,Paul Scholes,-,England,5
+1997,32,Gianluca Vialli,-,Italy,5
+1997,32,Fernando Nélson,-,Portugal,5
+1997,32,Paulo Wanchope,-,Costa Rica,5
+1997,32,Nigel Winterburn,-,England,5
+1997,32,Gianfranco Zola,-,Italy,5
+1997,47,Darren Barnard,-,Wales,4
+1997,47,Deon Burton,-,Jamaica,4
+1997,47,Stan Collymore,-,England,4
+1997,47,Mark Draper,-,England,4
+1997,47,Bruno Ribeiro,-,Portugal,4
+1997,47,Garry Flitcroft,-,England,4
+1997,47,Per Frandsen,-,Denmark,4
+1997,47,Kevin Gallacher,-,Scotland,4
+1997,47,Ian Harte,-,Ireland,4
+1997,47,David Hirst,-,England,4
+1997,47,Muzzy Izzet,-,Turkey,4
+1997,47,Graeme Le Saux,-,England,4
+1997,47,Frank Leboeuf,-,France,4
+1997,47,Steve Lomas,-,Northern Ireland,4
+1997,47,Savo Milosevic,-,Serbia,4
+1997,47,Dan Petrescu,-,Romania,4
+1997,47,Simon Rodger,-,England,4
+1997,47,Scott Sellars,-,England,4
+1997,47,Andy Sinton,-,England,4
+1997,47,Ole Gunnar Solskjaer,-,Norway,4
+1997,47,Trond Egil Soltvedt,-,Norway,4
+1997,47,Steve Staunton,-,Ireland,4
+1997,47,Patrick Vieira,-,France,4
+1997,47,Rod Wallace,-,England,4
+1997,47,Jason Wilcox,-,England,4
+1997,47,Dennis Wise,-,England,4
+1997,47,Alan Wright,-,England,4
+1997,74,John Beresford,-,England,3
+1997,74,Nicola Berti,-,Italy,3
+1997,74,Lars Bohinen,-,Norway,3
+1997,74,Nicky Butt,-,England,3
+1997,74,Steve Clarke,-,Scotland,3
+1997,74,Carl Cort,-,Guyana,3
+1997,74,Kenny Cunningham,-,Ireland,3
+1997,74,Matt Elliott,-,Scotland,3
+1997,74,Dean Gordon,-,England,3
+1997,74,Mark Hughes,-,Wales,3
+1997,74,Michael Hughes,-,Northern Ireland,3
+1997,74,Temuri Ketsbaia,-,Georgia,3
+1997,74,Alan Kimble,-,England,3
+1997,74,Oyvind Leonhardsen,-,Norway,3
+1997,74,Gary Neville,-,England,3
+1997,74,Allan Nielsen,-,Denmark,3
+1997,74,Carlton Palmer,-,England,3
+1997,74,Ray Parlour,-,England,3
+1997,74,Jimmy Phillips,-,England,3
+1997,74,David Platt,-,England,3
+1997,74,Kevin Richardson,-,England,3
+1997,74,Gary Rowett,-,England,3
+1997,74,John Sheridan,-,Ireland,3
+1997,74,Dean Sturridge,-,England,3
+1997,74,Paul Telfer,-,Scotland,3
+1997,74,Tony Thomas,-,England,3
+1997,74,Paul Warhurst,-,England,3
+1996,1,Eric Cantona,-,France,12
+1996,2,Neal Ardley,-,England,11
+1996,3,Dennis Bergkamp,-,Netherlands,9
+1996,3,Andy Hinchcliffe,-,England,9
+1996,3,Gary McAllister,-,Scotland,9
+1996,3,Gianfranco Zola,-,Italy,9
+1996,7,Nick Barmby,-,England,8
+1996,7,David Beckham,-,England,8
+1996,7,Stig Inge Bjornebye,-,Norway,8
+1996,7,Les Ferdinand,-,England,8
+1996,7,Juninho Paulista,-,Brazil,8
+1996,7,Robert Lee,-,England,8
+1996,7,Mark Pembridge,-,Wales,8
+1996,7,Dan Petrescu,-,Romania,8
+1996,15,Eyal Berkovic,-,Israel,7
+1996,15,Emerson,-,Brazil,7
+1996,15,Alan Shearer,-,England,7
+1996,15,Teddy Sheringham,-,England,7
+1996,19,John Barnes,-,England,6
+1996,19,Benito Carbone,-,Italy,6
+1996,19,Mark Draper,-,England,6
+1996,19,Ryan Giggs,-,Wales,6
+1996,19,Emile Heskey,-,England,6
+1996,19,Michael Hughes,-,Northern Ireland,6
+1996,19,Mark Hughes,-,Wales,6
+1996,19,Jason McAteer,-,Ireland,6
+1996,19,Steve McManaman,-,England,6
+1996,19,Chris Sutton,-,England,6
+1996,19,Andy Townsend,-,Ireland,6
+1996,19,Dwight Yorke,-,[object Object],6
+1996,31,Faustino Asprilla,-,Colombia,5
+1996,31,Lee Bowyer,-,England,5
+1996,31,Steve Claridge,-,England,5
+1996,31,Andrew Cole,-,England,5
+1996,31,Duncan Ferguson,-,Scotland,5
+1996,31,Paul Merson,-,England,5
+1996,31,Garry Parker,-,England,5
+1996,31,Tim Sherwood,-,England,5
+1996,31,Chris Waddle,-,England,5
+1996,31,Alan Wright,-,England,5
+1996,41,Warren Barton,-,England,4
+1996,41,Peter Beardsley,-,England,4
+1996,41,Regi Blinker,-,Netherlands,4
+1996,41,Kevin Campbell,-,England,4
+1996,41,Stephen Carr,-,Ireland,4
+1996,41,Stan Collymore,-,England,4
+1996,41,Brian Deane,-,England,4
+1996,41,Robbie Fowler,-,England,4
+1996,41,Kevin Gallacher,-,Scotland,4
+1996,41,Marcus Gayle,-,Jamaica,4
+1996,41,David Ginola,-,France,4
+1996,41,Neil Lennon,-,Northern Ireland,4
+1996,41,Egil Ostenstad,-,Norway,4
+1996,41,Fabrizio Ravanelli,-,Italy,4
+1996,41,Ian Rush,-,Wales,4
+1996,41,Ole Gunnar Solskjaer,-,Norway,4
+1996,41,Gianluca Vialli,-,Italy,4
+1996,41,Patrick Vieira,-,France,4
+1996,41,Ian Wright,-,England,4
+1996,60,Aljosa Asanovic,-,Croatia,3
+1996,60,Kevin Ball,-,England,3
+1996,60,Mikkel Beck,-,Denmark,3
+1996,60,John Beresford,-,England,3
+1996,60,Andy Booth,-,England,3
+1996,60,Paul Bracewell,-,England,3
+1996,60,Christian Dailly,-,Scotland,3
+1996,60,Iain Dowie,-,Northern Ireland,3
+1996,60,Robbie Earle,-,Jamaica,3
+1996,60,Ugo Ehiogu,-,England,3
+1996,60,Ruel Fox,-,Montserrat,3
+1996,60,John Hartson,-,Wales,3
+1996,60,Craig Hignett,-,England,3
+1996,60,David Hirst,-,England,3
+1996,60,Steffen Iversen,-,Norway,3
+1996,60,Alan Kimble,-,England,3
+1996,60,Claus Lundekvam,-,Norway,3
+1996,60,Scott Minto,-,England,3
+1996,60,Robbie Mustoe,-,England,3
+1996,60,Alan Neilson,-,Wales,3
+1996,60,Gary Neville,-,England,3
+1996,60,Allan Nielsen,-,Denmark,3
+1996,60,Ray Parlour,-,England,3
+1996,60,Karel Poborsky,-,Czech Republic,3
+1996,60,Hugo Porfirio,-,Portugal,3
+1996,60,John Salako,-,England,3
+1996,60,Dean Saunders,-,Wales,3
+1996,60,Robbie Slater,-,Australia,3
+1996,60,Graham Stuart,-,England,3
+1996,60,Jason Wilcox,-,England,3
+1996,60,Nigel Winterburn,-,England,3
+1996,60,Mark Wright,-,England,3
+1996,92,Philippe Albert,-,Belgium,2
+1996,92,Darren Anderton,-,England,2
+1996,92,Earl Barrett,-,England,2
+1996,92,Patrik Berger,-,Czech Republic,2
+1996,92,Dean Blackwell,-,England,2
+1996,92,Paul Michael Branch,-,England,2
+1996,92,Craig Burley,-,Scotland,2
+1996,92,Nicky Butt,-,England,2
+1996,92,Simon Charlton,-,England,2
+1995,1,Steve McManaman,-,England,15
+1995,2,Stan Collymore,-,England,11
+1995,3,John Barnes,-,England,10
+1995,3,Eric Cantona,-,France,10
+1995,3,Ian Woan,-,England,10
+1995,3,Dwight Yorke,-,[object Object],10
+1995,7,Peter Beardsley,-,England,9
+1995,7,Ryan Giggs,-,Wales,9
+1995,7,Mike Newell,-,England,9
+1995,7,Stuart Ripley,-,England,9
+1995,11,Dennis Bergkamp,-,Netherlands,8
+1995,11,David Ginola,-,France,8
+1995,11,Andrei Kanchelskis,-,Russia,8
+1995,11,Matthew Le Tissier,-,England,8
+1995,11,Dan Petrescu,-,Romania,8
+1995,11,John Salako,-,England,8
+1995,11,Teddy Sheringham,-,England,8
+1995,18,Faustino Asprilla,-,Colombia,7
+1995,18,Nick Barmby,-,England,7
+1995,18,Sasa Curcic,-,Serbia,7
+1995,18,Alan Shearer,-,England,7
+1995,22,Chris Armstrong,-,England,6
+1995,22,Gary Charles,-,England,6
+1995,22,Andrew Cole,-,England,6
+1995,22,Mark Draper,-,England,6
+1995,22,Les Ferdinand,-,England,6
+1995,22,Ruel Fox,-,Montserrat,6
+1995,22,Keith Gillespie,-,Northern Ireland,6
+1995,22,Michael Hughes,-,Northern Ireland,6
+1995,22,Vinnie Jones,-,Wales,6
+1995,22,Alan Kimble,-,England,6
+1995,22,Steve Lomas,-,Northern Ireland,6
+1995,22,Savo Milosevic,-,Serbia,6
+1995,22,Kevin Richardson,-,England,6
+1995,22,Andy Townsend,-,Ireland,6
+1995,22,Chris Waddle,-,England,6
+1995,37,David Beckham,-,England,5
+1995,37,Tomas Brolin,-,Sweden,5
+1995,37,Marc Degryse,-,Belgium,5
+1995,37,Danny Dichio,-,England,5
+1995,37,Robbie Fowler,-,England,5
+1995,37,Tony Grant,-,England,5
+1995,37,David Hirst,-,England,5
+1995,37,Mark Hughes,-,Wales,5
+1995,37,Denis Irwin,-,Ireland,5
+1995,37,Anders Limpar,-,Sweden,5
+1995,37,Paul Merson,-,England,5
+1995,37,Ally Pickering,-,England,5
+1995,37,Niall Quinn,-,Ireland,5
+1995,37,Scott Sellars,-,England,5
+1995,37,Trevor Sinclair,-,England,5
+1995,37,Steve Stone,-,England,5
+1995,37,Guy Whittingham,-,England,5
+1995,54,Warren Barton,-,England,4
+1995,54,Ian Bishop,-,England,4
+1995,54,Kevin Campbell,-,England,4
+1995,54,Brian Deane,-,England,4
+1995,54,Robbie Earle,-,Jamaica,4
+1995,54,Jan Åge Fjørtoft,-,Norway,4
+1995,54,Marcus Gayle,-,Jamaica,4
+1995,54,Scot Gemmill,-,Scotland,4
+1995,54,Ruud Gullit,-,Netherlands,4
+1995,54,Gary Kelly,-,Ireland,4
+1995,54,Georgi Kinkladze,-,Georgia,4
+1995,54,Robert Lee,-,England,4
+1995,54,Gary McAllister,-,Scotland,4
+1995,54,Gary Neville,-,England,4
+1995,54,Ian Nolan,-,Northern Ireland,4
+1995,54,Gavin Peacock,-,England,4
+1995,54,Paul Rideout,-,England,4
+1995,54,Bryan Roy,-,Netherlands,4
+1995,54,Clive Wilson,-,England,4
+1995,54,Dennis Wise,-,England,4
+1995,74,Daniel Amokachi,-,Nigeria,3
+1995,74,David Batty,-,England,3
+1995,74,Lee Briscoe,-,England,3
+1995,74,Nicky Butt,-,England,3
+1995,74,Nigel Clough,-,England,3
+1995,74,Kenny Cunningham,-,Ireland,3
+1995,74,Julian Dicks,-,England,3
+1995,74,Lee Dixon,-,England,3
+1995,74,Dion Dublin,-,England,3
+1995,74,Efan Ekoku,-,Nigeria,3
+1995,74,Paul Furlong,-,England,3
+1995,74,Juninho Paulista,-,Brazil,3
+1995,74,Mark Hateley,-,England,3
+1995,74,Glenn Helder,-,Netherlands,3
+1995,74,Andy Hinchcliffe,-,England,3
+1995,74,Ian Holloway,-,England,3
+1995,74,John Jensen,-,Denmark,3
+1995,74,Jeff Kenna,-,Ireland,3
+1995,74,Oyvind Leonhardsen,-,Norway,3
+1995,74,Jason McAteer,-,Ireland,3
+1995,74,John McGinlay,-,Scotland,3
+1995,74,Phil Neville,-,England,3
+1995,74,Mark Patterson,-,England,3
+1995,74,Stuart Pearce,-,England,3
+1995,74,Mark Pembridge,-,Wales,3
+1995,74,David Platt,-,England,3
+1995,74,Jamie Redknapp,-,England,3
+1994,1,Matthew Le Tissier,-,England,15
+1994,2,Darren Anderton,-,England,14
+1994,3,Alan Shearer,-,England,13
+1994,4,Ruel Fox,-,Montserrat,11
+1994,4,Ryan Giggs,-,Wales,11
+1994,4,Andy Hinchcliffe,-,England,11
+1994,4,Bryan Roy,-,Netherlands,11
+1994,8,Kevin Gallen,-,England,10
+1994,8,Jürgen Klinsmann,-,Germany,10
+1994,8,Chris Sutton,-,England,10
+1994,11,Les Ferdinand,-,England,9
+1994,11,Gary Speed,-,Wales,9
+1994,13,Warren Barton,-,England,8
+1994,13,Ian Holloway,-,England,8
+1994,13,Gary McAllister,-,Scotland,8
+1994,13,Steve McManaman,-,England,8
+1994,13,Gavin Peacock,-,England,8
+1994,13,Teddy Sheringham,-,England,8
+1994,13,Steve Stone,-,England,8
+1994,20,Chris Bart-Williams,-,England,7
+1994,20,Peter Beagrie,-,England,7
+1994,20,Paul Merson,-,England,7
+1994,20,Trevor Sinclair,-,England,7
+1994,20,Steve Staunton,-,Ireland,7
+1994,20,Ian Woan,-,England,7
+1994,26,Chris Armstrong,-,England,6
+1994,26,Peter Atherton,-,England,6
+1994,26,Simon Barker,-,England,6
+1994,26,Nick Barmby,-,England,6
+1994,26,Stig Inge Bjornebye,-,Norway,6
+1994,26,Eric Cantona,-,France,6
+1994,26,Stan Collymore,-,England,6
+1994,26,Paul Cook,-,England,6
+1994,26,Dion Dublin,-,England,6
+1994,26,Robbie Fowler,-,England,6
+1994,26,Mark Hughes,-,Wales,6
+1994,26,John Moncur,-,England,6
+1994,26,Garry Parker,-,England,6
+1994,26,Mark Robins,-,England,6
+1994,26,Jason Wilcox,-,England,6
+1994,41,John Barnes,-,England,5
+1994,41,Peter Beardsley,-,England,5
+1994,41,Lars Bohinen,-,Norway,5
+1994,41,Tim Breacker,-,England,5
+1994,41,Andrew Cole,-,England,5
+1994,41,Mick Harford,-,England,5
+1994,41,Jeff Kenna,-,Ireland,5
+1994,41,Graeme Le Saux,-,England,5
+1994,41,Robert Lee,-,England,5
+1994,41,Anders Limpar,-,Sweden,5
+1994,41,Paul Mason,-,England,5
+1994,41,Niall Quinn,-,Ireland,5
+1994,41,Uwe Rösler,-,Germany,5
+1994,41,Ian Rush,-,Wales,5
+1994,41,Robbie Slater,-,Australia,5
+1994,41,Ian Taylor,-,England,5
+1994,41,Dwight Yorke,-,[object Object],5
+1994,58,David Bardsley,-,England,4
+1994,58,Kevin Campbell,-,England,4
+1994,58,Ian Crook,-,England,4
+1994,58,Lee Dixon,-,England,4
+1994,58,Justin Edinburgh,-,England,4
+1994,58,Gary Elkins,-,England,4
+1994,58,Garry Flitcroft,-,England,4
+1994,58,Paul Furlong,-,England,4
+1994,58,Dean Holdsworth,-,England,4
+1994,58,Don Hutchison,-,Scotland,4
+1994,58,Denis Irwin,-,Ireland,4
+1994,58,Matt Jackson,-,England,4
+1994,58,Roy Keane,-,Ireland,4
+1994,58,Neil Maddison,-,England,4
+1994,58,Jim Magilton,-,Northern Ireland,4
+1994,58,Jamie Redknapp,-,England,4
+1994,58,Stuart Ripley,-,England,4
+1994,58,John Salako,-,England,4
+1994,58,Lee Sharpe,-,England,4
+1994,58,John Sheridan,-,Ireland,4
+1994,58,Andy Sinton,-,England,4
+1994,58,Gareth Southgate,-,England,4
+1994,58,John Spencer,-,Scotland,4
+1994,58,Claus Thomsen,-,Denmark,4
+1994,82,John Beresford,-,England,3
+1994,82,Jeroen Boere,-,Netherlands,3
+1994,82,Mark Bright,-,England,3
+1994,82,Tony Cottee,-,England,3
+1994,82,Brian Deane,-,England,3
+1994,82,Tony Dorigo,-,England,3
+1994,82,Darren Eadie,-,England,3
+1994,82,Robbie Earle,-,Jamaica,3
+1994,82,Efan Ekoku,-,Nigeria,3
+1994,82,Mick Galloway,-,Scotland,3
+1994,82,Keith Gillespie,-,Northern Ireland,3
+1994,82,David Hopkin,-,Scotland,3
+1994,82,Rob Jones,-,England,3
+1994,82,Andrei Kanchelskis,-,Russia,3
+1994,82,Alan Kimble,-,England,3
+1994,82,Chris Kiwomya,-,England,3
+1994,82,Jamie Lawrence,-,Jamaica,3
+1994,82,David Lowe,-,England,3
+1994,82,Jan Mølby,-,Denmark,3
+1993,1,Andrew Cole,-,England,13
+1993,2,Eric Cantona,-,France,12
+1993,3,Brian Deane,-,England,11
+1993,3,Ruel Fox,-,Montserrat,11
+1993,3,Chris Sutton,-,England,11
+1993,6,Matt Holmes,-,England,10
+1993,6,Paul Ince,-,England,10
+1993,6,Scott Sellars,-,England,10
+1993,9,Matthew Le Tissier,-,England,9
+1993,9,Jason Wilcox,-,England,9
+1993,9,Ray Wilkins,-,England,9
+1993,9,Dennis Wise,-,England,9
+1993,13,Peter Beardsley,-,England,8
+1993,13,Les Ferdinand,-,England,8
+1993,13,Graeme Le Saux,-,England,8
+1993,13,Steve McManaman,-,England,8
+1993,13,Stuart Ripley,-,England,8
+1993,18,Peter Beagrie,-,England,7
+1993,18,Ian Crook,-,England,7
+1993,18,Ryan Giggs,-,Wales,7
+1993,18,Robert Lee,-,England,7
+1993,18,Mike Newell,-,England,7
+1993,18,Chris Waddle,-,England,7
+1993,24,Darren Anderton,-,England,6
+1993,24,Mark Bright,-,England,6
+1993,24,Richard Holden,-,England,6
+1993,24,Dean Holdsworth,-,England,6
+1993,24,Mark Hughes,-,Wales,6
+1993,24,Denis Irwin,-,Ireland,6
+1993,24,Rob Jones,-,England,6
+1993,24,Ryan Jones,-,Wales,6
+1993,24,Andrei Kanchelskis,-,Russia,6
+1993,24,Roy Keane,-,Ireland,6
+1993,24,Peter Ndlovu,-,Zimbabwe,6
+1993,24,Lee Sharpe,-,England,6
+1993,24,Tim Sherwood,-,England,6
+1993,24,Andy Townsend,-,Ireland,6
+1993,24,Rod Wallace,-,England,6
+1993,24,Dane Whitehouse,-,England,6
+1993,40,Dalian Atkinson,-,England,5
+1993,40,David Bardsley,-,England,5
+1993,40,Chris Bart-Williams,-,England,5
+1993,40,Paul Bodin,-,Wales,5
+1993,40,Iain Dowie,-,Northern Ireland,5
+1993,40,Robbie Earle,-,Jamaica,5
+1993,40,Gary Kelly,-,Ireland,5
+1993,40,Jeff Kenna,-,Ireland,5
+1993,40,Gary McAllister,-,Scotland,5
+1993,40,Gavin Peacock,-,England,5
+1993,40,Kevin Richardson,-,England,5
+1993,40,Teddy Sheringham,-,England,5
+1993,40,Gary Speed,-,Wales,5
+1993,40,Gordon Strachan,-,Scotland,5
+1993,40,Roy Wegerle,-,United States,5
+1993,55,Neil Adams,-,England,4
+1993,55,Micky Adams,-,England,4
+1993,55,Ian Bishop,-,England,4
+1993,55,Mark Bowen,-,Wales,4
+1993,55,Kevin Campbell,-,England,4
+1993,55,Lee Clark,-,England,4
+1993,55,Jason Dozzell,-,England,4
+1993,55,Gary Elkins,-,England,4
+1993,55,John Fashanu,-,England,4
+1993,55,Jostein Flo,-,Norway,4
+1993,55,Mike Marsh,-,England,4
+1993,55,Simon Milton,-,England,4
+1993,55,Trevor Morley,-,England,4
+1993,55,Andy Mutch,-,England,4
+1993,55,Eddie Newton,-,England,4
+1993,55,Ray Parlour,-,England,4
+1993,55,Mark Robins,-,England,4
+1993,55,David Rocastle,-,England,4
+1993,55,Alan Shearer,-,England,4
+1993,55,Andy Sinton,-,England,4
+1993,55,Alan Smith,-,England,4
+1993,55,Mark Stein,-,England,4
+1993,55,Graham Stuart,-,England,4
+1993,55,Nicky Summerbee,-,England,4
+1993,55,Neil Thompson,-,England,4
+1993,55,John Williams,-,England,4
+1993,81,Gary Ablett,-,England,3
+1993,81,Paul Allen,-,England,3
+1993,81,Simon Barker,-,England,3
+1993,81,Warren Barton,-,England,3
+1993,81,David Batty,-,England,3
+1993,81,Henning Berg,-,Norway,3
+1993,81,Stig Inge Bjornebye,-,Norway,3
+1993,81,Tim Breacker,-,England,3
+1993,81,Craig Burley,-,Scotland,3
+1993,81,Darren Caskey,-,England,3
+1993,81,Nigel Clough,-,England,3
+1993,81,Tony Cottee,-,England,3
+1993,81,Tony Daley,-,England,3
+1993,81,Peter Fear,-,England,3
+1993,81,Garry Flitcroft,-,England,3
+1993,81,Kevin Gallacher,-,Scotland,3
+1993,81,Jeremy Goss,-,Wales,3
+1993,81,Nick Henry,-,England,3
+1993,81,David Hillier,-,England,3
+1993,81,Glyn Hodges,-,Wales,3
+1992,1,Eric Cantona,-,France,16
+1992,2,Darren Anderton,-,England,11
+1992,2,Niall Quinn,-,Ireland,11
+1992,4,Brian Deane,-,England,10
+1992,4,Matthew Le Tissier,-,England,10
+1992,4,Jason Wilcox,-,England,10
+1992,7,Jason Dozzell,-,England,9
+1992,7,Richard Holden,-,England,9
+1992,7,Lee Sharpe,-,England,9
+1992,7,Teddy Sheringham,-,England,9
+1992,7,Andy Sinton,-,England,9
+1992,7,Ian Woan,-,England,9
+1992,13,Ruel Fox,-,Montserrat,8
+1992,13,Steve Staunton,-,Ireland,8
+1992,13,Chris Waddle,-,England,8
+1992,13,Tommy Wright,-,Scotland,8
+1992,17,Neal Ardley,-,England,7
+1992,17,David Bardsley,-,England,7
+1992,17,Peter Beardsley,-,England,7
+1992,17,Kevin Gallacher,-,Scotland,7
+1992,17,Gunnar Halle,-,Norway,7
+1992,17,John Hendrie,-,Scotland,7
+1992,17,Glyn Hodges,-,Wales,7
+1992,17,Ray Houghton,-,Ireland,7
+1992,17,Robert Rosario,-,England,7
+1992,17,Graham Stuart,-,England,7
+1992,27,John Barnes,-,England,6
+1992,27,Jeremy Goss,-,Wales,6
+1992,27,Brian McClair,-,Scotland,6
+1992,27,Steve McManaman,-,England,6
+1992,27,Paul Merson,-,England,6
+1992,27,Jimmy Phillips,-,England,6
+1992,27,David Phillips,-,Wales,6
+1992,27,Stuart Ripley,-,England,6
+1992,27,Mark Robins,-,England,6
+1992,27,John Salako,-,England,6
+1992,27,Gordon Strachan,-,Scotland,6
+1992,27,Andy Townsend,-,Ireland,6
+1992,39,Ian Crook,-,England,5
+1992,39,Iain Dowie,-,Northern Ireland,5
+1992,39,Robbie Earle,-,Jamaica,5
+1992,39,Les Ferdinand,-,England,5
+1992,39,Robert Fleck,-,Scotland,5
+1992,39,Stephen Froggatt,-,England,5
+1992,39,Scot Gemmill,-,Scotland,5
+1992,39,Ryan Giggs,-,Wales,5
+1992,39,Nick Henry,-,England,5
+1992,39,Richard Jobson,-,England,5
+1992,39,Gary McAllister,-,Scotland,5
+1992,39,Mike Newell,-,England,5
+1992,39,Jamie Redknapp,-,England,5
+1992,39,Vinny Samways,-,England,5
+1992,39,Graeme Sharp,-,Scotland,5
+1992,39,Tim Sherwood,-,England,5
+1992,39,Mick Stockwell,-,England,5
+1992,39,Mark Walters,-,England,5
+1992,39,Paul Wilkinson,-,England,5
+1992,39,Clive Wilson,-,England,5
+1992,39,Dennis Wise,-,England,5
+1992,60,Bradley Allen,-,England,4
+1992,60,Dalian Atkinson,-,England,4
+1992,60,Nicky Banger,-,England,4
+1992,60,Mark Brennan,-,England,4
+1992,60,Ian Brightwell,-,England,4
+1992,60,Kevin Campbell,-,England,4
+1992,60,Chris Coleman,-,Wales,4
+1992,60,Gordon Cowans,-,England,4
+1992,60,David Hirst,-,England,4
+1992,60,Ian Marshall,-,England,4
+1992,60,Alan McDonald,-,Northern Ireland,4
+1992,60,Eddie McGoldrick,-,Ireland,4
+1992,60,Terry Phelan,-,Ireland,4
+1992,60,Mick Quinn,-,England,4
+1992,60,Alan Shearer,-,England,4
+1992,60,Gareth Southgate,-,England,4
+1992,60,John Spencer,-,Scotland,4
+1992,60,Neil Thompson,-,England,4
+1992,60,Robert Warzycha,-,Poland,4
+1992,60,David White,-,England,4
+1992,60,Chris Whyte,-,England,4
+1992,60,Ray Wilkins,-,England,4
+1992,60,John Williams,-,England,4
+1992,60,Ian Wright,-,England,4
+1992,84,Micky Adams,-,England,3
+1992,84,Mark Atkins,-,England,3
+1992,84,Nick Barmby,-,England,3
+1992,84,Steve Bruce,-,England,3
+1992,84,Tony Cascarino,-,Ireland,3
+1992,84,Lee Dixon,-,England,3
+1992,84,Willie Falconer,-,Scotland,3
+1992,84,Jamie Forrester,-,England,3
+1992,84,Brian Gayle,-,England,3
+1992,84,Andy Hinchcliffe,-,England,3
+1992,84,Mark Hughes,-,Wales,3
+1992,84,Lee Hurst,-,England,3
+1992,84,Don Hutchison,-,Scotland,3
+1992,84,Denis Irwin,-,Ireland,3
+1992,84,Gavin Johnson,-,England,3
+1992,84,Graeme Le Saux,-,England,3
+1992,84,Mike Marsh,-,England,3

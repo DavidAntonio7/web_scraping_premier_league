@@ -1,0 +1,881 @@
+Initial Year,Rank,Player,Club,Nationality,Stat
+2022,1,Jordan Pickford,Everton,England,315
+2022,2,David Raya,-,Spain,269
+2022,3,José Sá,Wolverhampton Wanderers,Portugal,260
+2022,4,Lukasz Fabianski,West Ham United,Poland,249
+2022,5,Bernd Leno,Fulham,Germany,242
+2022,5,Illan Meslier,-,France,242
+2022,7,Gavin Bazunu,-,Ireland,237
+2022,8,Neto,Bournemouth,Brazil,231
+2022,9,Emiliano Martínez,Aston Villa,Argentina,212
+2022,10,Nick Pope,Newcastle United,England,207
+2022,11,Vicente Guaita,-,Spain,206
+2022,12,Alisson Becker,Liverpool,Brazil,193
+2022,13,Danny Ward,-,Wales,190
+2022,14,Hugo Lloris,Tottenham Hotspur,France,186
+2022,15,Kepa,-,Spain,182
+2022,16,David de Gea,-,Spain,179
+2022,17,Dean Henderson,-,England,156
+2022,18,Aaron Ramsdale,Arsenal,England,153
+2022,19,Ederson,Manchester City,Brazil,152
+2022,20,Keylor Navas,-,Costa Rica,151
+2022,21,Robert Sánchez,-,Spain,131
+2022,22,Mark Travers,-,Ireland,118
+2022,23,Daniel Iversen,-,Denmark,114
+2022,24,Fraser Forster,Tottenham Hotspur,England,93
+2022,25,Édouard Mendy,-,Senegal,63
+2022,26,Jason Steele,Brighton & Hove Albion,England,55
+2022,27,Alex McCarthy,-,England,52
+2022,28,Sam Johnstone,Crystal Palace,England,46
+2022,29,Joel Robles,-,Spain,32
+2022,30,Alphonse Areola,West Ham United,France,30
+2022,31,Robin Olsen,Aston Villa,Sweden,28
+2022,32,Wayne Hennessey,Nottingham Forest,Wales,25
+2022,33,Dan Bentley,Wolverhampton Wanderers,England,23
+2022,34,Martin Dúbravka,Newcastle United,Slovakia,15
+2022,34,Marek Rodák,Fulham,Slovakia,15
+2022,34,Joe Whitworth,Crystal Palace,England,15
+2022,37,Stefan Ortega,Manchester City,Germany,12
+2022,38,Asmir Begovic,-,Bosnia & Herzegovina,8
+2022,39,Caoimhín Kelleher,Liverpool,Ireland,2
+2021,1,David de Gea,-,Spain,299
+2021,2,Kasper Schmeichel,-,Denmark,291
+2021,3,Illan Meslier,-,France,288
+2021,4,Nick Pope,Burnley,England,283
+2021,5,Hugo Lloris,Tottenham Hotspur,France,278
+2021,6,Lukasz Fabianski,West Ham United,Poland,277
+2021,7,Emiliano Martínez,Aston Villa,Argentina,275
+2021,8,Jordan Pickford,Everton,England,267
+2021,9,José Sá,Wolverhampton Wanderers,Portugal,261
+2021,10,Martin Dúbravka,Newcastle United,Slovakia,236
+2021,11,Robert Sánchez,-,Spain,234
+2021,12,Tim Krul,-,Netherlands,224
+2021,13,Ben Foster,-,England,223
+2021,14,David Raya,-,Spain,202
+2021,15,Vicente Guaita,-,Spain,201
+2021,16,Aaron Ramsdale,Arsenal,England,181
+2021,17,Édouard Mendy,-,Senegal,177
+2021,18,Alisson Becker,Liverpool,Brazil,172
+2021,19,Fraser Forster,-,England,140
+2021,20,Ederson,Manchester City,Brazil,138
+2021,21,Alex McCarthy,-,England,125
+2021,22,Daniel Bachmann,-,Austria,87
+2021,23,Angus Gunn,-,Scotland,86
+2021,24,Álvaro Fernández,-,Spain,83
+2021,25,Jack Butland,-,England,66
+2021,26,Karl Darlow,-,England,62
+2021,27,Freddie Woodman,-,England,39
+2021,28,Bernd Leno,-,Germany,37
+2021,29,Asmir Begovic,-,Bosnia & Herzegovina,31
+2021,30,Kepa,-,Spain,21
+2021,30,Wayne Hennessey,Burnley,Wales,21
+2021,32,Robin Olsen,Aston Villa,Sweden,20
+2021,33,Alphonse Areola,West Ham United,France,14
+2021,33,John Ruddy,-,England,14
+2021,35,Willy Caballero,-,Argentina,13
+2021,35,Caoimhín Kelleher,Liverpool,Ireland,13
+2021,35,Jonas Lössl,-,Denmark,13
+2021,38,Zack Steffen,Manchester City,United States,7
+2021,38,Danny Ward,-,Wales,7
+2021,40,Jason Steele,Brighton & Hove Albion,England,6
+2021,40,Jed Steer,-,England,6
+2021,42,Kristoffer Klaesson,-,Norway,3
+2020,1,Vicente Guaita,-,Spain,315
+2020,2,Sam Johnstone,West Bromwich Albion,England,296
+2020,3,Aaron Ramsdale,-,England,281
+2020,4,Lukasz Fabianski,West Ham United,Poland,272
+2020,5,Rui Patrício,-,Portugal,268
+2020,6,Illan Meslier,-,France,267
+2020,7,Hugo Lloris,Tottenham Hotspur,France,264
+2020,8,Emiliano Martínez,Aston Villa,Argentina,253
+2020,9,Alphonse Areola,Fulham,France,251
+2020,9,Nick Pope,Burnley,England,251
+2020,11,Bernd Leno,-,Germany,227
+2020,12,Karl Darlow,-,England,216
+2020,13,Kasper Schmeichel,-,Denmark,210
+2020,14,Jordan Pickford,Everton,England,198
+2020,15,Édouard Mendy,-,Senegal,179
+2020,16,Robert Sánchez,-,Spain,177
+2020,17,Alisson Becker,Liverpool,Brazil,173
+2020,18,David de Gea,-,Spain,172
+2020,19,Alex McCarthy,-,England,171
+2020,20,Ederson,Manchester City,Brazil,153
+2020,21,Martin Dúbravka,Newcastle United,Slovakia,122
+2020,22,Dean Henderson,-,England,94
+2020,23,Mathew Ryan,-,Australia,65
+2020,24,Fraser Forster,-,England,64
+2020,25,Robin Olsen,-,Sweden,51
+2020,26,Kepa,-,Spain,46
+2020,27,Kiko Casilla,-,Spain,31
+2020,28,Bailey Peacock-Farrell,-,Northern Ireland,29
+2020,29,Darren Randolph,West Ham United,Ireland,23
+2020,30,Adrián,Liverpool,Spain,22
+2020,31,Will Norris,-,England,18
+2020,32,Caoimhín Kelleher,Liverpool,Ireland,14
+2020,33,David Button,-,England,12
+2020,34,Jack Butland,-,England,8
+2020,34,Zack Steffen,Manchester City,United States,8
+2020,36,Marek Rodák,Fulham,Slovakia,7
+2020,37,Willy Caballero,-,Argentina,6
+2020,38,John Ruddy,-,England,5
+2020,39,João Virgínia,Everton,Portugal,3
+2020,40,Scott Carson,-,England,2
+2020,41,Rúnar Rúnarsson,-,Iceland,1
+2019,1,Martin Dúbravka,Newcastle United,Slovakia,340
+2019,2,Tim Krul,-,Netherlands,332
+2019,3,Nick Pope,Burnley,England,304
+2019,4,Ben Foster,-,England,295
+2019,5,Aaron Ramsdale,-,England,288
+2019,6,Rui Patrício,-,Portugal,283
+2019,7,Vicente Guaita,-,Spain,274
+2019,7,Mathew Ryan,-,Australia,274
+2019,9,David de Gea,-,Spain,268
+2019,10,Jordan Pickford,Everton,England,264
+2019,11,Dean Henderson,-,England,261
+2019,12,Bernd Leno,-,Germany,253
+2019,13,Kasper Schmeichel,-,Denmark,241
+2019,14,Kepa,-,Spain,198
+2019,15,Tom Heaton,-,England,195
+2019,16,Lukasz Fabianski,West Ham United,Poland,192
+2019,17,Alex McCarthy,-,England,178
+2019,18,Alisson Becker,Liverpool,Brazil,167
+2019,19,Hugo Lloris,Tottenham Hotspur,France,150
+2019,20,Paulo Gazzaniga,-,Argentina,142
+2019,21,Ederson,Manchester City,Brazil,139
+2019,22,Pepe Reina,-,Spain,94
+2019,23,Angus Gunn,-,Scotland,77
+2019,24,Adrián,Liverpool,Spain,70
+2019,25,Emiliano Martínez,-,Argentina,61
+2019,26,Ørjan Nyland,-,Norway,53
+2019,27,David Martin,-,England,44
+2019,28,Roberto Jiménez,-,Spain,41
+2019,29,Wayne Hennessey,-,Wales,39
+2019,30,Claudio Bravo,-,Chile,28
+2019,30,Willy Caballero,-,Argentina,28
+2019,32,Michael McGovern,-,Northern Ireland,14
+2019,32,Darren Randolph,West Ham United,Ireland,14
+2019,34,Simon Moore,-,England,11
+2019,35,Mark Travers,Bournemouth,Ireland,7
+2019,36,Ralf Fährmann,-,Germany,3
+2019,37,Jed Steer,-,England,1
+2018,1,David de Gea,-,Spain,332
+2018,2,Mathew Ryan,-,Australia,324
+2018,3,Martin Dúbravka,Newcastle United,Slovakia,323
+2018,4,Neil Etheridge,-,Philippines,319
+2018,5,Kasper Schmeichel,-,Denmark,310
+2018,6,Lukasz Fabianski,West Ham United,Poland,309
+2018,7,Ben Foster,-,England,308
+2018,8,Jordan Pickford,Everton,England,291
+2018,9,Rui Patrício,-,Portugal,284
+2018,10,Sergio Rico,-,Spain,275
+2018,11,Kepa,-,Spain,256
+2018,12,Hugo Lloris,Tottenham Hotspur,France,252
+2018,13,Bernd Leno,-,Germany,227
+2018,14,Jonas Lössl,-,Denmark,223
+2018,15,Alisson Becker,Liverpool,Brazil,216
+2018,16,Asmir Begovic,-,Bosnia & Herzegovina,192
+2018,17,Vicente Guaita,-,Spain,191
+2018,18,Alex McCarthy,-,England,189
+2018,18,Ederson,Manchester City,Brazil,189
+2018,20,Joe Hart,-,England,181
+2018,21,Tom Heaton,-,England,172
+2018,22,Wayne Hennessey,-,Wales,143
+2018,23,Artur Boruc,-,Poland,112
+2018,24,Angus Gunn,-,Scotland,91
+2018,25,Marcus Bettinelli,-,England,67
+2018,26,Petr Cech,-,Czech Republic,53
+2018,27,Ben Hamer,-,England,52
+2018,28,David Button,-,England,34
+2018,29,Paulo Gazzaniga,-,Argentina,26
+2018,30,Willy Caballero,-,Argentina,16
+2018,31,Fabri,-,Spain,14
+2018,31,Mark Travers,Bournemouth,Ireland,14
+2018,33,Julian Speroni,-,Argentina,13
+2018,34,Michel Vorm,-,Netherlands,10
+2018,35,Fraser Forster,-,England,7
+2018,35,John Ruddy,-,England,7
+2018,37,Joel Coleman,-,England,6
+2017,1,Lukasz Fabianski,Swansea City,Poland,358
+2017,2,Mathew Ryan,-,Australia,352
+2017,3,Jordan Pickford,-,England,340
+2017,4,Jack Butland,-,England,338
+2017,4,Ben Foster,-,England,338
+2017,6,Asmir Begovic,-,Bosnia & Herzegovina,328
+2017,7,Jonas Lössl,-,Denmark,304
+2017,8,Nick Pope,Burnley,England,297
+2017,9,David de Gea,-,Spain,290
+2017,10,Kasper Schmeichel,-,Denmark,273
+2017,11,Thibaut Courtois,-,Belgium,248
+2017,12,Wayne Hennessey,-,Wales,227
+2017,12,Hugo Lloris,Tottenham Hotspur,France,227
+2017,14,Petr Cech,-,Czech Republic,225
+2017,15,Adrián,-,Spain,184
+2017,16,Heurelho Gomes,-,Brazil,179
+2017,17,Ederson,Manchester City,Brazil,160
+2017,18,Robert Elliot,-,Ireland,159
+2017,19,Alex McCarthy,-,England,158
+2017,20,Joe Hart,-,England,155
+2017,21,Fraser Forster,-,England,146
+2017,22,Loris Karius,Liverpool,Germany,103
+2017,23,Simon Mignolet,-,Belgium,101
+2017,24,Martin Dúbravka,-,Slovakia,93
+2017,25,Julian Speroni,-,Argentina,89
+2017,26,Karl Darlow,-,England,87
+2017,27,Orestis Karnezis,-,Greece,81
+2017,28,Tom Heaton,-,England,32
+2017,29,David Ospina,-,Colombia,28
+2017,30,Lee Grant,-,England,23
+2017,31,Ben Hamer,-,England,20
+2017,32,Willy Caballero,-,Argentina,15
+2017,33,Eldin Jakupovic,-,Switzerland,14
+2017,34,Claudio Bravo,-,Chile,10
+2017,35,Michel Vorm,-,Netherlands,9
+2017,36,Paulo Gazzaniga,-,Argentina,8
+2017,37,Boaz Myhill,-,Wales,7
+2017,37,Sergio Romero,-,Argentina,7
+2016,1,Ben Foster,-,England,325
+2016,2,Tom Heaton,-,England,317
+2016,3,Fraser Forster,-,England,311
+2016,4,Heurelho Gomes,-,Brazil,310
+2016,5,Lukasz Fabianski,Swansea City,Poland,309
+2016,6,Jordan Pickford,Sunderland,England,306
+2016,7,Artur Boruc,-,Poland,297
+2016,8,Lee Grant,-,England,278
+2016,8,Kasper Schmeichel,-,Denmark,278
+2016,10,Wayne Hennessey,-,Wales,267
+2016,11,Víctor Valdés,-,Spain,258
+2016,12,Petr Cech,-,Czech Republic,252
+2016,13,David de Gea,-,Spain,235
+2016,14,Eldin Jakupovic,-,Switzerland,228
+2016,15,Thibaut Courtois,-,Belgium,224
+2016,16,Hugo Lloris,Tottenham Hotspur,France,214
+2016,17,Darren Randolph,-,Ireland,184
+2016,18,Simon Mignolet,-,Belgium,173
+2016,19,David Marshall,-,Scotland,149
+2016,20,Joel Robles,-,Spain,147
+2016,21,Adrián,-,Spain,130
+2016,22,Maarten Stekelenburg,-,Netherlands,127
+2016,23,Claudio Bravo,-,Chile,121
+2016,24,Brad Guzan,-,United States,97
+2016,25,Willy Caballero,-,Argentina,79
+2016,26,Ron-Robert Zieler,-,Germany,77
+2016,27,Steve Mandanda,-,France,70
+2016,28,Vito Mannone,-,Italy,62
+2016,29,Loris Karius,Liverpool,Germany,47
+2016,30,Jack Butland,-,England,40
+2016,31,Shay Given,-,Ireland,31
+2016,32,Michel Vorm,-,Netherlands,28
+2016,33,Adam Federici,-,Australia,26
+2016,33,Paul Robinson,-,England,26
+2016,35,Asmir Begovic,-,Bosnia & Herzegovina,16
+2016,36,Sergio Romero,-,Argentina,14
+2016,37,Ryan Allsop,-,England,11
+2016,37,Emiliano Martínez,-,Argentina,11
+2016,37,David Ospina,-,Colombia,11
+2016,40,Costel Pantilimon,-,Romania,10
+2016,41,Joel Pereira,-,Portugal,9
+2016,41,Kristoffer Nordfeldt,-,Sweden,9
+2015,1,Heurelho Gomes,-,Brazil,378
+2015,2,Kasper Schmeichel,-,Denmark,324
+2015,3,Lukasz Fabianski,Swansea City,Poland,300
+2015,4,Adrián,-,Spain,288
+2015,5,Jack Butland,-,England,287
+2015,5,David de Gea,-,Spain,287
+2015,7,Artur Boruc,-,Poland,268
+2015,8,Petr Cech,-,Czech Republic,248
+2015,8,John Ruddy,-,England,248
+2015,10,Wayne Hennessey,-,Wales,247
+2015,10,Hugo Lloris,Tottenham Hotspur,France,247
+2015,12,Tim Howard,-,United States,233
+2015,13,Simon Mignolet,-,Belgium,228
+2015,14,Brad Guzan,-,United States,225
+2015,15,Joe Hart,-,England,221
+2015,16,Boaz Myhill,-,Wales,206
+2015,17,Robert Elliot,-,Ireland,200
+2015,18,Thibaut Courtois,-,Belgium,168
+2015,18,Vito Mannone,-,Italy,168
+2015,20,Costel Pantilimon,-,Romania,152
+2015,21,Fraser Forster,-,England,144
+2015,22,Ben Foster,-,England,141
+2015,23,Joel Robles,-,Spain,133
+2015,24,Maarten Stekelenburg,-,Netherlands,125
+2015,25,Asmir Begovic,-,Bosnia & Herzegovina,106
+2015,26,Mark Bunn,-,England,98
+2015,27,Declan Rudd,-,England,97
+2015,28,Karl Darlow,-,England,76
+2015,29,Tim Krul,Newcastle United,Netherlands,72
+2015,30,Alex McCarthy,-,England,71
+2015,31,Darren Randolph,West Ham United,Ireland,46
+2015,32,Jakob Haugaard,-,Denmark,39
+2015,33,Adam Federici,-,Australia,31
+2015,34,David Ospina,-,Colombia,29
+2015,35,Julian Speroni,-,Argentina,25
+2015,36,Shay Given,-,Ireland,24
+2015,37,Jordan Pickford,Sunderland,England,22
+2015,38,Willy Caballero,-,Argentina,21
+2015,39,Paulo Gazzaniga,-,Argentina,18
+2015,40,Ádám Bogdán,-,Hungary,17
+2015,40,Sergio Romero,-,Argentina,17
+2015,42,Kelvin Davis,-,England,14
+2015,43,Kristoffer Nordfeldt,-,Sweden,12
+2015,43,Danny Ward,-,Wales,12
+2015,45,Michel Vorm,-,Netherlands,7
+2015,46,Ryan Allsop,-,England,2
+2014,1,Adrián,-,Spain,342
+2014,2,Robert Green,-,England,341
+2014,3,Julian Speroni,-,Argentina,320
+2014,4,Lukasz Fabianski,Swansea City,Poland,311
+2014,5,Tom Heaton,-,England,307
+2014,6,Asmir Begovic,-,Bosnia & Herzegovina,306
+2014,7,Costel Pantilimon,-,Romania,293
+2014,8,Brad Guzan,-,United States,282
+2014,9,Hugo Lloris,Tottenham Hotspur,France,278
+2014,10,Simon Mignolet,-,Belgium,271
+2014,11,Tim Howard,-,United States,260
+2014,12,David de Gea,-,Spain,253
+2014,13,Thibaut Courtois,-,Belgium,236
+2014,14,Joe Hart,-,England,228
+2014,15,Tim Krul,Newcastle United,Netherlands,225
+2014,16,Ben Foster,-,England,223
+2014,17,Kasper Schmeichel,-,Denmark,201
+2014,18,Allan McGregor,-,Scotland,197
+2014,19,Fraser Forster,-,England,194
+2014,20,David Ospina,-,Colombia,131
+2014,21,Boaz Myhill,-,Wales,117
+2014,22,Wojciech Szczesny,-,Poland,103
+2014,23,Vito Mannone,-,Italy,82
+2014,24,Steve Harper,-,England,73
+2014,25,Ben Hamer,-,England,69
+2014,26,Mark Schwarzer,-,Australia,65
+2014,27,Kelvin Davis,-,England,64
+2014,28,Joel Robles,-,Spain,59
+2014,29,Jak Alnwick,-,England,55
+2014,30,Petr Cech,-,Czech Republic,48
+2014,31,Michel Vorm,-,Netherlands,36
+2014,32,Alex McCarthy,-,England,32
+2014,33,Emiliano Martínez,-,Argentina,28
+2014,34,Robert Elliot,-,Ireland,26
+2014,35,Jack Butland,-,England,24
+2014,36,Paulo Gazzaniga,-,Argentina,21
+2014,36,Eldin Jakupovic,-,Switzerland,21
+2014,38,Shay Given,-,Ireland,18
+2014,38,Wayne Hennessey,-,Wales,18
+2014,40,Víctor Valdés,-,Spain,14
+2014,41,Bradley Jones,-,Australia,10
+2014,42,Willy Caballero,-,Argentina,7
+2014,43,Jed Steer,-,England,4
+2014,44,Jussi Jääskeläinen,-,Finland,3
+2014,44,Gerhard Tremmel,-,Germany,3
+2013,1,David Marshall,-,Scotland,390
+2013,2,John Ruddy,-,England,354
+2013,2,Julian Speroni,-,Argentina,354
+2013,4,Brad Guzan,-,United States,348
+2013,5,Tim Howard,-,United States,325
+2013,5,Simon Mignolet,-,Belgium,325
+2013,7,Tim Krul,Newcastle United,Netherlands,320
+2013,8,Wojciech Szczesny,-,Poland,317
+2013,9,Hugo Lloris,Tottenham Hotspur,France,311
+2013,10,Vito Mannone,-,Italy,308
+2013,11,Asmir Begovic,-,Bosnia & Herzegovina,299
+2013,12,David de Gea,-,Spain,288
+2013,13,Petr Cech,-,Czech Republic,240
+2013,14,Allan McGregor,-,Scotland,236
+2013,15,Adrián,-,Spain,229
+2013,16,Joe Hart,-,England,227
+2013,17,Maarten Stekelenburg,-,Netherlands,212
+2013,18,Michel Vorm,-,Netherlands,211
+2013,19,Ben Foster,-,England,200
+2013,20,Artur Boruc,-,Poland,198
+2013,21,David Stockdale,-,England,180
+2013,22,Jussi Jääskeläinen,-,Finland,175
+2013,23,Boaz Myhill,-,Wales,123
+2013,24,Steve Harper,-,England,99
+2013,24,Gerhard Tremmel,-,Germany,99
+2013,26,Keiren Westwood,-,Ireland,90
+2013,27,Paulo Gazzaniga,-,Argentina,53
+2013,28,Costel Pantilimon,-,Romania,51
+2013,29,Thomas Sørensen,-,Denmark,42
+2013,30,Mark Schwarzer,-,Australia,30
+2013,31,Jack Butland,-,England,24
+2013,31,Jack Butland,-,England,24
+2013,31,Jack Butland,-,England,24
+2013,31,Jack Butland,-,England,24
+2013,31,Jack Butland,-,England,24
+2013,31,Jack Butland,-,England,24
+2013,31,Jack Butland,-,England,24
+2013,32,Joel Robles,-,Spain,21
+2013,32,Joel Robles,-,Spain,21
+2013,32,Joel Robles,-,Spain,21
+2013,32,Joel Robles,-,Spain,21
+2013,32,Joel Robles,-,Spain,21
+2013,32,Joel Robles,-,Spain,21
+2013,32,Joel Robles,-,Spain,21
+2013,33,Robert Elliot,-,Ireland,20
+2013,33,Robert Elliot,-,Ireland,20
+2013,33,Robert Elliot,-,Ireland,20
+2013,33,Robert Elliot,-,Ireland,20
+2013,33,Robert Elliot,-,Ireland,20
+2013,33,Robert Elliot,-,Ireland,20
+2013,33,Robert Elliot,-,Ireland,20
+2013,34,Wayne Hennessey,-,Wales,15
+2013,34,Wayne Hennessey,-,Wales,15
+2013,34,Wayne Hennessey,-,Wales,15
+2013,34,Wayne Hennessey,-,Wales,15
+2013,34,Wayne Hennessey,-,Wales,15
+2013,34,Wayne Hennessey,-,Wales,15
+2013,34,Wayne Hennessey,-,Wales,15
+2013,35,Kelvin Davis,-,England,13
+2013,35,Kelvin Davis,-,England,13
+2013,35,Kelvin Davis,-,England,13
+2013,35,Kelvin Davis,-,England,13
+2013,35,Kelvin Davis,-,England,13
+2013,35,Kelvin Davis,-,England,13
+2013,35,Kelvin Davis,-,England,13
+2013,36,Joe Lewis,-,England,11
+2013,36,Anders Lindegaard,-,Denmark,11
+2013,36,Joe Lewis,-,England,11
+2013,36,Anders Lindegaard,-,Denmark,11
+2013,36,Joe Lewis,-,England,11
+2013,36,Anders Lindegaard,-,Denmark,11
+2013,36,Joe Lewis,-,England,11
+2013,36,Anders Lindegaard,-,Denmark,11
+2013,36,Joe Lewis,-,England,11
+2013,36,Anders Lindegaard,-,Denmark,11
+2013,36,Joe Lewis,-,England,11
+2013,36,Anders Lindegaard,-,Denmark,11
+2013,36,Joe Lewis,-,England,11
+2013,36,Anders Lindegaard,-,Denmark,11
+2013,38,Lukasz Fabianski,-,Poland,8
+2013,38,Lukasz Fabianski,-,Poland,8
+2013,38,Lukasz Fabianski,-,Poland,8
+2013,38,Lukasz Fabianski,-,Poland,8
+2013,38,Lukasz Fabianski,-,Poland,8
+2013,38,Lukasz Fabianski,-,Poland,8
+2013,38,Lukasz Fabianski,-,Poland,8
+2013,39,Eldin Jakupovic,-,Switzerland,6
+2013,39,Eldin Jakupovic,-,Switzerland,6
+2013,39,Eldin Jakupovic,-,Switzerland,6
+2013,39,Eldin Jakupovic,-,Switzerland,6
+2013,39,Eldin Jakupovic,-,Switzerland,6
+2013,39,Eldin Jakupovic,-,Switzerland,6
+2013,39,Eldin Jakupovic,-,Switzerland,6
+2013,40,Brad Friedel,-,United States,3
+2013,40,Brad Friedel,-,United States,3
+2013,40,Brad Friedel,-,United States,3
+2013,40,Brad Friedel,-,United States,3
+2013,40,Brad Friedel,-,United States,3
+2013,40,Brad Friedel,-,United States,3
+2013,40,Brad Friedel,-,United States,3
+2012,1,Asmir Begovic,-,Bosnia & Herzegovina,396
+2012,2,Brad Guzan,-,United States,389
+2012,3,Jussi Jääskeläinen,-,Finland,382
+2012,4,Mark Schwarzer,-,Australia,364
+2012,5,Simon Mignolet,-,Belgium,356
+2012,6,Tim Howard,-,United States,305
+2012,7,Joe Hart,-,England,295
+2012,8,Ali Al Habsi,-,Oman,285
+2012,9,Ben Foster,-,England,280
+2012,10,Petr Cech,-,Czech Republic,268
+2012,11,Pepe Reina,-,Spain,267
+2012,12,Julio César,-,Brazil,237
+2012,13,David de Gea,-,Spain,231
+2012,14,Mark Bunn,-,England,209
+2012,14,Adam Federici,-,Australia,209
+2012,16,Michel Vorm,-,Netherlands,200
+2012,17,Tim Krul,Newcastle United,Netherlands,199
+2012,18,Hugo Lloris,Tottenham Hotspur,France,193
+2012,19,Wojciech Szczesny,-,Poland,171
+2012,20,John Ruddy,-,England,154
+2012,21,Alex McCarthy,-,England,150
+2012,22,Robert Green,-,England,141
+2012,23,Artur Boruc,-,Poland,129
+2012,24,Gerhard Tremmel,-,Germany,123
+2012,25,Brad Friedel,-,United States,101
+2012,26,Boaz Myhill,-,Wales,96
+2012,27,Paulo Gazzaniga,-,Argentina,91
+2012,28,Anders Lindegaard,-,Denmark,87
+2012,29,Kelvin Davis,-,England,86
+2012,30,Joel Robles,-,Spain,79
+2012,31,Bradley Jones,-,Australia,72
+2012,32,Vito Mannone,-,Italy,71
+2012,33,Robert Elliot,-,Ireland,58
+2012,34,Steve Harper,-,England,46
+2012,34,Stuart Taylor,-,England,46
+2012,36,Lukasz Fabianski,-,Poland,34
+2012,37,Lee Camp,-,Northern Ireland,29
+2012,38,Shay Given,-,Ireland,20
+2012,39,Ján Mucha,-,Slovakia,18
+2012,40,Ross Turnbull,-,England,15
+2012,41,David Stockdale,-,England,14
+2011,1,Michel Vorm,-,Netherlands,380
+2011,2,Paul Robinson,-,England,373
+2011,3,Tim Krul,Newcastle United,Netherlands,366
+2011,4,Ben Foster,-,England,363
+2011,5,Ali Al Habsi,-,Oman,349
+2011,6,Tim Howard,-,United States,340
+2011,7,John Ruddy,-,England,335
+2011,8,Brad Friedel,-,United States,326
+2011,9,Shay Given,-,Ireland,322
+2011,10,Simon Mignolet,-,Belgium,321
+2011,11,Wayne Hennessey,Wolverhampton Wanderers,Wales,311
+2011,12,Mark Schwarzer,-,Australia,300
+2011,13,Paddy Kenny,-,Ireland,299
+2011,14,Wojciech Szczesny,-,Poland,289
+2011,15,Petr Cech,-,Czech Republic,280
+2011,16,Joe Hart,-,England,266
+2011,17,David de Gea,-,Spain,264
+2011,18,Pepe Reina,-,Spain,263
+2011,19,Ádám Bogdán,-,Hungary,229
+2011,20,Jussi Jääskeläinen,-,Finland,200
+2011,21,Asmir Begovic,-,Bosnia & Herzegovina,194
+2011,22,Thomas Sørensen,-,Denmark,138
+2011,23,David Stockdale,-,England,76
+2011,24,Anders Lindegaard,-,Denmark,70
+2011,25,Keiren Westwood,-,Ireland,66
+2011,26,Brad Guzan,-,United States,59
+2011,27,Radek Cerny,-,Czech Republic,58
+2011,28,Mark Bunn,-,England,52
+2011,29,Dorus de Vries,-,Netherlands,26
+2011,30,Doni,-,Brazil,25
+2011,31,Jake Kean,-,England,19
+2011,31,Ross Turnbull,-,England,19
+2011,31,Jake Kean,-,England,19
+2011,31,Ross Turnbull,-,England,19
+2011,31,Jake Kean,-,England,19
+2011,31,Ross Turnbull,-,England,19
+2011,31,Jake Kean,-,England,19
+2011,31,Ross Turnbull,-,England,19
+2011,31,Jake Kean,-,England,19
+2011,31,Ross Turnbull,-,England,19
+2011,31,Jake Kean,-,England,19
+2011,31,Ross Turnbull,-,England,19
+2011,31,Jake Kean,-,England,19
+2011,31,Ross Turnbull,-,England,19
+2011,33,Declan Rudd,-,England,14
+2011,33,Declan Rudd,-,England,14
+2011,33,Declan Rudd,-,England,14
+2011,33,Declan Rudd,-,England,14
+2011,33,Declan Rudd,-,England,14
+2011,33,Declan Rudd,-,England,14
+2011,33,Declan Rudd,-,England,14
+2011,34,Henrique Hilário,-,Portugal,13
+2011,34,Henrique Hilário,-,Portugal,13
+2011,34,Henrique Hilário,-,Portugal,13
+2011,34,Henrique Hilário,-,Portugal,13
+2011,34,Henrique Hilário,-,Portugal,13
+2011,34,Henrique Hilário,-,Portugal,13
+2011,34,Henrique Hilário,-,Portugal,13
+2011,35,Craig Gordon,-,Scotland,11
+2011,35,Craig Gordon,-,Scotland,11
+2011,35,Craig Gordon,-,Scotland,11
+2011,35,Craig Gordon,-,Scotland,11
+2011,35,Craig Gordon,-,Scotland,11
+2011,35,Craig Gordon,-,Scotland,11
+2011,35,Craig Gordon,-,Scotland,11
+2011,36,Gerhard Tremmel,-,Germany,9
+2011,36,Gerhard Tremmel,-,Germany,9
+2011,36,Gerhard Tremmel,-,Germany,9
+2011,36,Gerhard Tremmel,-,Germany,9
+2011,36,Gerhard Tremmel,-,Germany,9
+2011,36,Gerhard Tremmel,-,Germany,9
+2011,36,Gerhard Tremmel,-,Germany,9
+2011,37,Marton Fülöp,-,Hungary,7
+2011,37,Marton Fülöp,-,Hungary,7
+2011,37,Marton Fülöp,-,Hungary,7
+2011,37,Marton Fülöp,-,Hungary,7
+2011,37,Marton Fülöp,-,Hungary,7
+2011,37,Marton Fülöp,-,Hungary,7
+2011,37,Marton Fülöp,-,Hungary,7
+2011,38,Ben Amos,-,England,4
+2011,38,Bradley Jones,-,Australia,4
+2011,38,Ben Amos,-,England,4
+2011,38,Bradley Jones,-,Australia,4
+2011,38,Ben Amos,-,England,4
+2011,38,Bradley Jones,-,Australia,4
+2011,38,Ben Amos,-,England,4
+2011,38,Bradley Jones,-,Australia,4
+2011,38,Ben Amos,-,England,4
+2011,38,Bradley Jones,-,Australia,4
+2011,38,Ben Amos,-,England,4
+2011,38,Bradley Jones,-,Australia,4
+2011,38,Ben Amos,-,England,4
+2011,38,Bradley Jones,-,Australia,4
+2011,40,Carl Ikeme,-,Nigeria,2
+2011,40,Carl Ikeme,-,Nigeria,2
+2011,40,Carl Ikeme,-,Nigeria,2
+2011,40,Carl Ikeme,-,Nigeria,2
+2011,40,Carl Ikeme,-,Nigeria,2
+2011,40,Carl Ikeme,-,Nigeria,2
+2011,40,Carl Ikeme,-,Nigeria,2
+2010,1,Ben Foster,-,England,409
+2010,2,Robert Green,-,England,389
+2010,3,Pepe Reina,-,Spain,380
+2010,4,Brad Friedel,-,United States,377
+2010,5,Tim Howard,-,United States,375
+2010,6,Joe Hart,-,England,364
+2010,7,Paul Robinson,-,England,359
+2010,8,Jussi Jääskeläinen,-,Finland,339
+2010,9,Asmir Begovic,-,Bosnia & Herzegovina,319
+2010,10,Scott Carson,-,England,315
+2010,11,Ali Al Habsi,-,Oman,314
+2010,12,Heurelho Gomes,-,Brazil,312
+2010,13,Petr Cech,-,Czech Republic,294
+2010,14,Mark Schwarzer,-,Australia,293
+2010,15,Edwin van der Sar,-,Netherlands,275
+2010,16,Wayne Hennessey,Wolverhampton Wanderers,Wales,233
+2010,17,Richard Kingson,-,Ghana,232
+2010,18,Simon Mignolet,-,Belgium,210
+2010,19,Tim Krul,Newcastle United,Netherlands,195
+2010,20,Matthew Gilks,-,Scotland,184
+2010,21,Steve Harper,-,England,164
+2010,22,Craig Gordon,-,Scotland,155
+2010,23,Marcus Hahnemann,-,United States,130
+2010,24,Wojciech Szczesny,-,Poland,112
+2010,25,Thomas Sørensen,-,Denmark,100
+2010,26,Lukasz Fabianski,Arsenal,Poland,94
+2010,27,Carlo Cudicini,-,Italy,79
+2010,28,David Stockdale,-,England,76
+2010,29,Boaz Myhill,-,Wales,52
+2010,30,Ádám Bogdán,-,Hungary,51
+2010,31,Manuel Almunia,-,Spain,50
+2010,31,Manuel Almunia,-,Spain,50
+2010,31,Manuel Almunia,-,Spain,50
+2010,31,Manuel Almunia,-,Spain,50
+2010,31,Manuel Almunia,-,Spain,50
+2010,31,Manuel Almunia,-,Spain,50
+2010,31,Manuel Almunia,-,Spain,50
+2010,32,Tomasz Kuszczak,-,Poland,48
+2010,32,Tomasz Kuszczak,-,Poland,48
+2010,32,Tomasz Kuszczak,-,Poland,48
+2010,32,Tomasz Kuszczak,-,Poland,48
+2010,32,Tomasz Kuszczak,-,Poland,48
+2010,32,Tomasz Kuszczak,-,Poland,48
+2010,32,Tomasz Kuszczak,-,Poland,48
+2010,33,Chris Kirkland,-,England,34
+2010,33,Chris Kirkland,-,England,34
+2010,33,Chris Kirkland,-,England,34
+2010,33,Chris Kirkland,-,England,34
+2010,33,Chris Kirkland,-,England,34
+2010,33,Chris Kirkland,-,England,34
+2010,33,Chris Kirkland,-,England,34
+2010,34,Mark Bunn,-,England,32
+2010,34,Mark Bunn,-,England,32
+2010,34,Mark Bunn,-,England,32
+2010,34,Mark Bunn,-,England,32
+2010,34,Mark Bunn,-,England,32
+2010,34,Mark Bunn,-,England,32
+2010,34,Mark Bunn,-,England,32
+2010,35,Paul Rachubka,-,England,15
+2010,35,Paul Rachubka,-,England,15
+2010,35,Paul Rachubka,-,England,15
+2010,35,Paul Rachubka,-,England,15
+2010,35,Paul Rachubka,-,England,15
+2010,35,Paul Rachubka,-,England,15
+2010,35,Paul Rachubka,-,England,15
+2010,36,Ruud Boffin,-,Belgium,11
+2010,36,Ruud Boffin,-,Belgium,11
+2010,36,Ruud Boffin,-,Belgium,11
+2010,36,Ruud Boffin,-,Belgium,11
+2010,36,Ruud Boffin,-,Belgium,11
+2010,36,Ruud Boffin,-,Belgium,11
+2010,36,Ruud Boffin,-,Belgium,11
+2010,37,Jens Lehmann,-,Germany,10
+2010,37,Jens Lehmann,-,Germany,10
+2010,37,Jens Lehmann,-,Germany,10
+2010,37,Jens Lehmann,-,Germany,10
+2010,37,Jens Lehmann,-,Germany,10
+2010,37,Jens Lehmann,-,Germany,10
+2010,37,Jens Lehmann,-,Germany,10
+2010,38,Mike Pollitt,-,England,6
+2010,38,Mike Pollitt,-,England,6
+2010,38,Mike Pollitt,-,England,6
+2010,38,Mike Pollitt,-,England,6
+2010,38,Mike Pollitt,-,England,6
+2010,38,Mike Pollitt,-,England,6
+2010,38,Mike Pollitt,-,England,6
+2010,39,Colin Doyle,-,Ireland,5
+2010,39,Colin Doyle,-,Ireland,5
+2010,39,Colin Doyle,-,Ireland,5
+2010,39,Colin Doyle,-,Ireland,5
+2010,39,Colin Doyle,-,Ireland,5
+2010,39,Colin Doyle,-,Ireland,5
+2010,39,Colin Doyle,-,Ireland,5
+2010,40,Mark Halstead,-,England,4
+2010,40,Mark Halstead,-,England,4
+2010,40,Mark Halstead,-,England,4
+2010,40,Mark Halstead,-,England,4
+2010,40,Mark Halstead,-,England,4
+2010,40,Mark Halstead,-,England,4
+2010,40,Mark Halstead,-,England,4
+2009,1,Jussi Jääskeläinen,-,Finland,403
+2009,2,Robert Green,-,England,400
+2009,3,Joe Hart,-,England,397
+2009,4,Brian Jensen,-,Denmark,377
+2009,5,Brad Friedel,-,United States,356
+2009,6,Tim Howard,-,United States,353
+2009,7,Mark Schwarzer,-,Australia,351
+2009,8,Thomas Sørensen,-,Denmark,345
+2009,9,Boaz Myhill,-,Wales,330
+2009,10,Shay Given,-,Ireland,325
+2009,11,Paul Robinson,-,England,300
+2009,12,Pepe Reina,-,Spain,293
+2009,13,Heurelho Gomes,-,Brazil,290
+2009,14,Craig Gordon,-,Scotland,278
+2009,15,David James,-,England,272
+2009,16,Marcus Hahnemann,-,United States,271
+2009,17,Chris Kirkland,-,England,270
+2009,18,Petr Cech,-,Czech Republic,240
+2009,19,Manuel Almunia,-,Spain,216
+2009,20,Edwin van der Sar,-,Netherlands,186
+2009,21,Marton Fülöp,-,Hungary,159
+2009,22,Asmir Begovic,-,Bosnia & Herzegovina,121
+2009,22,Wayne Hennessey,-,Wales,121
+2009,24,Matt Duke,-,England,115
+2009,25,Jamie Ashdown,-,England,83
+2009,26,Carlo Cudicini,-,Italy,68
+2009,27,Ben Foster,-,England,64
+2009,28,Tomasz Kuszczak,-,Poland,51
+2009,29,Jason Brown,-,Wales,38
+2009,30,Vito Mannone,-,Italy,34
+2009,31,Steve Simonsen,-,England,33
+2009,31,Vladimir Stojkovic,-,Serbia,33
+2009,33,Lukasz Fabianski,-,Poland,27
+2009,33,Mike Pollitt,-,England,27
+2009,35,Maik Taylor,-,Northern Ireland,25
+2009,36,Henrique Hilário,-,Portugal,23
+2009,37,Ben Alnwick,-,England,14
+2009,38,Ross Turnbull,-,England,11
+2009,39,David Stockdale,-,England,9
+2009,40,Diego Penny,-,Peru,8
+2009,41,Gunnar Nielsen,-,Faroe Islands,3
+2009,42,Peter Kurucz,-,Hungary,1
+2008,1,Thomas Sørensen,-,Denmark,433
+2008,2,Robert Green,-,England,430
+2008,3,Jussi Jääskeläinen,-,Finland,424
+2008,4,Mark Schwarzer,-,Australia,407
+2008,5,Shay Given,-,Ireland,391
+2008,6,Tim Howard,-,United States,365
+2008,7,David James,-,England,359
+2008,8,Brad Friedel,-,United States,345
+2008,9,Scott Carson,-,England,320
+2008,10,Heurelho Gomes,-,Brazil,318
+2008,11,Paul Robinson,-,England,307
+2008,12,Boaz Myhill,-,Wales,279
+2008,13,Petr Cech,-,Czech Republic,274
+2008,14,Chris Kirkland,-,England,265
+2008,15,Pepe Reina,-,Spain,263
+2008,16,Marton Fülöp,-,Hungary,260
+2008,17,Edwin van der Sar,-,Netherlands,252
+2008,18,Ross Turnbull,-,England,221
+2008,19,Manuel Almunia,-,Spain,213
+2008,20,Joe Hart,-,England,200
+2008,21,Steve Harper,-,England,179
+2008,22,Bradley Jones,-,Australia,135
+2008,23,Craig Gordon,-,Scotland,130
+2008,24,Matt Duke,-,England,105
+2008,25,Carlo Cudicini,-,Italy,52
+2008,26,Lukasz Fabianski,-,Poland,43
+2008,27,Asmir Begovic,-,Bosnia & Herzegovina,36
+2008,28,Tomasz Kuszczak,-,Poland,34
+2008,29,Richard Kingson,-,Ghana,31
+2008,30,Jason Brown,-,Wales,29
+2008,30,Dean Kiely,-,Ireland,29
+2008,32,Steve Simonsen,-,England,28
+2008,33,Ben Foster,-,England,24
+2008,34,Mike Pollitt,-,England,20
+2008,35,Henrique Hilário,-,Portugal,13
+2008,36,Kasper Schmeichel,-,Denmark,8
+2008,37,Vito Mannone,-,Italy,3
+2008,38,Brad Guzan,-,United States,2
+2007,1,Tim Howard,-,United States,400
+2007,2,David James,-,England,393
+2007,3,Maik Taylor,-,Northern Ireland,356
+2007,4,Robert Green,-,England,349
+2007,5,Marcus Hahnemann,-,United States,343
+2007,6,Scott Carson,-,England,336
+2007,7,Chris Kirkland,-,England,330
+2007,8,Mark Schwarzer,-,Australia,308
+2007,9,Brad Friedel,-,United States,306
+2007,10,Craig Gordon,-,Scotland,301
+2007,11,Pepe Reina,-,Spain,280
+2007,12,Joe Hart,-,England,265
+2007,13,Antti Niemi,-,Finland,247
+2007,14,Edwin van der Sar,-,Netherlands,237
+2007,15,Petr Cech,-,Czech Republic,233
+2007,16,Jussi Jääskeläinen,-,Finland,230
+2007,17,Manuel Almunia,-,Spain,226
+2007,18,Steve Harper,-,England,206
+2007,19,Paul Robinson,-,England,202
+2007,20,Stephen Bywater,-,England,181
+2007,21,Shay Given,-,Ireland,161
+2007,22,Roy Carroll,-,Northern Ireland,142
+2007,23,Kasey Keller,-,United States,140
+2007,24,Radek Cerny,-,Czech Republic,131
+2007,25,Ali Al Habsi,-,Oman,105
+2007,26,Tomasz Kuszczak,-,Poland,74
+2007,27,Carlo Cudicini,-,Italy,71
+2007,28,Lewis Price,-,Wales,68
+2007,28,Kasper Schmeichel,-,Denmark,68
+2007,30,Jens Lehmann,-,Germany,49
+2007,31,Colin Doyle,-,Ireland,39
+2007,31,Andreas Isaksson,-,Sweden,39
+2007,31,Stuart Taylor,-,England,39
+2007,34,Darren Ward,-,Wales,29
+2007,35,Ross Turnbull,-,England,26
+2007,35,Tony Warner,-,Trinidad & Tobago,26
+2007,37,Jamie Ashdown,-,England,24
+2007,38,Henrique Hilário,-,Portugal,21
+2007,39,Lukasz Fabianski,-,Poland,20
+2007,39,Stefan Wessels,-,Germany,20
+2007,41,Mike Pollitt,-,England,11
+2007,42,Bradley Jones,-,Australia,10
+2007,43,Richard Kingson,-,Ghana,9
+2007,44,Ben Foster,-,England,6
+2007,45,Marton Fülöp,-,Hungary,5
+2006,1,Jussi Jääskeläinen,-,Finland,415
+2006,2,Scott Carson,-,England,414
+2006,3,David James,-,England,401
+2006,4,Tim Howard,-,United States,398
+2006,5,Paul Robinson,-,England,383
+2006,6,Mark Schwarzer,-,Australia,381
+2006,7,Marcus Hahnemann,-,United States,380
+2006,8,Brad Friedel,-,United States,355
+2006,9,Antti Niemi,-,Finland,351
+2006,10,Jens Lehmann,-,Germany,337
+2006,11,Paddy Kenny,-,Ireland,323
+2006,12,Thomas Sørensen,-,Denmark,299
+2006,13,Robert Green,-,England,298
+2006,14,Ben Foster,-,England,289
+2006,15,Pepe Reina,-,Spain,263
+2006,16,Edwin van der Sar,-,Netherlands,255
+2006,17,Nicky Weaver,-,England,240
+2006,18,Shay Given,-,Ireland,224
+2006,19,Chris Kirkland,-,England,201
+2006,20,Steve Harper,-,England,189
+2006,21,Petr Cech,-,Czech Republic,162
+2006,22,Roy Carroll,-,Northern Ireland,137
+2006,23,Andreas Isaksson,-,Sweden,130
+2006,24,Richard Lee,-,England,105
+2006,25,Henrique Hilário,-,Portugal,91
+2006,26,John Filan,-,Australia,88
+2006,27,Jan Lastuvka,-,Czech Republic,81
+2006,28,Carlo Cudicini,-,Italy,67
+2006,29,Tomasz Kuszczak,-,Poland,60
+2006,30,Stuart Taylor,-,England,54
+2006,31,Gábor Király,-,Hungary,52
+2006,32,Bradley Jones,-,Australia,29
+2006,33,Mike Pollitt,-,England,23
+2006,34,Paul Gerrard,-,England,22
+2006,35,Ian Bennett,-,England,20
+2006,36,Adam Federici,-,Australia,19
+2006,37,Darren Randolph,-,Ireland,18
+2006,38,Mart Poom,-,Estonia,17
+2006,39,Richard Wright,-,England,14
+2006,40,Thomas Myhre,-,Norway,13
+2006,41,Jerzy Dudek,-,Poland,12
+2006,41,Pavel Srnicek,-,Czech Republic,12
+2006,41,Iain Turner,-,Scotland,12
+2006,44,Daniele Padelli,-,Italy,11
+2006,45,Manuel Almunia,-,Spain,10
+2006,46,Jason Brown,-,Wales,9
+2006,47,Joe Hart,-,England,7

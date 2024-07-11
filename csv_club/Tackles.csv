@@ -1,0 +1,341 @@
+Initial Year,Rank,Club,Stat
+2022,1,Leeds United,840
+2022,2,Chelsea,740
+2022,3,Southampton,713
+2022,4,Everton,708
+2022,5,Leicester City,700
+2022,6,Crystal Palace,690
+2022,7,Wolverhampton Wanderers,661
+2022,8,Nottingham Forest,660
+2022,9,Manchester United,658
+2022,10,Aston Villa,632
+2022,11,Fulham,626
+2022,12,Bournemouth,618
+2022,13,Tottenham Hotspur,617
+2022,14,Brighton & Hove Albion,616
+2022,15,West Ham United,608
+2022,16,Newcastle United,607
+2022,17,Liverpool,590
+2022,18,Brentford,587
+2022,19,Arsenal,568
+2022,20,Manchester City,471
+2021,1,Leeds United,786
+2021,2,Everton,705
+2021,3,Leicester City,690
+2021,4,Wolverhampton Wanderers,673
+2021,5,Brighton & Hove Albion,668
+2021,6,Newcastle United,659
+2021,7,Crystal Palace,636
+2021,8,Aston Villa,634
+2021,9,Chelsea,621
+2021,10,Norwich City,614
+2021,11,Watford,614
+2021,12,Brentford,607
+2021,13,Southampton,602
+2021,14,Tottenham Hotspur,598
+2021,15,Burnley,589
+2021,16,Manchester United,585
+2021,17,Liverpool,554
+2021,18,Arsenal,540
+2021,19,West Ham United,534
+2021,20,Manchester City,498
+2020,1,Leeds United,740
+2020,2,Southampton,727
+2020,3,Leicester City,681
+2020,4,Everton,640
+2020,5,Crystal Palace,636
+2020,6,Tottenham Hotspur,636
+2020,7,Sheffield United,634
+2020,8,Brighton & Hove Albion,628
+2020,9,Chelsea,612
+2020,10,Fulham,601
+2020,11,Wolverhampton Wanderers,588
+2020,12,West Bromwich Albion,581
+2020,13,Manchester United,551
+2020,14,Aston Villa,530
+2020,15,Liverpool,526
+2020,16,West Ham United,514
+2020,17,Newcastle United,512
+2020,18,Burnley,507
+2020,19,Manchester City,498
+2020,20,Arsenal,456
+2019,1,Leicester City,742
+2019,2,Southampton,706
+2019,3,West Ham United,696
+2019,4,Crystal Palace,686
+2019,5,Everton,671
+2019,6,Tottenham Hotspur,665
+2019,7,Watford,657
+2019,8,Wolverhampton Wanderers,646
+2019,9,Brighton & Hove Albion,641
+2019,10,Chelsea,638
+2019,11,Norwich City,628
+2019,12,Sheffield United,611
+2019,13,Newcastle United,603
+2019,14,Arsenal,584
+2019,15,Manchester United,580
+2019,16,Liverpool,550
+2019,17,Burnley,547
+2019,18,Aston Villa,523
+2019,19,Manchester City,514
+2019,20,Bournemouth,507
+2018,1,Crystal Palace,730
+2018,2,West Ham United,723
+2018,3,Wolverhampton Wanderers,720
+2018,4,Newcastle United,714
+2018,5,Huddersfield Town,710
+2018,6,Everton,700
+2018,7,Southampton,699
+2018,8,Brighton & Hove Albion,681
+2018,9,Leicester City,676
+2018,10,Cardiff City,655
+2018,11,Watford,655
+2018,12,Tottenham Hotspur,626
+2018,13,Chelsea,618
+2018,14,Liverpool,610
+2018,15,Arsenal,609
+2018,16,Fulham,591
+2018,17,Burnley,583
+2018,18,Manchester United,581
+2018,19,Bournemouth,526
+2018,20,Manchester City,518
+2017,1,Huddersfield Town,744
+2017,2,Crystal Palace,685
+2017,3,Stoke City,678
+2017,4,Watford,668
+2017,5,Southampton,658
+2017,6,Everton,644
+2017,7,Newcastle United,644
+2017,8,Liverpool,637
+2017,9,Chelsea,636
+2017,10,Leicester City,630
+2017,11,Arsenal,623
+2017,12,West Ham United,621
+2017,13,Tottenham Hotspur,618
+2017,14,Swansea City,610
+2017,15,West Bromwich Albion,604
+2017,16,Brighton & Hove Albion,599
+2017,17,Manchester United,564
+2017,18,Manchester City,563
+2017,19,Burnley,533
+2017,20,Bournemouth,508
+2016,1,Middlesbrough,727
+2016,2,Liverpool,718
+2016,3,Everton,714
+2016,4,Crystal Palace,698
+2016,5,Manchester United,690
+2016,6,Leicester City,677
+2016,7,Southampton,675
+2016,8,Arsenal,674
+2016,9,Stoke City,665
+2016,10,Tottenham Hotspur,661
+2016,11,Chelsea,652
+2016,12,Manchester City,642
+2016,13,Burnley,639
+2016,14,Hull City,637
+2016,15,Swansea City,634
+2016,16,Sunderland,630
+2016,17,Watford,618
+2016,18,West Bromwich Albion,607
+2016,19,Bournemouth,605
+2016,20,West Ham United,575
+2015,1,Liverpool,871
+2015,2,Leicester City,869
+2015,3,Tottenham Hotspur,805
+2015,4,Watford,794
+2015,5,Newcastle United,793
+2015,6,Chelsea,790
+2015,7,Sunderland,767
+2015,8,Manchester United,760
+2015,9,Aston Villa,731
+2015,10,Everton,730
+2015,11,Manchester City,729
+2015,12,Southampton,714
+2015,13,West Ham United,711
+2015,14,Stoke City,710
+2015,15,Arsenal,709
+2015,16,Bournemouth,709
+2015,17,Crystal Palace,649
+2015,18,West Bromwich Albion,642
+2015,19,Swansea City,638
+2015,20,Norwich City,608
+2014,1,Newcastle United,824
+2014,2,Tottenham Hotspur,815
+2014,3,Southampton,813
+2014,4,Liverpool,798
+2014,5,Crystal Palace,791
+2014,6,Leicester City,791
+2014,7,Queens Park Rangers,781
+2014,8,Hull City,763
+2014,9,Chelsea,759
+2014,10,Sunderland,759
+2014,11,Manchester City,751
+2014,12,Arsenal,739
+2014,13,Manchester United,739
+2014,14,Stoke City,729
+2014,15,West Bromwich Albion,696
+2014,16,Everton,657
+2014,17,West Ham United,647
+2014,18,Swansea City,634
+2014,19,Aston Villa,623
+2014,20,Burnley,615
+2013,1,Liverpool,848
+2013,2,Crystal Palace,845
+2013,3,Southampton,805
+2013,4,Stoke City,791
+2013,5,Manchester City,756
+2013,6,Tottenham Hotspur,750
+2013,7,Aston Villa,747
+2013,8,Everton,744
+2013,9,Newcastle United,736
+2013,10,Chelsea,733
+2013,11,Hull City,723
+2013,12,Arsenal,714
+2013,13,Fulham,702
+2013,14,Sunderland,702
+2013,15,West Bromwich Albion,701
+2013,16,Manchester United,676
+2013,17,Norwich City,675
+2013,18,Swansea City,674
+2013,19,West Ham United,651
+2013,20,Cardiff City,619
+2012,1,Southampton,819
+2012,2,Queens Park Rangers,818
+2012,3,Liverpool,795
+2012,4,Sunderland,784
+2012,5,Arsenal,748
+2012,6,Tottenham Hotspur,745
+2012,7,Aston Villa,741
+2012,8,Newcastle United,732
+2012,9,Manchester United,731
+2012,10,Stoke City,728
+2012,11,West Ham United,728
+2012,12,Everton,720
+2012,13,Wigan Athletic,716
+2012,14,Chelsea,710
+2012,15,West Bromwich Albion,698
+2012,16,Swansea City,686
+2012,17,Manchester City,683
+2012,18,Fulham,680
+2012,19,Norwich City,676
+2012,20,Reading,602
+2011,1,Sunderland,824
+2011,2,Manchester United,803
+2011,3,Aston Villa,774
+2011,4,Queens Park Rangers,764
+2011,5,Arsenal,751
+2011,6,Newcastle United,744
+2011,7,Tottenham Hotspur,733
+2011,8,Bolton Wanderers,732
+2011,9,Wigan Athletic,729
+2011,10,Liverpool,728
+2011,11,Swansea City,709
+2011,12,Chelsea,698
+2011,13,Manchester City,694
+2011,14,Norwich City,692
+2011,15,Blackburn Rovers,690
+2011,16,West Bromwich Albion,683
+2011,17,Fulham,669
+2011,18,Stoke City,655
+2011,19,Everton,624
+2011,20,Wolverhampton Wanderers,619
+2010,1,Bolton Wanderers,939
+2010,2,Wigan Athletic,914
+2010,3,Liverpool,908
+2010,4,Aston Villa,844
+2010,5,Manchester City,826
+2010,6,Sunderland,820
+2010,7,Fulham,799
+2010,8,West Ham United,783
+2010,9,Blackpool,780
+2010,10,Arsenal,772
+2010,11,Chelsea,769
+2010,12,Everton,768
+2010,13,Tottenham Hotspur,754
+2010,14,Blackburn Rovers,748
+2010,15,West Bromwich Albion,725
+2010,16,Stoke City,716
+2010,17,Manchester United,693
+2010,18,Wolverhampton Wanderers,677
+2010,19,Birmingham City,668
+2010,20,Newcastle United,666
+2009,1,Liverpool,958
+2009,2,Bolton Wanderers,912
+2009,3,Wigan Athletic,908
+2009,4,Sunderland,890
+2009,5,Aston Villa,880
+2009,6,Tottenham Hotspur,844
+2009,7,West Ham United,830
+2009,8,Manchester United,828
+2009,9,Arsenal,818
+2009,10,Manchester City,802
+2009,11,Birmingham City,785
+2009,12,Portsmouth,774
+2009,13,Chelsea,772
+2009,14,Everton,768
+2009,15,Hull City,760
+2009,16,Fulham,745
+2009,17,Stoke City,724
+2009,18,Blackburn Rovers,709
+2009,19,Wolverhampton Wanderers,705
+2009,20,Burnley,686
+2008,1,Aston Villa,982
+2008,2,Manchester City,939
+2008,3,Wigan Athletic,934
+2008,4,Liverpool,927
+2008,5,Portsmouth,922
+2008,6,West Ham United,896
+2008,7,Bolton Wanderers,890
+2008,8,Sunderland,888
+2008,9,Arsenal,875
+2008,10,Blackburn Rovers,824
+2008,11,Fulham,812
+2008,12,Hull City,811
+2008,13,West Bromwich Albion,803
+2008,14,Middlesbrough,784
+2008,15,Tottenham Hotspur,781
+2008,16,Everton,775
+2008,17,Chelsea,773
+2008,18,Manchester United,741
+2008,19,Newcastle United,735
+2008,20,Stoke City,688
+2007,1,Liverpool,"1,089"
+2007,2,Manchester United,978
+2007,3,Portsmouth,963
+2007,4,Tottenham Hotspur,960
+2007,5,Birmingham City,935
+2007,6,Chelsea,917
+2007,7,Manchester City,916
+2007,8,Derby County,898
+2007,9,Sunderland,892
+2007,10,Aston Villa,885
+2007,11,Wigan Athletic,883
+2007,12,Arsenal,878
+2007,13,Newcastle United,876
+2007,14,Bolton Wanderers,866
+2007,15,Fulham,851
+2007,16,West Ham United,848
+2007,17,Middlesbrough,835
+2007,18,Blackburn Rovers,833
+2007,19,Everton,816
+2007,20,Reading,800
+2006,1,Arsenal,998
+2006,2,Tottenham Hotspur,995
+2006,3,Manchester City,986
+2006,4,Chelsea,982
+2006,5,Liverpool,969
+2006,6,Newcastle United,965
+2006,7,Portsmouth,948
+2006,8,Aston Villa,936
+2006,9,Charlton Athletic,919
+2006,10,Sheffield United,917
+2006,11,Fulham,901
+2006,12,Manchester United,890
+2006,13,Blackburn Rovers,864
+2006,14,Everton,860
+2006,15,West Ham United,860
+2006,16,Reading,855
+2006,17,Middlesbrough,841
+2006,18,Bolton Wanderers,811
+2006,19,Wigan Athletic,809
+2006,20,Watford,744
