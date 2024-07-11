@@ -135,12 +135,9 @@ def main():
         inicio,meio,meio2,fim = 0,12,24,36
         Player_Or_Club = 1
         
-    processo1 = Process(target=Scrap, args=(5, 6,5,url,caminho,Player_Or_Club))
-    processo2 = Process(target=Scrap, args=(25, 26,5,url,caminho,Player_Or_Club))
-    processo3 = Process(target=Scrap, args=(29, 30,5,url,caminho,Player_Or_Club))
-    '''processo1 = Process(target=Scrap, args=(inicio, meio,5,url,caminho,Player_Or_Club))
+    processo1 = Process(target=Scrap, args=(inicio, meio,5,url,caminho,Player_Or_Club))
     processo2 = Process(target=Scrap, args=(meio, meio2,5,url,caminho,Player_Or_Club))
-    processo3 = Process(target=Scrap, args=(meio2, fim,5,url,caminho,Player_Or_Club))'''
+    processo3 = Process(target=Scrap, args=(meio2, fim,5,url,caminho,Player_Or_Club))
 
     
     # Iniciar os processos
